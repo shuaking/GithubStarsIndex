@@ -1,6 +1,6 @@
 # ⭐ GitHub Stars Index
 
-> Updated: 2026-03-01 14:44 UTC · Total: 336
+> Updated: 2026-03-01 14:49 UTC · Total: 336
 
 ---
 
@@ -347,10 +347,10 @@
 ## golutra/golutra
 
 > [!info]
-> ⭐ 517 · Rust · 2026-03-01  
+> ⭐ 519 · Rust · 2026-03-01  
 > [GitHub](https://github.com/golutra/golutra) · [Website](https://www.golutra.com)  
-> 
-> Generation failed
+> `#AI Agents` `#CLI Integration` `#Multi-Agent Collaboration` 
+> golutra is a next-generation multi-agent workspace that transforms existing CLI tools into a unified AI collaboration hub. It supports seamless integration with popular CLIs like Claude, Gemini, and Codex, enabling parallel multi-agent execution, automated orchestration, and real-time log tracking. Built with Vue 3 and Rust as a Tauri desktop app for Windows and macOS, it enhances 'one person + one editor' into 'one person + an AI squad' by replacing manual context switching with coordinated automation.
 
 ---
 ## iblogc/GithubStarsIndex
@@ -358,8 +358,8 @@
 > [!info]
 > ⭐ 45 · Jinja · 2026-03-01  
 > [GitHub](https://github.com/iblogc/GithubStarsIndex) · [Website](https://stars.iblogc.com)  
-> 
-> Generation failed
+> `#AI 智能体` `#Automation Tool` `#Data Archiving` 
+> GitHub Stars Index automates the collection of GitHub Stars, generates AI-powered summaries and tech tags for each repository, supports incremental updates, multi-language output, Obsidian sync, and GitHub Pages deployment, ideal for personal knowledge management and technical archiving.
 > <sub>自动抓取 GitHub Stars，生成 AI 摘要，便于检索。</sub>
 
 ---
@@ -368,8 +368,8 @@
 > [!info]
 > ⭐ 12 · JavaScript · 2026-02-26  
 > [GitHub](https://github.com/wrenfix/oag) · [Website](https://wrenfix.github.io/oag/)  
-> 
-> Generation failed
+> `#AI 智能体` `#CLI Tool` `#Configuration Automation` 
+> oag is a lightweight CLI tool for managing a Git-based AI asset registry, enabling one-command installation and update of agents, skills, and MCP configs into local environments like Claude, Codex, and OpenCode for consistent setup and faster team collaboration.
 > <sub>oag is a lightweight CLI for managing a Git-based AI asset registry, enabling one-command install and   update of agents, skills, and MCP configs into local environments like Claude, Codex, and OpenCode for   consistent setup and faster team collaboration.</sub>
 
 ---
@@ -378,8 +378,8 @@
 > [!info]
 > ⭐ 39 · JavaScript · 2026-02-26  
 > [GitHub](https://github.com/Inert0x/FreeProxyProxy)  
-> 
-> Generation failed
+> `#HTTPS Tunneling` `#Node.js` `#Proxy Tool` 
+> autoproxy is a local HTTPS proxy relay built with Node.js that automatically fetches and filters public proxies supporting Google and HTTPS from free-proxy-list.net. It builds a trusted proxy pool, tunnels HTTPS traffic via CONNECT, supports auto-refresh and round-robin routing, and is intended solely for learning and research purposes.
 > <sub>A Proxy for Free Proxies [DOGE]</sub>
 
 ---
@@ -388,15 +388,15 @@
 > [!info]
 > ⭐ 1,014 · TypeScript · 2026-03-01  
 > [GitHub](https://github.com/poco-ai/poco-agent) · [Website](https://poco-ai.com)  
-> `#agent` `#ai` `#chatbot` `#claude-code` `#clawdbot` `#manus` `#openclaw` 
-> Generation failed
+> `#AI 智能体` `#FastAPI` `#Zero-Config Deployment` `#容器化` `#agent` `#ai` `#chatbot` `#claude-code` `#clawdbot` `#manus` `#openclaw` 
+> Poco is a safer, more beautiful, and easier-to-use alternative to OpenClaw, powered by a Claude Code–based agent. It features a secure sandboxed runtime, a modern Web UI with mobile support, built-in IM, browser autonomy, GitHub integration, and extensibility via MCP/Skills. Zero-configuration Docker deployment enables instant setup and background task execution.
 > <sub>A more beautiful and easier-to-use alternative to OpenClaw. It features a nicer Web UI, built-in IM support, and a sandboxed runtime for improved safety. Under the hood, it is powered by a Claude Code–based agent.</sub>
 
 ---
 ## waoowaooAI/waoowaoo
 
 > [!info]
-> ⭐ 4,233 · TypeScript · 2026-02-28  
+> ⭐ 4,242 · TypeScript · 2026-02-28  
 > [GitHub](https://github.com/waoowaooAI/waoowaoo)  
 > `#AI 智能体` `#Automated Video Generation` `#Video Production` 
 > waoowaoo AI Studio is the first industrial-grade, end-to-end controllable collaborative AI agent platform for professional film and TV production, supporting full-process creation from short films to anime series and feature films. It automatically generates storyboards, characters, and scenes from novel text and assembles them into complete videos, following Hollywood-level production workflows.
@@ -771,7 +771,7 @@
 ## anthropics/skills
 
 > [!info]
-> ⭐ 80,006 · Python · 2026-02-25  
+> ⭐ 80,011 · Python · 2026-02-25  
 > [GitHub](https://github.com/anthropics/skills)  
 > `#AI 智能体` `#Document Processing` `#Skill System` `#agent-skills` 
 > Anthropic's public repository for Agent Skills provides Claude with dynamic, modular capabilities across document processing, development tools, and enterprise workflows, enabling specialized task automation through customizable, production-grade skill modules.
@@ -1228,7 +1228,7 @@
 ## iOfficeAI/AionUi
 
 > [!info]
-> ⭐ 17,493 · TypeScript · 2026-03-01  
+> ⭐ 17,496 · TypeScript · 2026-03-01  
 > [GitHub](https://github.com/iOfficeAI/AionUi) · [Website](https://www.aionui.com)  
 > `#AI Agents` `#Automation Tool` `#Cross-Platform` `#acp` `#ai` `#ai-agent` `#chat` `#chatbot` `#claude-code` `#clawd` `#clawdbot` `#codex` `#cowork` `#gemini` `#gemini-cli` `#llm` `#nano-banana` `#office` `#openclaw` `#opencode` `#skills` `#webui` 
 > AionUi is a free, open-source AI coworking app that enables 24/7 automation with built-in multi-agent support (e.g., Claude Code, OpenClaw, Qwen Code). It offers zero-setup local execution, cross-platform compatibility, remote access via WebUI/Telegram, and scheduled task automation for coding, file operations, and workflow management.
@@ -1328,7 +1328,7 @@
 ## sansan0/TrendRadar
 
 > [!info]
-> ⭐ 47,635 · Python · 2026-03-01  
+> ⭐ 47,636 · Python · 2026-03-01  
 > [GitHub](https://github.com/sansan0/TrendRadar) · [Website](https://sansan0.github.io/TrendRadar/)  
 > `#AI 智能体` `#Multi-Platform Aggregation` `#Public Opinion Monitoring` `#Smart Notifications` `#ai` `#bark` `#data-analysis` `#docker` `#hot-news` `#llm` `#mail` `#mcp` `#mcp-server` `#news` `#ntfy` `#python` `#rss` `#trending-topics` `#wechat` `#wework` 
 > TrendRadar is an AI-powered public opinion and trend monitoring tool that aggregates multi-platform hot topics, RSS feeds, and offers smart keyword filtering. It delivers AI-translated analysis briefs via 8+ notification channels (WeChat, Feishu, DingTalk, etc.), supports Docker deployment and MCP architecture for AI-driven sentiment analysis and trend forecasting, with a 30-second setup.
@@ -1377,7 +1377,7 @@
 ## x1xhlol/system-prompts-and-models-of-ai-tools
 
 > [!info]
-> ⭐ 126,718 · N/A · 2026-02-17  
+> ⭐ 126,723 · N/A · 2026-02-17  
 > [GitHub](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)  
 > `#AI Coding Agents` `#Development Tool Architecture` `#System Prompt Engineering` `#ai` `#bolt` `#cluely` `#copilot` `#cursor` `#cursorai` `#devin` `#github-copilot` `#lovable` `#open-source` `#perplexity` `#replit` `#system-prompts` `#trae` `#trae-ai` `#trae-ide` `#v0` `#vscode` `#windsurf` `#windsurf-ai` 
 > This repository contains over 30,000 lines of insights into system prompts, internal tools, and AI models of major AI coding agents (e.g., Claude Code, Cursor, Devin AI), offering deep technical analysis of their architecture, functionality, and design principles for developers seeking to understand and leverage AI-powered development tools.
@@ -2334,7 +2334,7 @@
 ## dreamhunter2333/cloudflare_temp_email
 
 > [!info]
-> ⭐ 6,250 · Vue · 2026-02-25  
+> ⭐ 6,251 · Vue · 2026-02-25  
 > [GitHub](https://github.com/dreamhunter2333/cloudflare_temp_email) · [Website](https://mail.awsl.uk)  
 > `#Cloudflare Workers` `#Email Service` `#Temporary Email` `#cloudflare-email` `#cloudflare-pages` `#cloudflare-workers` `#email` `#free` 
 > A fully-featured free temporary email service built on Cloudflare Workers, supporting email sending/receiving, attachments, IMAP/SMTP protocols, and Telegram bot notifications. Uses Rust WASM for high-performance email parsing, offers a modern responsive UI with multi-language support, and enables password protection for email addresses—all at zero cost with no server required.
@@ -2543,7 +2543,7 @@
 ## wzdnzd/aggregator
 
 > [!info]
-> ⭐ 6,231 · Python · 2026-02-24  
+> ⭐ 6,232 · Python · 2026-02-24  
 > [GitHub](https://github.com/wzdnzd/aggregator) · [Website](https://github.com/wzdnzd/aggregator)  
 > `#Automation Tool` `#Data Aggregation` `#Proxy Pool` `#Web Crawler` `#proxypool` 
 > Aggregator is a powerful free proxy pool builder that crawls proxy resources from multiple platforms like Telegram and GitHub, automatically validates quality, and converts them into formats such as Clash and V2Ray. It supports flexible storage backends like GitHub Gist and is ideal for personal and enterprise proxy subscription management.
@@ -2820,7 +2820,7 @@
 ## clash-verge-rev/clash-verge-rev
 
 > [!info]
-> ⭐ 99,609 · TypeScript · 2026-03-01  
+> ⭐ 99,612 · TypeScript · 2026-03-01  
 > [GitHub](https://github.com/clash-verge-rev/clash-verge-rev) · [Website](https://www.clashverge.dev)  
 > `#Cross-Platform Desktop App` `#Proxy Tool` `#Tauri 框架` `#clash` `#clash-meta` `#clash-verge` `#linux` `#mac` `#mihomo` `#tauri-app` `#windows` 
 > Clash Verge Rev is a modern GUI client for Clash.Meta (mihomo) built with Tauri 2 and Rust, offering cross-platform support (Windows, macOS, Linux), intuitive UI, config management, TUN mode, WebDav sync, and customizable themes for advanced proxy control.

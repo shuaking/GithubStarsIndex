@@ -1,6 +1,6 @@
 # ⭐ GitHub Stars Index
 
-> Updated: 2026-03-01 14:44 UTC · Total: 336
+> Updated: 2026-03-01 14:49 UTC · Total: 336
 
 ---
 
@@ -347,10 +347,10 @@
 ## golutra/golutra
 
 > [!info]
-> ⭐ 517 · Rust · 2026-03-01  
+> ⭐ 519 · Rust · 2026-03-01  
 > [GitHub](https://github.com/golutra/golutra) · [Website](https://www.golutra.com)  
-> 
-> 生成失败
+> `#AI智能体` `#CLI工具集成` `#多智能体协作` 
+> golutra 是一款下一代多智能体协作工作台，将现有 CLI 工具升级为统一的 AI 协作枢纽。支持 Claude、Gemini、Codex 等主流 CLI 的无缝集成，实现多智能体并行执行、自动化编排和实时日志监控。基于 Vue 3 + Rust 的 Tauri 桌面应用，保留命令行操作习惯的同时，提供可视化界面与智能调度能力，将单人开发升级为‘一人+AI团队’的高效工作模式。
 
 ---
 ## iblogc/GithubStarsIndex
@@ -358,8 +358,8 @@
 > [!info]
 > ⭐ 45 · Jinja · 2026-03-01  
 > [GitHub](https://github.com/iblogc/GithubStarsIndex) · [Website](https://stars.iblogc.com)  
-> 
-> 生成失败
+> `#AI智能体` `#数据归档` `#自动化工具` 
+> GitHub Stars Index 是一个自动化工具，用于抓取 GitHub 用户的 Star 仓库，通过 AI 生成摘要和技术标签，并支持增量更新、多语言输出、Obsidian 同步及 GitHub Pages 部署，适用于个人知识管理和技术归档。
 > <sub>自动抓取 GitHub Stars，生成 AI 摘要，便于检索。</sub>
 
 ---
@@ -368,8 +368,8 @@
 > [!info]
 > ⭐ 12 · JavaScript · 2026-02-26  
 > [GitHub](https://github.com/wrenfix/oag) · [Website](https://wrenfix.github.io/oag/)  
-> 
-> 生成失败
+> `#AI智能体` `#CLI工具` `#自动化配置` 
+> oag 是一个轻量级 CLI 工具，用于管理基于 Git 的 AI 资产注册表，支持一键安装、更新代理、技能及 MCP 配置到 Claude、Codex 和 OpenCode 等本地环境，提升团队协作效率与配置一致性。
 > <sub>oag is a lightweight CLI for managing a Git-based AI asset registry, enabling one-command install and   update of agents, skills, and MCP configs into local environments like Claude, Codex, and OpenCode for   consistent setup and faster team collaboration.</sub>
 
 ---
@@ -378,8 +378,8 @@
 > [!info]
 > ⭐ 39 · JavaScript · 2026-02-26  
 > [GitHub](https://github.com/Inert0x/FreeProxyProxy)  
-> 
-> 生成失败
+> `#HTTPS隧道` `#Node.js` `#代理工具` 
+> autoproxy 是一个基于 Node.js 的本地 HTTPS 代理中继工具，自动从 free-proxy-list.net 抓取并筛选支持 Google 和 HTTPS 的公共代理，构建可信代理池。通过 CONNECT 协议实现 HTTPS 隧道转发，支持自动刷新和负载均衡，适用于学习与研究场景，不推荐用于生产环境。
 > <sub>A Proxy for Free Proxies [DOGE]</sub>
 
 ---
@@ -388,15 +388,15 @@
 > [!info]
 > ⭐ 1,014 · TypeScript · 2026-03-01  
 > [GitHub](https://github.com/poco-ai/poco-agent) · [Website](https://poco-ai.com)  
-> `#agent` `#ai` `#chatbot` `#claude-code` `#clawdbot` `#manus` `#openclaw` 
-> 生成失败
+> `#AI智能体` `#Docker容器化` `#FastAPI` `#零配置部署` `#agent` `#ai` `#chatbot` `#claude-code` `#clawdbot` `#manus` `#openclaw` 
+> Poco 是一个比 OpenClaw 更安全、美观且易用的 AI 智能体工具，基于 Claude Code 构建。它提供隔离沙箱运行环境保障安全，支持美观的 Web 界面和移动端访问，内置即时通讯、浏览器自主研究、GitHub 仓库连接等功能，支持异步任务和 MCP/Skills 扩展，开箱即用，无需复杂配置。
 > <sub>A more beautiful and easier-to-use alternative to OpenClaw. It features a nicer Web UI, built-in IM support, and a sandboxed runtime for improved safety. Under the hood, it is powered by a Claude Code–based agent.</sub>
 
 ---
 ## waoowaooAI/waoowaoo
 
 > [!info]
-> ⭐ 4,233 · TypeScript · 2026-02-28  
+> ⭐ 4,242 · TypeScript · 2026-02-28  
 > [GitHub](https://github.com/waoowaooAI/waoowaoo)  
 > `#AI智能体` `#影视制作` `#自动化视频生成` 
 > waoowaoo AI 影视 Studio 是首家工业级全流程可控协作式专业 AI 智能体影视生产平台，支持从小说文本自动生成分镜、角色、场景并制作成完整视频，涵盖短片到漫剧再到真人级影视剧的全流程制作，采用好莱坞专业制作团队思路，提供虚拟制片场体验。
@@ -771,7 +771,7 @@
 ## anthropics/skills
 
 > [!info]
-> ⭐ 80,006 · Python · 2026-02-25  
+> ⭐ 80,011 · Python · 2026-02-25  
 > [GitHub](https://github.com/anthropics/skills)  
 > `#AI智能体` `#技能系统` `#文档处理` `#agent-skills` 
 > Anthropic 公开 Claude 智能体技能库，提供文档处理、开发工具、企业工作流等多样化技能模板，支持动态加载与自定义扩展，助力 AI 智能体实现专业化任务自动化。
@@ -1228,7 +1228,7 @@
 ## iOfficeAI/AionUi
 
 > [!info]
-> ⭐ 17,493 · TypeScript · 2026-03-01  
+> ⭐ 17,496 · TypeScript · 2026-03-01  
 > [GitHub](https://github.com/iOfficeAI/AionUi) · [Website](https://www.aionui.com)  
 > `#AI智能体` `#自动化工具` `#跨平台` `#acp` `#ai` `#ai-agent` `#chat` `#chatbot` `#claude-code` `#clawd` `#clawdbot` `#codex` `#cowork` `#gemini` `#gemini-cli` `#llm` `#nano-banana` `#office` `#openclaw` `#opencode` `#skills` `#webui` 
 > AionUi 是一款免费、开源的 AI 协作者应用，支持 24/7 自动化，内置多 AI 智能体（如 Claude Code、OpenClaw、Qwen Code 等），提供跨平台（macOS/Windows/Linux）本地运行、零配置启动、远程访问（WebUI/Telegram/Lark）和任务调度功能，适用于代码开发、文件处理与自动化工作流。
@@ -1328,7 +1328,7 @@
 ## sansan0/TrendRadar
 
 > [!info]
-> ⭐ 47,635 · Python · 2026-03-01  
+> ⭐ 47,636 · Python · 2026-03-01  
 > [GitHub](https://github.com/sansan0/TrendRadar) · [Website](https://sansan0.github.io/TrendRadar/)  
 > `#AI智能体` `#多平台聚合` `#智能推送` `#舆情监控` `#ai` `#bark` `#data-analysis` `#docker` `#hot-news` `#llm` `#mail` `#mcp` `#mcp-server` `#news` `#ntfy` `#python` `#rss` `#trending-topics` `#wechat` `#wework` 
 > TrendRadar 是一款 AI 驱动的舆情监控工具，支持多平台热点聚合、RSS 订阅与智能关键词筛选，提供 AI 翻译与分析简报推送。集成微信/飞书/钉钉等 8+ 通知渠道，支持 Docker 部署与 MCP 架构，赋能 AI 对话分析、情感洞察与趋势预测，30 秒快速部署。
@@ -1377,7 +1377,7 @@
 ## x1xhlol/system-prompts-and-models-of-ai-tools
 
 > [!info]
-> ⭐ 126,718 · N/A · 2026-02-17  
+> ⭐ 126,723 · N/A · 2026-02-17  
 > [GitHub](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)  
 > `#AI编程助手` `#开发工具架构` `#系统提示工程` `#ai` `#bolt` `#cluely` `#copilot` `#cursor` `#cursorai` `#devin` `#github-copilot` `#lovable` `#open-source` `#perplexity` `#replit` `#system-prompts` `#trae` `#trae-ai` `#trae-ide` `#v0` `#vscode` `#windsurf` `#windsurf-ai` 
 > 该仓库汇集了30,000+行关于主流AI编程工具（如Claude Code、Cursor、Devin AI等）的系统提示、内部工具和模型架构的深度解析，涵盖其设计理念、功能实现与技术细节，为开发者提供全面的AI编程助手技术洞察与最佳实践参考。
@@ -2334,7 +2334,7 @@
 ## dreamhunter2333/cloudflare_temp_email
 
 > [!info]
-> ⭐ 6,250 · Vue · 2026-02-25  
+> ⭐ 6,251 · Vue · 2026-02-25  
 > [GitHub](https://github.com/dreamhunter2333/cloudflare_temp_email) · [Website](https://mail.awsl.uk)  
 > `#Cloudflare Workers` `#临时邮箱` `#邮件服务` `#cloudflare-email` `#cloudflare-pages` `#cloudflare-workers` `#email` `#free` 
 > 基于 Cloudflare Workers 构建的免费临时邮箱服务，支持收发邮件、附件处理、IMAP/SMTP 协议及 Telegram 机器人通知，采用 Rust WASM 实现高性能邮件解析，提供现代化多语言响应式界面，支持邮箱地址密码保护，完全免费且无需服务器部署。
@@ -2543,7 +2543,7 @@
 ## wzdnzd/aggregator
 
 > [!info]
-> ⭐ 6,231 · Python · 2026-02-24  
+> ⭐ 6,232 · Python · 2026-02-24  
 > [GitHub](https://github.com/wzdnzd/aggregator) · [Website](https://github.com/wzdnzd/aggregator)  
 > `#代理池` `#数据聚合` `#网页爬虫` `#自动化工具` `#proxypool` 
 > Aggregator 是一个高效免费的代理池构建工具，支持从 Telegram、GitHub 等多平台爬取代理资源，自动验证质量并转换为 Clash、V2Ray 等格式，提供 GitHub Gist 等灵活存储后端，适用于个人及企业级代理订阅管理。
@@ -2820,7 +2820,7 @@
 ## clash-verge-rev/clash-verge-rev
 
 > [!info]
-> ⭐ 99,609 · TypeScript · 2026-03-01  
+> ⭐ 99,612 · TypeScript · 2026-03-01  
 > [GitHub](https://github.com/clash-verge-rev/clash-verge-rev) · [Website](https://www.clashverge.dev)  
 > `#Tauri 框架` `#代理工具` `#跨平台桌面应用` `#clash` `#clash-meta` `#clash-verge` `#linux` `#mac` `#mihomo` `#tauri-app` `#windows` 
 > Clash Verge Rev 是基于 Tauri 2 和 Rust 构建的现代化 Clash.Meta 客户端，支持跨平台（Windows/macOS/Linux），提供简洁美观的 GUI 界面、配置文件管理、TUN 模式、WebDav 同步及自定义主题，适用于高性能代理需求。

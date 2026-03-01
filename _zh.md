@@ -1,10 +1,11 @@
 # ⭐ GitHub Stars Index
 
-> Updated: 2026-03-01 09:48 UTC · Total: 335
+> Updated: 2026-03-01 14:44 UTC · Total: 336
 
 ---
 
 ## 📑 Index
+- [[#golutra/golutra|golutra/golutra]]
 - [[#iblogc/GithubStarsIndex|iblogc/GithubStarsIndex]]
 - [[#wrenfix/oag|wrenfix/oag]]
 - [[#Inert0x/FreeProxyProxy|Inert0x/FreeProxyProxy]]
@@ -343,11 +344,20 @@
 
 ---
 
+## golutra/golutra
+
+> [!info]
+> ⭐ 517 · Rust · 2026-03-01  
+> [GitHub](https://github.com/golutra/golutra) · [Website](https://www.golutra.com)  
+> 
+> 生成失败
+
+---
 ## iblogc/GithubStarsIndex
 
 > [!info]
 > ⭐ 45 · Jinja · 2026-03-01  
-> [GitHub](https://github.com/iblogc/GithubStarsIndex) · [Website](https://iblogc.github.io/GithubStarsIndex/)  
+> [GitHub](https://github.com/iblogc/GithubStarsIndex) · [Website](https://stars.iblogc.com)  
 > 
 > 生成失败
 > <sub>自动抓取 GitHub Stars，生成 AI 摘要，便于检索。</sub>
@@ -366,7 +376,7 @@
 ## Inert0x/FreeProxyProxy
 
 > [!info]
-> ⭐ 38 · JavaScript · 2026-02-26  
+> ⭐ 39 · JavaScript · 2026-02-26  
 > [GitHub](https://github.com/Inert0x/FreeProxyProxy)  
 > 
 > 生成失败
@@ -376,7 +386,7 @@
 ## poco-ai/poco-agent
 
 > [!info]
-> ⭐ 1,002 · TypeScript · 2026-03-01  
+> ⭐ 1,014 · TypeScript · 2026-03-01  
 > [GitHub](https://github.com/poco-ai/poco-agent) · [Website](https://poco-ai.com)  
 > `#agent` `#ai` `#chatbot` `#claude-code` `#clawdbot` `#manus` `#openclaw` 
 > 生成失败
@@ -386,7 +396,7 @@
 ## waoowaooAI/waoowaoo
 
 > [!info]
-> ⭐ 3,812 · TypeScript · 2026-02-28  
+> ⭐ 4,233 · TypeScript · 2026-02-28  
 > [GitHub](https://github.com/waoowaooAI/waoowaoo)  
 > `#AI智能体` `#影视制作` `#自动化视频生成` 
 > waoowaoo AI 影视 Studio 是首家工业级全流程可控协作式专业 AI 智能体影视生产平台，支持从小说文本自动生成分镜、角色、场景并制作成完整视频，涵盖短片到漫剧再到真人级影视剧的全流程制作，采用好莱坞专业制作团队思路，提供虚拟制片场体验。
@@ -761,7 +771,7 @@
 ## anthropics/skills
 
 > [!info]
-> ⭐ 79,800 · Python · 2026-02-25  
+> ⭐ 80,006 · Python · 2026-02-25  
 > [GitHub](https://github.com/anthropics/skills)  
 > `#AI智能体` `#技能系统` `#文档处理` `#agent-skills` 
 > Anthropic 公开 Claude 智能体技能库，提供文档处理、开发工具、企业工作流等多样化技能模板，支持动态加载与自定义扩展，助力 AI 智能体实现专业化任务自动化。
@@ -929,7 +939,7 @@
 ## farion1231/cc-switch
 
 > [!info]
-> ⭐ 21,968 · TypeScript · 2026-02-28  
+> ⭐ 22,082 · TypeScript · 2026-02-28  
 > [GitHub](https://github.com/farion1231/cc-switch) · [Website](https://github.com/farion1231/cc-switch)  
 > `#AI智能体` `#多模型集成` `#桌面应用` `#ai-tools` `#claude-code` `#codex` `#desktop-app` `#kimi-k2-thiking` `#mcp` `#minimax` `#open-source` `#opencode` `#provider-management` `#rust` `#skills` `#skills-management` `#tauri` `#typescript` `#wsl-support` 
 > 跨平台桌面一体化助手工具，支持 Claude Code、Codex 和 Gemini CLI 的统一管理，提供便捷的 AI 编程助手集成与配置，适用于多模型协作开发场景。
@@ -1218,7 +1228,7 @@
 ## iOfficeAI/AionUi
 
 > [!info]
-> ⭐ 17,462 · TypeScript · 2026-03-01  
+> ⭐ 17,493 · TypeScript · 2026-03-01  
 > [GitHub](https://github.com/iOfficeAI/AionUi) · [Website](https://www.aionui.com)  
 > `#AI智能体` `#自动化工具` `#跨平台` `#acp` `#ai` `#ai-agent` `#chat` `#chatbot` `#claude-code` `#clawd` `#clawdbot` `#codex` `#cowork` `#gemini` `#gemini-cli` `#llm` `#nano-banana` `#office` `#openclaw` `#opencode` `#skills` `#webui` 
 > AionUi 是一款免费、开源的 AI 协作者应用，支持 24/7 自动化，内置多 AI 智能体（如 Claude Code、OpenClaw、Qwen Code 等），提供跨平台（macOS/Windows/Linux）本地运行、零配置启动、远程访问（WebUI/Telegram/Lark）和任务调度功能，适用于代码开发、文件处理与自动化工作流。
@@ -1318,7 +1328,7 @@
 ## sansan0/TrendRadar
 
 > [!info]
-> ⭐ 47,611 · Python · 2026-03-01  
+> ⭐ 47,635 · Python · 2026-03-01  
 > [GitHub](https://github.com/sansan0/TrendRadar) · [Website](https://sansan0.github.io/TrendRadar/)  
 > `#AI智能体` `#多平台聚合` `#智能推送` `#舆情监控` `#ai` `#bark` `#data-analysis` `#docker` `#hot-news` `#llm` `#mail` `#mcp` `#mcp-server` `#news` `#ntfy` `#python` `#rss` `#trending-topics` `#wechat` `#wework` 
 > TrendRadar 是一款 AI 驱动的舆情监控工具，支持多平台热点聚合、RSS 订阅与智能关键词筛选，提供 AI 翻译与分析简报推送。集成微信/飞书/钉钉等 8+ 通知渠道，支持 Docker 部署与 MCP 架构，赋能 AI 对话分析、情感洞察与趋势预测，30 秒快速部署。
@@ -1367,7 +1377,7 @@
 ## x1xhlol/system-prompts-and-models-of-ai-tools
 
 > [!info]
-> ⭐ 126,629 · N/A · 2026-02-17  
+> ⭐ 126,718 · N/A · 2026-02-17  
 > [GitHub](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)  
 > `#AI编程助手` `#开发工具架构` `#系统提示工程` `#ai` `#bolt` `#cluely` `#copilot` `#cursor` `#cursorai` `#devin` `#github-copilot` `#lovable` `#open-source` `#perplexity` `#replit` `#system-prompts` `#trae` `#trae-ai` `#trae-ide` `#v0` `#vscode` `#windsurf` `#windsurf-ai` 
 > 该仓库汇集了30,000+行关于主流AI编程工具（如Claude Code、Cursor、Devin AI等）的系统提示、内部工具和模型架构的深度解析，涵盖其设计理念、功能实现与技术细节，为开发者提供全面的AI编程助手技术洞察与最佳实践参考。
@@ -1377,7 +1387,7 @@
 ## xiao-zaiyi/illa-helper
 
 > [!info]
-> ⭐ 2,774 · TypeScript · 2026-02-11  
+> ⭐ 2,775 · TypeScript · 2026-02-11  
 > [GitHub](https://github.com/xiao-zaiyi/illa-helper) · [Website](https://illa.xlike.cc)  
 > `#AI翻译` `#浏览器插件` `#语言学习` 
 > 浸入式语言学习助手是一款基于‘可理解输入’理论的浏览器插件，通过智能翻译网页词汇并集成发音功能，实现自然语言习得。支持自动语言检测、AI选词、双语音频朗读及交互式提示，将整个互联网转化为个性化学习材料。
@@ -1407,7 +1417,7 @@
 ## Minidoracat/mcp-feedback-enhanced
 
 > [!info]
-> ⭐ 3,593 · JavaScript · 2025-06-29  
+> ⭐ 3,590 · JavaScript · 2025-06-29  
 > [GitHub](https://github.com/Minidoracat/mcp-feedback-enhanced)  
 > `#AI智能体` `#MCP服务器` `#双界面架构` 
 > MCP Feedback Enhanced 是一个增强型 MCP 服务器，专为 AI 辅助开发设计，支持 Web UI 和跨平台桌面应用双界面，具备智能环境检测与反馈驱动工作流，可显著降低平台成本并提升开发效率。
@@ -1776,7 +1786,7 @@
 ## chengazhen/cursor-auto-free
 
 > [!info]
-> ⭐ 9,852 · Python · 2025-10-14  
+> ⭐ 9,851 · Python · 2025-10-14  
 > [GitHub](https://github.com/chengazhen/cursor-auto-free) · [Website](https://cursor-auto-free-doc.vercel.app)  
 > `#Python` `#网页自动化` `#自动化工具` 
 > 本项目是一个自动化 Cursor Pro 在线签到的工具，支持无人值守运行，适用于提升账户活跃度。采用 Python 实现，具备跨平台兼容性，并集成文档说明与社区支持，适合开发者学习自动化脚本与网页交互技术。
@@ -2145,7 +2155,7 @@
 ## ChatGPTNextWeb/NextChat
 
 > [!info]
-> ⭐ 87,399 · TypeScript · 2025-12-02  
+> ⭐ 87,398 · TypeScript · 2025-12-02  
 > [GitHub](https://github.com/ChatGPTNextWeb/NextChat) · [Website](https://nextchat.club)  
 > `#AI智能体` `#多模型支持` `#跨平台应用` `#calclaude` `#chatgpt` `#claude` `#cross-platform` `#desktop` `#fe` `#gemini` `#gemini-pro` `#gemini-server` `#gemini-ultra` `#gpt-4o` `#groq` `#nextjs` `#ollama` `#react` `#tauri` `#tauri-app` `#vercel` `#webui` 
 > NextChat 是一款轻量级、高性能的 AI 助手应用，支持 Web、iOS、macOS、Android、Linux 和 Windows 全平台。它集成了 Claude、DeepSeek、GPT-4 和 Gemini Pro 等多种 AI 模型，提供现代化的用户界面和强大的功能，包括 MCP 支持、企业级私有化部署、知识库集成和权限管理，适用于个人用户和企业客户。
@@ -2184,7 +2194,7 @@
 ## ruanyf/weekly
 
 > [!info]
-> ⭐ 84,902 · N/A · 2026-02-27  
+> ⭐ 84,923 · N/A · 2026-02-27  
 > [GitHub](https://github.com/ruanyf/weekly)  
 > `#人工智能` `#科技资讯` `#行业洞察` 
 > 《科技爱好者周刊》是阮一峰团队推出的科技内容周刊，每周五发布，聚焦前沿科技趋势、AI应用、创业洞察与行业动态，内容涵盖人工智能、互联网经济、软件开发等领域，兼具深度与可读性，是科技从业者与爱好者的重要资讯来源。
@@ -2264,7 +2274,7 @@
 ## ripienaar/free-for-dev
 
 > [!info]
-> ⭐ 118,185 · HTML · 2026-03-01  
+> ⭐ 118,187 · HTML · 2026-03-01  
 > [GitHub](https://github.com/ripienaar/free-for-dev) · [Website](https://free-for.dev/)  
 > `#DevOps工具` `#免费云服务` `#基础设施即服务` `#awesome-list` `#free-for-developers` 
 > free-for.dev 是一个面向开发者和运维人员的精选免费服务清单，涵盖 SaaS、PaaS、IaaS 等基础设施类工具。该列表聚焦于 DevOps 和系统管理员常用服务，强调长期可用的免费层级（非试用），并排除自托管软件。内容由社区协作维护，包含云管理、CI/CD、监控、安全等 30+ 个分类，帮助开发者快速发现并评估适合的免费资源。
@@ -2314,7 +2324,7 @@
 ## hiroi-sora/Umi-OCR
 
 > [!info]
-> ⭐ 42,291 · Python · 2025-11-20  
+> ⭐ 42,293 · Python · 2025-11-20  
 > [GitHub](https://github.com/hiroi-sora/Umi-OCR)  
 > `#OCR文字识别` `#批量处理` `#离线处理` `#ocr` `#ocr-python` `#paddleocr` `#qml` `#qt` `#screenshot` `#umi-ocr` 
 > Umi-OCR 是一款开源免费的离线OCR软件，支持截图识别、批量图片处理、PDF文档扫描及二维码识别。具备智能排版解析、水印页眉页脚排除功能，内置多国语言识别库，无需联网即可高效运行，适用于Windows和Linux系统。
@@ -2324,7 +2334,7 @@
 ## dreamhunter2333/cloudflare_temp_email
 
 > [!info]
-> ⭐ 6,242 · Vue · 2026-02-25  
+> ⭐ 6,250 · Vue · 2026-02-25  
 > [GitHub](https://github.com/dreamhunter2333/cloudflare_temp_email) · [Website](https://mail.awsl.uk)  
 > `#Cloudflare Workers` `#临时邮箱` `#邮件服务` `#cloudflare-email` `#cloudflare-pages` `#cloudflare-workers` `#email` `#free` 
 > 基于 Cloudflare Workers 构建的免费临时邮箱服务，支持收发邮件、附件处理、IMAP/SMTP 协议及 Telegram 机器人通知，采用 Rust WASM 实现高性能邮件解析，提供现代化多语言响应式界面，支持邮箱地址密码保护，完全免费且无需服务器部署。
@@ -2533,7 +2543,7 @@
 ## wzdnzd/aggregator
 
 > [!info]
-> ⭐ 6,208 · Python · 2026-02-24  
+> ⭐ 6,231 · Python · 2026-02-24  
 > [GitHub](https://github.com/wzdnzd/aggregator) · [Website](https://github.com/wzdnzd/aggregator)  
 > `#代理池` `#数据聚合` `#网页爬虫` `#自动化工具` `#proxypool` 
 > Aggregator 是一个高效免费的代理池构建工具，支持从 Telegram、GitHub 等多平台爬取代理资源，自动验证质量并转换为 Clash、V2Ray 等格式，提供 GitHub Gist 等灵活存储后端，适用于个人及企业级代理订阅管理。
@@ -2583,7 +2593,7 @@
 ## voideditor/void
 
 > [!info]
-> ⭐ 28,281 · TypeScript · 2026-01-12  
+> ⭐ 28,282 · TypeScript · 2026-01-12  
 > [GitHub](https://github.com/voideditor/void) · [Website](https://voideditor.com)  
 > `#AI智能体` `#AI编程IDE` `#VSCode` `#chatgpt` `#claude` `#copilot` `#cursor` `#developer-tools` `#editor` `#llm` `#open-source` `#openai` `#visual-studio-code` `#vscode` `#vscode-extension` 
 > Void 是一款开源的 Cursor 替代 IDE，支持在代码库中使用 AI 智能体、可视化变更与检查点，并允许本地部署任意模型。其核心优势在于直接与 AI 服务商通信而不保留用户数据，基于 VSCode 深度定制，提供高度可定制的 AI 编程体验。
@@ -2621,7 +2631,7 @@
 ## kingparks/cursor-vip
 
 > [!info]
-> ⭐ 4,712 · Go · 2025-07-11  
+> ⭐ 4,713 · Go · 2025-07-11  
 > [GitHub](https://github.com/kingparks/cursor-vip) · [Website](https://cursor.jeter.eu.org)  
 > `#AI智能体` `#IDE扩展` `#提示工程` `#自动化工具` `#cursor` `#cursor-pro` 
 > cursor-vip 是一个通过共享方式解锁 Cursor IDE 付费 VIP 功能的工具，支持多语言配置与代理模式。它提供稳定的 Claude 模型访问，通过脚本或二进制文件快速部署，适用于开发者绕过区域限制使用高级 AI 编程功能，但稳定性不及官方版本。
@@ -2670,7 +2680,7 @@
 ## langgenius/dify
 
 > [!info]
-> ⭐ 130,754 · TypeScript · 2026-03-01  
+> ⭐ 130,773 · TypeScript · 2026-03-01  
 > [GitHub](https://github.com/langgenius/dify) · [Website](https://dify.ai)  
 > `#AI智能体` `#企业级应用` `#工作流编排` `#agent` `#agentic-ai` `#agentic-framework` `#agentic-workflow` `#ai` `#automation` `#gemini` `#genai` `#gpt` `#gpt-4` `#llm` `#low-code` `#mcp` `#nextjs` `#no-code` `#openai` `#orchestration` `#python` `#rag` `#workflow` 
 > Dify 是一个生产就绪的 AI 智能体工作流开发平台，支持可视化编排、多模型集成与自动化流程构建，适用于企业级应用开发与 AI 能力快速集成场景。
@@ -2710,7 +2720,7 @@
 ## open-webui/open-webui
 
 > [!info]
-> ⭐ 125,287 · Python · 2026-03-01  
+> ⭐ 125,300 · Python · 2026-03-01  
 > [GitHub](https://github.com/open-webui/open-webui) · [Website](https://openwebui.com)  
 > `#AI智能体` `#网页应用` `#自托管平台` `#ai` `#llm` `#llm-ui` `#llm-webui` `#llms` `#mcp` `#ollama` `#ollama-webui` `#open-webui` `#openai` `#openapi` `#rag` `#self-hosted` `#ui` `#webui` 
 > Open WebUI 是一个功能丰富的自托管 AI 平台，支持 Ollama 和 OpenAI API，内置 RAG 推理引擎，提供插件扩展、多用户权限管理、响应式设计、PWA 移动端体验、语音视频通话、模型构建器及原生 Python 函数调用等核心功能，适用于离线部署与 AI 应用开发。
@@ -2790,7 +2800,7 @@
 ## PlexPt/awesome-chatgpt-prompts-zh
 
 > [!info]
-> ⭐ 58,474 · N/A · 2025-01-01  
+> ⭐ 58,476 · N/A · 2025-01-01  
 > [GitHub](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) · [Website](https://chat.aimakex.com/)  
 > `#AI智能体` `#中文调教` `#提示工程` `#自动化工具` `#chat-gpt` `#chatgpt` `#chatgpt3` `#chatgpt4` `#gpt` 
 > 本项目提供全面的 ChatGPT 中文调教指南，涵盖学术论文、创意写作、商业文案、翻译、数据分析等 20+ 应用场景，帮助用户掌握提示词技巧，让 AI 高效完成各类任务，提升工作效率与内容质量。
@@ -2810,7 +2820,7 @@
 ## clash-verge-rev/clash-verge-rev
 
 > [!info]
-> ⭐ 99,553 · TypeScript · 2026-03-01  
+> ⭐ 99,609 · TypeScript · 2026-03-01  
 > [GitHub](https://github.com/clash-verge-rev/clash-verge-rev) · [Website](https://www.clashverge.dev)  
 > `#Tauri 框架` `#代理工具` `#跨平台桌面应用` `#clash` `#clash-meta` `#clash-verge` `#linux` `#mac` `#mihomo` `#tauri-app` `#windows` 
 > Clash Verge Rev 是基于 Tauri 2 和 Rust 构建的现代化 Clash.Meta 客户端，支持跨平台（Windows/macOS/Linux），提供简洁美观的 GUI 界面、配置文件管理、TUN 模式、WebDav 同步及自定义主题，适用于高性能代理需求。
@@ -3268,7 +3278,7 @@
 ## langchain-ai/langchain
 
 > [!info]
-> ⭐ 127,796 · Python · 2026-02-28  
+> ⭐ 127,821 · Python · 2026-02-28  
 > [GitHub](https://github.com/langchain-ai/langchain) · [Website](https://docs.langchain.com/oss/python/langchain/)  
 > `#AI智能体` `#大模型应用` `#开发框架` `#agents` `#ai` `#ai-agents` `#anthropic` `#chatgpt` `#deepagents` `#enterprise` `#framework` `#gemini` `#generative-ai` `#langchain` `#langgraph` `#llm` `#multiagent` `#open-source` `#openai` `#pydantic` `#python` `#rag` 
 > LangChain 是一个构建可靠 AI 智能体的框架，提供标准化的 LLM、嵌入、向量存储等组件接口，支持实时数据增强、模型互操作性和快速原型开发，助力开发者高效构建生产级 LLM 应用。
@@ -3356,7 +3366,7 @@
 ## linexjlin/GPTs
 
 > [!info]
-> ⭐ 31,973 · N/A · 2024-09-27  
+> ⭐ 31,972 · N/A · 2024-09-27  
 > [GitHub](https://github.com/linexjlin/GPTs)  
 > `#AI智能体` `#GPTs应用` `#提示工程` 
 > 该仓库收集了多个泄露的 GPTs 提示词（prompts），涵盖开发、翻译、娱乐、教育、图像生成、视频脚本、游戏等多个领域，展示了 OpenAI GPTs 功能的广泛应用场景与技术实现方式。

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-01 14:44 UTC",
+  "last_updated": "2026-03-01 14:49 UTC",
   "repos": {
     "waoowaooAI/waoowaoo": {
       "metadata": {
@@ -7,7 +7,7 @@
         "name": "waoowaoo",
         "owner": "waoowaooAI",
         "description": "首家工业级全流程可控协作式专业AIagent影视生产平台，从短片到漫剧到真人级影视剧一站搞定，采用好莱坞专业制作团队思路，让你拥有虚拟制片场",
-        "stars": 4233,
+        "stars": 4242,
         "language": "TypeScript",
         "url": "https://github.com/waoowaooAI/waoowaoo",
         "homepage": "",
@@ -1533,7 +1533,7 @@
         "name": "skills",
         "owner": "anthropics",
         "description": "Public repository for Agent Skills",
-        "stars": 80006,
+        "stars": 80011,
         "language": "Python",
         "url": "https://github.com/anthropics/skills",
         "homepage": "",
@@ -2955,7 +2955,7 @@
         "name": "AionUi",
         "owner": "iOfficeAI",
         "description": "Free, local, open-source 24/7 Cowork app and OpenClaw for Gemini CLI, Claude Code, Codex, OpenCode, Qwen Code, Goose CLI, Auggie, and more | 🌟 Star if you like it!",
-        "stars": 17493,
+        "stars": 17496,
         "language": "TypeScript",
         "url": "https://github.com/iOfficeAI/AionUi",
         "homepage": "https://www.aionui.com",
@@ -3328,7 +3328,7 @@
         "name": "aggregator",
         "owner": "wzdnzd",
         "description": "One-stop Proxies Crawling and Aggregation Platform",
-        "stars": 6231,
+        "stars": 6232,
         "language": "Python",
         "url": "https://github.com/wzdnzd/aggregator",
         "homepage": "https://github.com/wzdnzd/aggregator",
@@ -3440,7 +3440,7 @@
         "name": "TrendRadar",
         "owner": "sansan0",
         "description": "⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts.🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 +  RSS 订阅，支持关键词精准筛选。AI 翻译 +  AI 分析简报直推手机，也支持接入 MCP 架构，赋能 AI 自然语言对话分析、情感洞察与趋势预测等。支持 Docker ，数据本地/云端自持。集成微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 等渠道智能推送。",
-        "stars": 47635,
+        "stars": 47636,
         "language": "Python",
         "url": "https://github.com/sansan0/TrendRadar",
         "homepage": "https://sansan0.github.io/TrendRadar/",
@@ -3584,7 +3584,7 @@
         "name": "cloudflare_temp_email",
         "owner": "dreamhunter2333",
         "description": "CloudFlare free temp domain email 免费收发 临时域名邮箱 支持附件 IMAP SMTP TelegramBot",
-        "stars": 6250,
+        "stars": 6251,
         "language": "Vue",
         "url": "https://github.com/dreamhunter2333/cloudflare_temp_email",
         "homepage": "https://mail.awsl.uk",
@@ -5382,7 +5382,7 @@
         "name": "system-prompts-and-models-of-ai-tools",
         "owner": "x1xhlol",
         "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
-        "stars": 126718,
+        "stars": 126723,
         "language": "N/A",
         "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
         "homepage": "",
@@ -9077,7 +9077,7 @@
         "name": "clash-verge-rev",
         "owner": "clash-verge-rev",
         "description": "A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience",
-        "stars": 99609,
+        "stars": 99612,
         "language": "TypeScript",
         "url": "https://github.com/clash-verge-rev/clash-verge-rev",
         "homepage": "https://www.clashverge.dev",
@@ -27834,10 +27834,18 @@
         "updated_at": "2026-02-26"
       },
       "summary": {
-        "zh": "生成失败",
-        "en": "Generation failed",
-        "tags_zh": [],
-        "tags_en": []
+        "zh": "oag 是一个轻量级 CLI 工具，用于管理基于 Git 的 AI 资产注册表，支持一键安装、更新代理、技能及 MCP 配置到 Claude、Codex 和 OpenCode 等本地环境，提升团队协作效率与配置一致性。",
+        "en": "oag is a lightweight CLI tool for managing a Git-based AI asset registry, enabling one-command installation and update of agents, skills, and MCP configs into local environments like Claude, Codex, and OpenCode for consistent setup and faster team collaboration.",
+        "tags_zh": [
+          "AI智能体",
+          "CLI工具",
+          "自动化配置"
+        ],
+        "tags_en": [
+          "AI 智能体",
+          "CLI Tool",
+          "Configuration Automation"
+        ]
       },
       "pushed_at": "2026-02-26",
       "updated_at": "2026-03-01"
@@ -27864,10 +27872,20 @@
         "updated_at": "2026-03-01"
       },
       "summary": {
-        "zh": "生成失败",
-        "en": "Generation failed",
-        "tags_zh": [],
-        "tags_en": []
+        "zh": "Poco 是一个比 OpenClaw 更安全、美观且易用的 AI 智能体工具，基于 Claude Code 构建。它提供隔离沙箱运行环境保障安全，支持美观的 Web 界面和移动端访问，内置即时通讯、浏览器自主研究、GitHub 仓库连接等功能，支持异步任务和 MCP/Skills 扩展，开箱即用，无需复杂配置。",
+        "en": "Poco is a safer, more beautiful, and easier-to-use alternative to OpenClaw, powered by a Claude Code–based agent. It features a secure sandboxed runtime, a modern Web UI with mobile support, built-in IM, browser autonomy, GitHub integration, and extensibility via MCP/Skills. Zero-configuration Docker deployment enables instant setup and background task execution.",
+        "tags_zh": [
+          "AI智能体",
+          "Docker容器化",
+          "FastAPI",
+          "零配置部署"
+        ],
+        "tags_en": [
+          "AI 智能体",
+          "FastAPI",
+          "Zero-Config Deployment",
+          "容器化"
+        ]
       },
       "pushed_at": "2026-03-01",
       "updated_at": "2026-03-01"
@@ -27886,10 +27904,18 @@
         "updated_at": "2026-02-26"
       },
       "summary": {
-        "zh": "生成失败",
-        "en": "Generation failed",
-        "tags_zh": [],
-        "tags_en": []
+        "zh": "autoproxy 是一个基于 Node.js 的本地 HTTPS 代理中继工具，自动从 free-proxy-list.net 抓取并筛选支持 Google 和 HTTPS 的公共代理，构建可信代理池。通过 CONNECT 协议实现 HTTPS 隧道转发，支持自动刷新和负载均衡，适用于学习与研究场景，不推荐用于生产环境。",
+        "en": "autoproxy is a local HTTPS proxy relay built with Node.js that automatically fetches and filters public proxies supporting Google and HTTPS from free-proxy-list.net. It builds a trusted proxy pool, tunnels HTTPS traffic via CONNECT, supports auto-refresh and round-robin routing, and is intended solely for learning and research purposes.",
+        "tags_zh": [
+          "HTTPS隧道",
+          "Node.js",
+          "代理工具"
+        ],
+        "tags_en": [
+          "HTTPS Tunneling",
+          "Node.js",
+          "Proxy Tool"
+        ]
       },
       "pushed_at": "2026-02-26",
       "updated_at": "2026-03-01"
@@ -27908,10 +27934,18 @@
         "updated_at": "2026-03-01"
       },
       "summary": {
-        "zh": "生成失败",
-        "en": "Generation failed",
-        "tags_zh": [],
-        "tags_en": []
+        "zh": "GitHub Stars Index 是一个自动化工具，用于抓取 GitHub 用户的 Star 仓库，通过 AI 生成摘要和技术标签，并支持增量更新、多语言输出、Obsidian 同步及 GitHub Pages 部署，适用于个人知识管理和技术归档。",
+        "en": "GitHub Stars Index automates the collection of GitHub Stars, generates AI-powered summaries and tech tags for each repository, supports incremental updates, multi-language output, Obsidian sync, and GitHub Pages deployment, ideal for personal knowledge management and technical archiving.",
+        "tags_zh": [
+          "AI智能体",
+          "数据归档",
+          "自动化工具"
+        ],
+        "tags_en": [
+          "AI 智能体",
+          "Automation Tool",
+          "Data Archiving"
+        ]
       },
       "pushed_at": "2026-03-01",
       "updated_at": "2026-03-01"
@@ -35882,7 +35916,7 @@
         "name": "golutra",
         "owner": "golutra",
         "description": "",
-        "stars": 517,
+        "stars": 519,
         "language": "Rust",
         "url": "https://github.com/golutra/golutra",
         "homepage": "https://www.golutra.com",
@@ -35890,10 +35924,18 @@
         "updated_at": "2026-03-01"
       },
       "summary": {
-        "zh": "生成失败",
-        "en": "Generation failed",
-        "tags_zh": [],
-        "tags_en": []
+        "zh": "golutra 是一款下一代多智能体协作工作台，将现有 CLI 工具升级为统一的 AI 协作枢纽。支持 Claude、Gemini、Codex 等主流 CLI 的无缝集成，实现多智能体并行执行、自动化编排和实时日志监控。基于 Vue 3 + Rust 的 Tauri 桌面应用，保留命令行操作习惯的同时，提供可视化界面与智能调度能力，将单人开发升级为‘一人+AI团队’的高效工作模式。",
+        "en": "golutra is a next-generation multi-agent workspace that transforms existing CLI tools into a unified AI collaboration hub. It supports seamless integration with popular CLIs like Claude, Gemini, and Codex, enabling parallel multi-agent execution, automated orchestration, and real-time log tracking. Built with Vue 3 and Rust as a Tauri desktop app for Windows and macOS, it enhances 'one person + one editor' into 'one person + an AI squad' by replacing manual context switching with coordinated automation.",
+        "tags_zh": [
+          "AI智能体",
+          "CLI工具集成",
+          "多智能体协作"
+        ],
+        "tags_en": [
+          "AI Agents",
+          "CLI Integration",
+          "Multi-Agent Collaboration"
+        ]
       },
       "pushed_at": "2026-03-01",
       "updated_at": "2026-03-01"

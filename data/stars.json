@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-10 01:38 UTC",
+  "last_updated": "2026-11-10 23:31 UTC",
   "repos": {
     "waoowaooAI/waoowaoo": {
       "metadata": {
@@ -190,7 +190,7 @@
         "repo_id": 931352845,
         "owner": "linshenkx",
         "description": "An AI prompt optimizer for writing better prompts and getting better AI results.",
-        "stars": 41032,
+        "stars": 41108,
         "language": "TypeScript",
         "url": "https://github.com/linshenkx/prompt-optimizer",
         "homepage": "https://prompt.always200.com",
@@ -208,7 +208,7 @@
         ],
         "created_at": "2025-02-12T06:06:49Z",
         "pushed_at": "2026-11-09T12:27:36Z",
-        "updated_at": "2026-11-10T01:28:16Z",
+        "updated_at": "2026-11-10T21:23:23Z",
         "starred_at": "2026-03-11T11:52:27Z"
       },
       "summary": {
@@ -267,7 +267,7 @@
         "repo_id": 1031912724,
         "owner": "farion1231",
         "description": "A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode,DeepSeek Harness and more. Only official website: ccswitch.io",
-        "stars": 153076,
+        "stars": 153331,
         "language": "Rust",
         "url": "https://github.com/farion1231/cc-switch",
         "homepage": "https://ccswitch.io",
@@ -293,8 +293,8 @@
           "wsl-support"
         ],
         "created_at": "2025-08-04T14:16:16Z",
-        "pushed_at": "2026-11-09T15:46:54Z",
-        "updated_at": "2026-11-10T01:36:34Z",
+        "pushed_at": "2026-11-10T15:10:05Z",
+        "updated_at": "2026-11-10T22:36:31Z",
         "starred_at": "2026-01-07T23:44:53Z"
       },
       "summary": {
@@ -1603,7 +1603,7 @@
         "repo_id": 1062356571,
         "owner": "tw93",
         "description": "🐹 Open-source Mac and PC cleaner. Keep your machine clean, light, and running like new. Fast CLI, plus native Mac and Windows apps.",
-        "stars": 74420,
+        "stars": 74539,
         "language": "Shell",
         "url": "https://github.com/tw93/Mole",
         "homepage": "https://mole.fit",
@@ -1630,8 +1630,8 @@
           "windows"
         ],
         "created_at": "2025-09-23T06:38:40Z",
-        "pushed_at": "2026-11-09T16:22:10Z",
-        "updated_at": "2026-11-10T01:29:10Z",
+        "pushed_at": "2026-11-10T19:05:02Z",
+        "updated_at": "2026-11-10T23:18:27Z",
         "starred_at": "2026-03-02T23:25:51Z"
       },
       "summary": {
@@ -1658,7 +1658,7 @@
         "repo_id": 1061953414,
         "owner": "anthropics",
         "description": "Public repository for Agent Skills",
-        "stars": 191028,
+        "stars": 192272,
         "language": "Python",
         "url": "https://github.com/anthropics/skills",
         "homepage": "",
@@ -1667,7 +1667,7 @@
         ],
         "created_at": "2025-09-22T15:53:31Z",
         "pushed_at": "2026-11-06T22:32:32Z",
-        "updated_at": "2026-11-10T01:36:06Z",
+        "updated_at": "2026-11-10T23:29:44Z",
         "starred_at": "2026-01-15T23:44:36Z"
       },
       "summary": {
@@ -3158,7 +3158,7 @@
         "repo_id": 1033778670,
         "owner": "iOfficeAI",
         "description": "Open-source 24/7 Cowork app for OpenClaw, Hermes, Claude Code, Codex, OpenCode and 20+ more CLI Agent | Customize your assistants | Team them up｜Star if you like it!",
-        "stars": 34171,
+        "stars": 34197,
         "language": "TypeScript",
         "url": "https://github.com/iOfficeAI/AionUi",
         "homepage": "https://www.aionui.com",
@@ -3186,7 +3186,7 @@
         ],
         "created_at": "2025-08-07T10:29:51Z",
         "pushed_at": "2026-11-05T05:31:20Z",
-        "updated_at": "2026-11-10T01:35:47Z",
+        "updated_at": "2026-11-10T21:52:11Z",
         "starred_at": "2025-10-17T15:00:17Z"
       },
       "summary": {
@@ -3554,7 +3554,7 @@
         "repo_id": 191097072,
         "owner": "wzdnzd",
         "description": "One-stop Proxies Crawling and Aggregation Platform",
-        "stars": 6783,
+        "stars": 6785,
         "language": "Python",
         "url": "https://github.com/wzdnzd/aggregator",
         "homepage": "https://github.com/wzdnzd/aggregator",
@@ -3563,7 +3563,7 @@
         ],
         "created_at": "2019-06-10T04:34:24Z",
         "pushed_at": "2026-10-23T00:46:04Z",
-        "updated_at": "2026-11-10T00:22:04Z",
+        "updated_at": "2026-11-10T18:50:52Z",
         "starred_at": "2024-09-25T08:39:34Z"
       },
       "summary": {
@@ -3674,7 +3674,7 @@
         "repo_id": 974186260,
         "owner": "sansan0",
         "description": "⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts.🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 +  RSS 订阅，支持关键词精准筛选。AI 智能筛选新闻 + AI 翻译 +  AI 分析简报直推手机，也支持接入 MCP 架构，赋能 AI 自然语言对话分析、情感洞察与趋势预测等。支持 Docker ，数据本地/云端自持。集成微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 等渠道智能推送。",
-        "stars": 63554,
+        "stars": 63574,
         "language": "Python",
         "url": "https://github.com/sansan0/TrendRadar",
         "homepage": "https://trendradar.sandev.cc",
@@ -3698,7 +3698,7 @@
         ],
         "created_at": "2025-04-28T11:42:16Z",
         "pushed_at": "2026-11-05T00:47:51Z",
-        "updated_at": "2026-11-10T01:34:35Z",
+        "updated_at": "2026-11-10T23:13:42Z",
         "starred_at": "2025-07-06T03:12:34Z"
       },
       "summary": {
@@ -3828,7 +3828,7 @@
         "repo_id": 678900558,
         "owner": "dreamhunter2333",
         "description": "CloudFlare free temp domain email 免费收发 临时域名邮箱 支持附件 IMAP SMTP TelegramBot",
-        "stars": 12088,
+        "stars": 12091,
         "language": "TypeScript",
         "url": "https://github.com/dreamhunter2333/cloudflare_temp_email",
         "homepage": "https://mail.awsl.uk",
@@ -3841,7 +3841,7 @@
         ],
         "created_at": "2023-08-15T16:35:52Z",
         "pushed_at": "2026-11-09T16:09:43Z",
-        "updated_at": "2026-11-10T01:16:43Z",
+        "updated_at": "2026-11-10T23:20:41Z",
         "starred_at": "2024-10-13T17:38:18Z"
       },
       "summary": {
@@ -3968,14 +3968,14 @@
         "repo_id": 1002344408,
         "owner": "xiao-zaiyi",
         "description": "浸入式学语言助手 (Immersive Language Learning Assistant)",
-        "stars": 2909,
+        "stars": 2908,
         "language": "TypeScript",
         "url": "https://github.com/xiao-zaiyi/illa-helper",
         "homepage": "",
         "topics": [],
         "created_at": "2025-06-15T09:08:41Z",
         "pushed_at": "2026-07-02T09:03:20Z",
-        "updated_at": "2026-11-09T15:46:46Z",
+        "updated_at": "2026-11-10T06:01:07Z",
         "starred_at": "2025-06-16T03:09:00Z"
       },
       "summary": {
@@ -5054,14 +5054,14 @@
         "repo_id": 152870372,
         "owner": "ruanyf",
         "description": "科技爱好者周刊，每周五发布",
-        "stars": 107860,
+        "stars": 107894,
         "language": "N/A",
         "url": "https://github.com/ruanyf/weekly",
         "homepage": "",
         "topics": [],
         "created_at": "2018-10-13T12:36:07Z",
         "pushed_at": "2026-11-08T14:43:20Z",
-        "updated_at": "2026-11-10T01:29:41Z",
+        "updated_at": "2026-11-10T19:44:25Z",
         "starred_at": "2024-11-03T17:12:24Z"
       },
       "summary": {
@@ -5088,14 +5088,14 @@
         "repo_id": 909377883,
         "owner": "chengazhen",
         "description": "auto sign cursor",
-        "stars": 9730,
+        "stars": 9731,
         "language": "Python",
         "url": "https://github.com/chengazhen/cursor-auto-free",
         "homepage": "https://cursor-auto-free-doc.vercel.app",
         "topics": [],
         "created_at": "2024-12-28T14:22:25Z",
         "pushed_at": "2026-10-26T10:07:19Z",
-        "updated_at": "2026-11-09T23:10:36Z",
+        "updated_at": "2026-11-10T17:53:06Z",
         "starred_at": "2025-01-06T13:35:50Z"
       },
       "summary": {
@@ -5156,14 +5156,14 @@
         "repo_id": 231865705,
         "owner": "TapXWorld",
         "description": "所有小初高、大学PDF教材。",
-        "stars": 84295,
+        "stars": 84335,
         "language": "N/A",
         "url": "https://github.com/TapXWorld/ChinaTextbook",
         "homepage": "",
         "topics": [],
         "created_at": "2020-01-05T04:11:06Z",
         "pushed_at": "2026-10-26T07:05:48Z",
-        "updated_at": "2026-11-10T01:37:34Z",
+        "updated_at": "2026-11-10T20:41:56Z",
         "starred_at": "2026-04-12T15:37:49Z"
       },
       "summary": {
@@ -5238,7 +5238,7 @@
         "repo_id": 855528273,
         "owner": "voideditor",
         "description": "",
-        "stars": 28710,
+        "stars": 28712,
         "language": "TypeScript",
         "url": "https://github.com/voideditor/void",
         "homepage": "https://voideditor.com",
@@ -5258,7 +5258,7 @@
         ],
         "created_at": "2024-09-11T02:37:00Z",
         "pushed_at": "2026-06-02T22:03:55Z",
-        "updated_at": "2026-11-09T21:01:18Z",
+        "updated_at": "2026-11-10T16:40:02Z",
         "starred_at": "2024-09-18T12:19:42Z"
       },
       "summary": {
@@ -5425,7 +5425,7 @@
         "repo_id": 32484381,
         "owner": "ripienaar",
         "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
-        "stars": 142377,
+        "stars": 142495,
         "language": "HTML",
         "url": "https://github.com/ripienaar/free-for-dev",
         "homepage": "https://free-for.dev/",
@@ -5434,8 +5434,8 @@
           "free-for-developers"
         ],
         "created_at": "2015-03-18T21:06:26Z",
-        "pushed_at": "2026-11-09T20:12:11Z",
-        "updated_at": "2026-11-10T01:37:43Z",
+        "pushed_at": "2026-11-10T14:23:31Z",
+        "updated_at": "2026-11-10T23:14:50Z",
         "starred_at": "2024-10-20T14:56:39Z"
       },
       "summary": {
@@ -5748,7 +5748,7 @@
         "repo_id": 943398999,
         "owner": "x1xhlol",
         "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
-        "stars": 144582,
+        "stars": 144603,
         "language": "N/A",
         "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
         "homepage": "",
@@ -5776,7 +5776,7 @@
         ],
         "created_at": "2025-03-05T16:38:29Z",
         "pushed_at": "2026-10-12T15:19:01Z",
-        "updated_at": "2026-11-09T23:32:38Z",
+        "updated_at": "2026-11-10T23:27:02Z",
         "starred_at": "2025-06-16T15:12:43Z"
       },
       "summary": {
@@ -6073,7 +6073,7 @@
         "repo_id": 474839179,
         "owner": "hiroi-sora",
         "description": "OCR software, free and offline. 开源、免费的离线OCR软件。支持截屏/批量导入图片，PDF文档识别，排除水印/页眉页脚，扫描/生成二维码。内置多国语言库。",
-        "stars": 48538,
+        "stars": 48567,
         "language": "Python",
         "url": "https://github.com/hiroi-sora/Umi-OCR",
         "homepage": "",
@@ -6088,7 +6088,7 @@
         ],
         "created_at": "2022-03-28T04:01:46Z",
         "pushed_at": "2025-11-20T14:58:13Z",
-        "updated_at": "2026-11-10T01:06:01Z",
+        "updated_at": "2026-11-10T20:30:22Z",
         "starred_at": "2024-10-14T07:54:59Z"
       },
       "summary": {
@@ -8293,7 +8293,7 @@
         "repo_id": 896908848,
         "owner": "beilunyang",
         "description": "A cute temporary email service built with NextJS + Cloudflare technology stack 🎉 | 一个基于 NextJS + Cloudflare 技术栈构建的可爱临时邮箱服务🎉  ",
-        "stars": 2839,
+        "stars": 2838,
         "language": "TypeScript",
         "url": "https://github.com/beilunyang/moemail",
         "homepage": "https://moemail.app",
@@ -8305,7 +8305,7 @@
         ],
         "created_at": "2024-12-01T15:50:31Z",
         "pushed_at": "2026-08-29T10:20:42Z",
-        "updated_at": "2026-11-09T23:13:04Z",
+        "updated_at": "2026-11-10T16:44:25Z",
         "starred_at": "2025-01-07T00:46:44Z"
       },
       "summary": {
@@ -9648,7 +9648,7 @@
         "repo_id": 721767116,
         "owner": "clash-verge-rev",
         "description": "A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience",
-        "stars": 157405,
+        "stars": 157634,
         "language": "Rust",
         "url": "https://github.com/clash-verge-rev/clash-verge-rev",
         "homepage": "https://www.clashverge.dev",
@@ -9663,8 +9663,8 @@
           "windows"
         ],
         "created_at": "2023-11-21T18:24:03Z",
-        "pushed_at": "2026-11-09T23:54:35Z",
-        "updated_at": "2026-11-10T01:28:51Z",
+        "pushed_at": "2026-11-10T23:26:50Z",
+        "updated_at": "2026-11-10T23:28:18Z",
         "starred_at": "2024-07-10T07:50:44Z"
       },
       "summary": {
@@ -9952,7 +9952,7 @@
         "repo_id": 701547123,
         "owner": "open-webui",
         "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-        "stars": 158238,
+        "stars": 158324,
         "language": "Svelte",
         "url": "https://github.com/open-webui/open-webui",
         "homepage": "https://openwebui.com",
@@ -9974,8 +9974,8 @@
           "webui"
         ],
         "created_at": "2023-10-06T22:08:27Z",
-        "pushed_at": "2026-11-09T15:02:44Z",
-        "updated_at": "2026-11-10T01:29:48Z",
+        "pushed_at": "2026-11-10T14:59:31Z",
+        "updated_at": "2026-11-10T23:21:15Z",
         "starred_at": "2024-08-12T05:54:01Z"
       },
       "summary": {
@@ -10082,7 +10082,7 @@
         "repo_id": 626805178,
         "owner": "langgenius",
         "description": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
-        "stars": 160782,
+        "stars": 160884,
         "language": "Python",
         "url": "https://github.com/langgenius/dify",
         "homepage": "https://dify.ai",
@@ -10108,8 +10108,8 @@
           "workflow"
         ],
         "created_at": "2023-04-12T07:40:24Z",
-        "pushed_at": "2026-11-10T01:35:42Z",
-        "updated_at": "2026-11-10T01:37:19Z",
+        "pushed_at": "2026-11-10T19:51:13Z",
+        "updated_at": "2026-11-10T23:02:04Z",
         "starred_at": "2024-08-16T23:15:27Z"
       },
       "summary": {
@@ -11141,7 +11141,7 @@
         "topics": [],
         "created_at": "2023-11-11T03:24:16Z",
         "pushed_at": "2024-09-27T03:31:47Z",
-        "updated_at": "2026-11-09T16:54:29Z",
+        "updated_at": "2026-11-10T18:16:11Z",
         "starred_at": "2023-12-11T08:43:04Z"
       },
       "summary": {
@@ -12633,7 +12633,7 @@
         "repo_id": 552661142,
         "owner": "langchain-ai",
         "description": "The agent engineering platform.",
-        "stars": 149283,
+        "stars": 149327,
         "language": "Python",
         "url": "https://github.com/langchain-ai/langchain",
         "homepage": "https://docs.langchain.com/langchain/",
@@ -12660,8 +12660,8 @@
           "typescript"
         ],
         "created_at": "2022-10-17T02:58:36Z",
-        "pushed_at": "2026-11-10T00:05:09Z",
-        "updated_at": "2026-11-10T01:09:56Z",
+        "pushed_at": "2026-11-10T21:33:47Z",
+        "updated_at": "2026-11-10T22:35:28Z",
         "starred_at": "2024-01-10T13:24:25Z"
       },
       "summary": {
@@ -12850,7 +12850,7 @@
         "repo_id": 612344730,
         "owner": "ChatGPTNextWeb",
         "description": "✨ Zero-config AI chat assistant. No API key needed — sign up and instantly chat with GPT-5, Claude 4, Gemini 2.5, DeepSeek & 100+ top models. Pay-as-you-go saves you more. Available on Web, iOS, macOS, Android, Linux, Windows.",
-        "stars": 88942,
+        "stars": 88948,
         "language": "TypeScript",
         "url": "https://github.com/ChatGPTNextWeb/NextChat",
         "homepage": "https://nextchat.club",
@@ -12876,7 +12876,7 @@
         ],
         "created_at": "2023-03-10T18:27:54Z",
         "pushed_at": "2026-10-20T10:19:31Z",
-        "updated_at": "2026-11-10T00:41:36Z",
+        "updated_at": "2026-11-10T17:41:14Z",
         "starred_at": "2024-11-05T14:30:04Z"
       },
       "summary": {
@@ -30467,14 +30467,14 @@
         "repo_id": 1170291083,
         "owner": "xingkongliang",
         "description": "A lightweight desktop app to manage, sync, and organize AI agent skills across 50+ coding tools — Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
-        "stars": 7391,
+        "stars": 7422,
         "language": "Rust",
         "url": "https://github.com/xingkongliang/skills-manager",
         "homepage": "https://skillsmanager.dev",
         "topics": [],
         "created_at": "2026-03-02T00:38:18Z",
-        "pushed_at": "2026-11-09T14:16:56Z",
-        "updated_at": "2026-11-10T00:53:47Z",
+        "pushed_at": "2026-11-10T10:02:35Z",
+        "updated_at": "2026-11-10T20:29:58Z",
         "starred_at": "2026-10-08T04:46:52Z"
       },
       "summary": {
@@ -31107,7 +31107,7 @@
         "repo_id": 1073224795,
         "owner": "obra",
         "description": "An agentic skills framework & software development methodology that works.",
-        "stars": 315177,
+        "stars": 315739,
         "language": "Shell",
         "url": "https://github.com/obra/superpowers",
         "homepage": "",
@@ -31123,7 +31123,7 @@
         ],
         "created_at": "2025-10-09T19:45:18Z",
         "pushed_at": "2026-11-03T23:24:58Z",
-        "updated_at": "2026-11-10T01:34:44Z",
+        "updated_at": "2026-11-10T23:28:46Z",
         "starred_at": "2026-01-19T12:20:18Z"
       },
       "summary": {
@@ -31329,14 +31329,14 @@
         "repo_id": 1178737655,
         "owner": "THU-MAIC",
         "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
-        "stars": 43164,
+        "stars": 43231,
         "language": "TypeScript",
         "url": "https://github.com/THU-MAIC/OpenMAIC",
         "homepage": "",
         "topics": [],
         "created_at": "2026-03-11T10:13:16Z",
-        "pushed_at": "2026-11-09T21:16:14Z",
-        "updated_at": "2026-11-10T01:35:27Z",
+        "pushed_at": "2026-11-10T18:46:17Z",
+        "updated_at": "2026-11-10T23:23:55Z",
         "starred_at": "2026-03-28T08:28:53Z"
       },
       "summary": {
@@ -31431,14 +31431,14 @@
         "repo_id": 1191723123,
         "owner": "ryfineZ",
         "description": "A lightweight Python tool to clean AI refusal responses from Codex CLI session files",
-        "stars": 3016,
+        "stars": 3017,
         "language": "Python",
         "url": "https://github.com/ryfineZ/codex-session-patcher",
         "homepage": "",
         "topics": [],
         "created_at": "2026-03-25T14:22:53Z",
         "pushed_at": "2026-10-05T04:42:03Z",
-        "updated_at": "2026-11-09T11:14:54Z",
+        "updated_at": "2026-11-10T07:34:29Z",
         "starred_at": "2026-03-26T01:06:55Z"
       },
       "summary": {
@@ -31501,7 +31501,7 @@
         "repo_id": 727109010,
         "owner": "dreammis",
         "description": "自动化上传视频到社交媒体：抖音、小红书、视频号、tiktok、youtube、bilibili",
-        "stars": 16368,
+        "stars": 16401,
         "language": "Python",
         "url": "https://github.com/dreammis/social-auto-upload",
         "homepage": "https://sap-doc.nasdaddy.com/",
@@ -31515,7 +31515,7 @@
         ],
         "created_at": "2023-12-04T07:49:16Z",
         "pushed_at": "2026-10-22T18:42:22Z",
-        "updated_at": "2026-11-10T01:08:48Z",
+        "updated_at": "2026-11-10T22:27:12Z",
         "starred_at": "2026-03-25T06:16:00Z"
       },
       "summary": {
@@ -31542,7 +31542,7 @@
         "repo_id": 265810847,
         "owner": "g1879",
         "description": "Python based web automation tool. Powerful and elegant.",
-        "stars": 12566,
+        "stars": 12572,
         "language": "Python",
         "url": "https://github.com/g1879/DrissionPage",
         "homepage": "https://DrissionPage.cn/",
@@ -31553,7 +31553,7 @@
         ],
         "created_at": "2020-05-21T09:43:59Z",
         "pushed_at": "2026-10-27T13:10:35Z",
-        "updated_at": "2026-11-09T19:55:49Z",
+        "updated_at": "2026-11-10T21:17:06Z",
         "starred_at": "2026-03-22T16:48:05Z"
       },
       "summary": {
@@ -31616,7 +31616,7 @@
         "repo_id": 497648805,
         "owner": "limbopro",
         "description": "毒奶博主的自用机场推荐——150GB/14元/月起，Vless/AnyTLS协议支持，透传，IEPL专线加持，稳定低延迟，ChatGPT 等AI工具支持，Netflix等主流流媒体区域限制解锁；",
-        "stars": 922,
+        "stars": 924,
         "language": "N/A",
         "url": "https://github.com/limbopro/JichangTuijian",
         "homepage": "https://limbopro.com/865.html",
@@ -31634,7 +31634,7 @@
         ],
         "created_at": "2022-05-29T16:40:48Z",
         "pushed_at": "2026-10-17T14:58:33Z",
-        "updated_at": "2026-11-09T15:27:56Z",
+        "updated_at": "2026-11-10T15:30:36Z",
         "starred_at": "2026-03-21T14:02:50Z"
       },
       "summary": {
@@ -31661,7 +31661,7 @@
         "repo_id": 1163953904,
         "owner": "llt22",
         "description": "Local-first multi-AI group chat desktop app — pull gpt, Claude, Gemini, DeepSeek into one conversation. Tauri 2 + React 19.",
-        "stars": 354,
+        "stars": 355,
         "language": "TypeScript",
         "url": "https://github.com/llt22/talkio",
         "homepage": "",
@@ -31678,7 +31678,7 @@
         ],
         "created_at": "2026-02-22T12:16:46Z",
         "pushed_at": "2026-11-01T06:58:43Z",
-        "updated_at": "2026-11-07T06:20:06Z",
+        "updated_at": "2026-11-10T02:20:50Z",
         "starred_at": "2026-03-21T02:53:38Z"
       },
       "summary": {
@@ -31745,14 +31745,14 @@
         "repo_id": 1166516871,
         "owner": "ZeroPointSix",
         "description": " Outlookmail Plus: Designed Specifically for Registration  |  Outlookmail Plus：专为注册而生  |  ",
-        "stars": 2045,
+        "stars": 2049,
         "language": "Python",
         "url": "https://github.com/ZeroPointSix/outlookEmailPlus",
         "homepage": "",
         "topics": [],
         "created_at": "2026-02-25T10:01:17Z",
         "pushed_at": "2026-08-24T13:11:04Z",
-        "updated_at": "2026-11-10T01:17:02Z",
+        "updated_at": "2026-11-10T16:45:48Z",
         "starred_at": "2026-03-20T01:22:37Z"
       },
       "summary": {
@@ -31779,14 +31779,14 @@
         "repo_id": 1188690956,
         "owner": "zc-zhangchen",
         "description": "",
-        "stars": 3631,
+        "stars": 3630,
         "language": "Python",
         "url": "https://github.com/zc-zhangchen/any-auto-register",
         "homepage": "",
         "topics": [],
         "created_at": "2026-03-22T13:00:59Z",
         "pushed_at": "2026-11-01T17:37:46Z",
-        "updated_at": "2026-11-09T16:03:48Z",
+        "updated_at": "2026-11-10T20:23:08Z",
         "starred_at": "2026-03-28T07:34:40Z"
       },
       "summary": {
@@ -31883,7 +31883,7 @@
         "repo_id": 1158953185,
         "owner": "liangdabiao",
         "description": "一句话：试错成本越来越高，提示词的重要性从来没有像今天这样大。Seedance 2.0 Storyboard Generator 开源剧情剧本Skill工具，帮佬友一键写好剧本 - 将小说/故事转化为多集视频。 为什么做这个？ 因为 seedance2 已经改变了一切，需要新的剧本剧情制作工具，更好的利用新AI的能力和更方便的制作短剧",
-        "stars": 2817,
+        "stars": 2825,
         "language": "N/A",
         "url": "https://github.com/liangdabiao/Seedance2-Storyboard-Generator",
         "homepage": "https://seedances.liangdabiao.com/",
@@ -31894,7 +31894,7 @@
         ],
         "created_at": "2026-02-16T05:56:20Z",
         "pushed_at": "2026-10-31T11:57:17Z",
-        "updated_at": "2026-11-10T01:21:51Z",
+        "updated_at": "2026-11-10T15:58:03Z",
         "starred_at": "2026-03-17T14:33:03Z"
       },
       "summary": {
@@ -32001,7 +32001,7 @@
         "repo_id": 1164005541,
         "owner": "foryourhealth111-pixel",
         "description": "Intelligent Skill routing and workflow orchestration for AI agents — +21.12 pp reward, −29.6% tokens on SkillsBench with DeepSeekV4Flash-VE.",
-        "stars": 3809,
+        "stars": 3812,
         "language": "Python",
         "url": "https://github.com/foryourhealth111-pixel/Vibe-Skills",
         "homepage": "",
@@ -32029,7 +32029,7 @@
         ],
         "created_at": "2026-02-22T13:51:44Z",
         "pushed_at": "2026-11-09T07:33:42Z",
-        "updated_at": "2026-11-10T01:21:45Z",
+        "updated_at": "2026-11-10T19:00:23Z",
         "starred_at": "2026-03-22T17:56:34Z"
       },
       "summary": {
@@ -32056,7 +32056,7 @@
         "repo_id": 1185330299,
         "owner": "lxf746",
         "description": "Auto-register & manage accounts for ChatGPT, Cursor, Kiro, Grok, Windsurf, Trae & 13+ AI platforms · Protocol/browser dual-mode · Plugin-based · One-click Mac/Windows desktop app",
-        "stars": 3427,
+        "stars": 3429,
         "language": "Python",
         "url": "https://github.com/lxf746/any-auto-register",
         "homepage": "https://github.com/lxf746/any2api",
@@ -32080,7 +32080,7 @@
         ],
         "created_at": "2026-03-18T13:26:05Z",
         "pushed_at": "2026-08-25T04:56:23Z",
-        "updated_at": "2026-11-10T01:21:20Z",
+        "updated_at": "2026-11-10T09:39:21Z",
         "starred_at": "2026-03-19T00:21:11Z"
       },
       "summary": {
@@ -32200,14 +32200,14 @@
         "repo_id": 1182385218,
         "owner": "cnlimiter",
         "description": "",
-        "stars": 1991,
+        "stars": 1990,
         "language": "Python",
         "url": "https://github.com/cnlimiter/codex-manager",
         "homepage": "",
         "topics": [],
         "created_at": "2026-03-15T12:59:27Z",
         "pushed_at": "2026-03-28T08:39:44Z",
-        "updated_at": "2026-11-06T16:47:20Z",
+        "updated_at": "2026-11-10T14:55:34Z",
         "starred_at": "2026-03-15T23:26:37Z"
       },
       "summary": {
@@ -32234,14 +32234,14 @@
         "repo_id": 1179264259,
         "owner": "garrytan",
         "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
-        "stars": 140968,
+        "stars": 141099,
         "language": "TypeScript",
         "url": "https://github.com/garrytan/gstack",
         "homepage": "",
         "topics": [],
         "created_at": "2026-03-11T21:22:45Z",
-        "pushed_at": "2026-11-10T01:33:40Z",
-        "updated_at": "2026-11-10T01:37:09Z",
+        "pushed_at": "2026-11-10T17:38:02Z",
+        "updated_at": "2026-11-10T23:16:13Z",
         "starred_at": "2026-03-15T10:36:48Z"
       },
       "summary": {
@@ -32542,7 +32542,7 @@
         "name": "prompt-optimizer-studio",
         "repo_id": 1177118700,
         "owner": "XBigRoad",
-        "description": "可同时输入多个初版提示词，开启多轮自动优化，连续得到高分后得到最终结果。",
+        "description": "提示词优化工作台：多轮自动优化与评分，支持人工接管和完整提示词交付",
         "stars": 215,
         "language": "TypeScript",
         "url": "https://github.com/XBigRoad/prompt-optimizer-studio",
@@ -32556,8 +32556,8 @@
           "prompt-tuning"
         ],
         "created_at": "2026-03-09T17:59:40Z",
-        "pushed_at": "2026-04-04T14:12:39Z",
-        "updated_at": "2026-11-08T10:55:12Z",
+        "pushed_at": "2026-11-10T07:26:24Z",
+        "updated_at": "2026-11-10T07:26:29Z",
         "starred_at": "2026-03-11T11:45:33Z"
       },
       "summary": {
@@ -32586,14 +32586,14 @@
         "repo_id": 1176011916,
         "owner": "HKUDS",
         "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
-        "stars": 58514,
+        "stars": 58555,
         "language": "Python",
         "url": "https://github.com/HKUDS/CLI-Anything",
         "homepage": "https://clianything.cc/",
         "topics": [],
         "created_at": "2026-03-08T13:52:57Z",
         "pushed_at": "2026-09-22T02:01:29Z",
-        "updated_at": "2026-11-10T01:26:08Z",
+        "updated_at": "2026-11-10T22:41:36Z",
         "starred_at": "2026-03-11T07:47:13Z"
       },
       "summary": {
@@ -32749,8 +32749,8 @@
           "web-security"
         ],
         "created_at": "2026-02-21T15:58:16Z",
-        "pushed_at": "2026-11-06T05:43:21Z",
-        "updated_at": "2026-11-09T12:43:39Z",
+        "pushed_at": "2026-11-10T12:20:14Z",
+        "updated_at": "2026-11-10T12:20:02Z",
         "starred_at": "2026-03-07T14:43:57Z"
       },
       "summary": {
@@ -32777,14 +32777,14 @@
         "repo_id": 1174319423,
         "owner": "caiwuu",
         "description": "把网页AI转api，如claude2api",
-        "stars": 661,
+        "stars": 662,
         "language": "Python",
         "url": "https://github.com/caiwuu/web2api",
         "homepage": "",
         "topics": [],
         "created_at": "2026-03-06T10:00:35Z",
         "pushed_at": "2026-05-16T16:21:35Z",
-        "updated_at": "2026-11-10T00:08:54Z",
+        "updated_at": "2026-11-10T02:52:39Z",
         "starred_at": "2026-03-07T03:54:37Z"
       },
       "summary": {
@@ -32915,7 +32915,7 @@
         "repo_id": 1105284049,
         "owner": "jasonwong1991",
         "description": "A proxy node pool management tool based on sing-box, supporting multiple protocols, automatic failover and load balancing.  基于 sing-box 的代理节点池管理工具，支持多协议、多节点自动故障转移和负载均衡。",
-        "stars": 1853,
+        "stars": 1856,
         "language": "Go",
         "url": "https://github.com/jasonwong1991/easy_proxies",
         "homepage": "",
@@ -32924,7 +32924,7 @@
         ],
         "created_at": "2025-11-27T11:44:07Z",
         "pushed_at": "2026-10-25T06:07:33Z",
-        "updated_at": "2026-11-09T16:46:24Z",
+        "updated_at": "2026-11-10T12:28:48Z",
         "starred_at": "2026-03-03T00:19:53Z"
       },
       "summary": {
@@ -33096,7 +33096,7 @@
         "topics": [],
         "created_at": "2026-03-01T07:54:06Z",
         "pushed_at": "2026-07-24T07:04:07Z",
-        "updated_at": "2026-11-09T11:57:22Z",
+        "updated_at": "2026-11-10T08:51:11Z",
         "starred_at": "2026-03-02T03:03:13Z"
       },
       "summary": {
@@ -33123,7 +33123,7 @@
         "repo_id": 377163326,
         "owner": "Devolutions",
         "description": "UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers",
-        "stars": 26959,
+        "stars": 26984,
         "language": "C#",
         "url": "https://github.com/Devolutions/UniGetUI",
         "homepage": "https://devolutions.net/unigetui/",
@@ -33142,8 +33142,8 @@
           "winget"
         ],
         "created_at": "2021-06-15T12:57:58Z",
-        "pushed_at": "2026-11-09T21:42:56Z",
-        "updated_at": "2026-11-10T01:30:47Z",
+        "pushed_at": "2026-11-10T21:27:29Z",
+        "updated_at": "2026-11-10T22:55:27Z",
         "starred_at": "2026-03-02T00:30:46Z"
       },
       "summary": {
@@ -33236,7 +33236,7 @@
         ],
         "created_at": "2026-02-15T11:49:39Z",
         "pushed_at": "2026-09-28T10:52:20Z",
-        "updated_at": "2026-11-07T18:01:21Z",
+        "updated_at": "2026-11-10T08:00:20Z",
         "starred_at": "2026-03-01T14:24:08Z"
       },
       "summary": {
@@ -33269,7 +33269,7 @@
         "homepage": "https://stars.iblogc.com",
         "topics": [],
         "created_at": "2026-02-24T19:41:47Z",
-        "pushed_at": "2026-11-10T01:33:10Z",
+        "pushed_at": "2026-11-10T23:24:05Z",
         "updated_at": "2026-11-09T23:47:02Z",
         "starred_at": "2026-03-01T03:39:50Z"
       },
@@ -33331,7 +33331,7 @@
         "repo_id": 1130325611,
         "owner": "poco-ai",
         "description": "A more beautiful and easier-to-use alternative to OpenClaw. It features a nicer Web UI, built-in IM support, a sandboxed runtime and channel-based team collaboration. Under the hood, it is powered by a Claude Code–based agent.",
-        "stars": 1360,
+        "stars": 1361,
         "language": "Python",
         "url": "https://github.com/poco-ai/poco-claw",
         "homepage": "https://poco-docs.vercel.app/",
@@ -33346,7 +33346,7 @@
         ],
         "created_at": "2026-01-08T10:48:17Z",
         "pushed_at": "2026-10-19T02:42:53Z",
-        "updated_at": "2026-11-09T12:33:08Z",
+        "updated_at": "2026-11-10T02:41:04Z",
         "starred_at": "2026-02-27T17:06:51Z"
       },
       "summary": {
@@ -33380,7 +33380,7 @@
         "topics": [],
         "created_at": "2025-02-20T06:07:40Z",
         "pushed_at": "2026-10-18T16:39:03Z",
-        "updated_at": "2026-11-09T03:11:14Z",
+        "updated_at": "2026-11-10T17:04:01Z",
         "starred_at": "2026-03-02T18:21:55Z"
       },
       "summary": {
@@ -33407,14 +33407,14 @@
         "repo_id": 1108962103,
         "owner": "ZToolsCenter",
         "description": "An open-source implementation of uTools, a high-performance, scalable application launcher and plugin platform | Supports macOS and Windows, 一个高性能、可扩展的应用启动器和插件平台  uTools 的开源实现 | 支持 macOS 和 Windows",
-        "stars": 4123,
+        "stars": 4126,
         "language": "TypeScript",
         "url": "https://github.com/ZToolsCenter/ZTools",
         "homepage": "",
         "topics": [],
         "created_at": "2025-12-03T06:39:28Z",
         "pushed_at": "2026-11-09T12:10:23Z",
-        "updated_at": "2026-11-09T17:03:34Z",
+        "updated_at": "2026-11-10T09:15:44Z",
         "starred_at": "2026-02-22T13:50:45Z"
       },
       "summary": {
@@ -33647,14 +33647,14 @@
         "repo_id": 1153780962,
         "owner": "MemeCalculate",
         "description": "AI 影视生产级工具 | 支持 Seedance 2.0 | 剧本到成片全流程批量化 | AI-powered film production tool with Seedance 2.0 support",
-        "stars": 4836,
+        "stars": 4835,
         "language": "TypeScript",
         "url": "https://github.com/MemeCalculate/moyin-creator",
         "homepage": "http://moyincreator.com/",
         "topics": [],
         "created_at": "2026-02-09T17:01:11Z",
         "pushed_at": "2026-08-27T09:06:44Z",
-        "updated_at": "2026-11-10T01:36:54Z",
+        "updated_at": "2026-11-10T13:48:10Z",
         "starred_at": "2026-02-10T03:28:16Z"
       },
       "summary": {
@@ -33683,7 +33683,7 @@
         "repo_id": 742820425,
         "owner": "wuzf",
         "description": "Two Factor Authentication",
-        "stars": 461,
+        "stars": 462,
         "language": "JavaScript",
         "url": "https://github.com/wuzf/2fa",
         "homepage": "https://2fa-dev.wzf.workers.dev",
@@ -33709,8 +33709,8 @@
           "webdav"
         ],
         "created_at": "2024-01-13T13:20:11Z",
-        "pushed_at": "2026-11-09T08:01:07Z",
-        "updated_at": "2026-11-10T01:17:40Z",
+        "pushed_at": "2026-11-10T08:26:58Z",
+        "updated_at": "2026-11-10T08:42:53Z",
         "starred_at": "2026-02-25T14:19:44Z"
       },
       "summary": {
@@ -33837,7 +33837,7 @@
         "repo_id": 1151176421,
         "owner": "liangdabiao",
         "description": "SeekMoney-ai ，找商机，覆盖全视频社交媒体渠道。一人低成本完成需求挖掘与验证- 多平台数据采集（抖音、小红书、TikTok、Bilibili、微信视频号、YouTube）  - 基于 openai兼容/GLM + embedding + DBSCAN 的语义聚类算法  - 调用 openai兼容/GLM-4.7 思考模型深度分析用户痛点  - 智能优先级评分系统（需求强度 + 市场规模 + 竞争度）",
-        "stars": 183,
+        "stars": 184,
         "language": "TypeScript",
         "url": "https://github.com/liangdabiao/SeekMoney-ai",
         "homepage": "https://liangdabiao.com/",
@@ -33846,7 +33846,7 @@
         ],
         "created_at": "2026-02-06T06:22:18Z",
         "pushed_at": "2026-07-06T14:17:10Z",
-        "updated_at": "2026-11-08T12:00:46Z",
+        "updated_at": "2026-11-10T08:06:40Z",
         "starred_at": "2026-02-06T15:31:25Z"
       },
       "summary": {
@@ -33875,14 +33875,14 @@
         "repo_id": 1144949487,
         "owner": "TQZHR",
         "description": "Grok2API (Cloudflare Workers) one-click deploy with auto D1+KV provisioning",
-        "stars": 708,
+        "stars": 706,
         "language": "Python",
         "url": "https://github.com/TQZHR/grok2api",
         "homepage": "",
         "topics": [],
         "created_at": "2026-01-29T08:33:17Z",
         "pushed_at": "2026-04-18T06:20:35Z",
-        "updated_at": "2026-11-07T09:22:41Z",
+        "updated_at": "2026-11-10T17:00:22Z",
         "starred_at": "2026-02-04T13:18:12Z"
       },
       "summary": {
@@ -34094,7 +34094,7 @@
         "repo_id": 1148117867,
         "owner": "ccbkkb",
         "description": "🚀轻量级 Cloudflare IP 优选工具",
-        "stars": 113,
+        "stars": 114,
         "language": "Python",
         "url": "https://github.com/ccbkkb/NekoFlare",
         "homepage": "https://cf.788882.xyz",
@@ -34105,7 +34105,7 @@
         ],
         "created_at": "2026-02-02T15:46:03Z",
         "pushed_at": "2026-04-19T07:42:13Z",
-        "updated_at": "2026-11-09T15:32:08Z",
+        "updated_at": "2026-11-10T09:22:12Z",
         "starred_at": "2026-02-03T14:22:48Z"
       },
       "summary": {
@@ -34132,7 +34132,7 @@
         "repo_id": 1130809465,
         "owner": "Yeachan-Heo",
         "description": "Teams-first Multi-agent orchestration for Claude Code",
-        "stars": 40723,
+        "stars": 40745,
         "language": "TypeScript",
         "url": "https://github.com/Yeachan-Heo/oh-my-claudecode",
         "homepage": "https://oh-my-claudecode.dev",
@@ -34149,8 +34149,8 @@
           "vibe-coding"
         ],
         "created_at": "2026-01-09T03:36:29Z",
-        "pushed_at": "2026-11-10T00:20:28Z",
-        "updated_at": "2026-11-10T01:16:31Z",
+        "pushed_at": "2026-11-10T23:22:34Z",
+        "updated_at": "2026-11-10T23:28:11Z",
         "starred_at": "2026-01-25T03:09:05Z"
       },
       "summary": {
@@ -34211,7 +34211,7 @@
         "repo_id": 1139136822,
         "owner": "CJackHwang",
         "description": "DeepSeek-Compatible Middleware Interface: A technical exploration project in Go, focusing on high-concurrency protocol adaptation. It serves as a reference implementation for converting diverse web protocols into standardized formats.",
-        "stars": 4711,
+        "stars": 4709,
         "language": "Go",
         "url": "https://github.com/CJackHwang/ds2api",
         "homepage": "https://linux.do/u/cjackhwang",
@@ -34233,7 +34233,7 @@
         ],
         "created_at": "2026-01-21T15:14:40Z",
         "pushed_at": "2026-05-10T15:33:52Z",
-        "updated_at": "2026-11-09T23:43:53Z",
+        "updated_at": "2026-11-10T14:53:40Z",
         "starred_at": "2026-02-01T13:39:18Z"
       },
       "summary": {
@@ -34273,7 +34273,7 @@
         ],
         "created_at": "2026-01-19T09:18:09Z",
         "pushed_at": "2026-11-09T09:02:01Z",
-        "updated_at": "2026-11-09T20:59:26Z",
+        "updated_at": "2026-11-10T22:14:24Z",
         "starred_at": "2026-01-24T16:03:16Z"
       },
       "summary": {
@@ -34300,7 +34300,7 @@
         "repo_id": 1115322337,
         "owner": "iBUHub",
         "description": "A wrapper that exposes Google AI Studio Build as OpenAI, Gemini, and Anthropic compatible APIs.（一个将 Google AI Studio Build 封装为兼容 OpenAI / Gemini / Anthropic 风格 API 的工具）",
-        "stars": 1865,
+        "stars": 1863,
         "language": "JavaScript",
         "url": "https://github.com/iBUHub/AIStudioToAPI",
         "homepage": "",
@@ -34311,7 +34311,7 @@
         ],
         "created_at": "2025-12-12T17:16:28Z",
         "pushed_at": "2026-10-28T06:36:44Z",
-        "updated_at": "2026-11-10T01:03:55Z",
+        "updated_at": "2026-11-10T20:25:27Z",
         "starred_at": "2026-01-25T01:00:27Z"
       },
       "summary": {
@@ -34416,14 +34416,14 @@
         "repo_id": 1036732253,
         "owner": "MoonTechLab",
         "description": "本项目采用 CC BY-NC-SA 协议，禁止任何商业化行为，任何衍生项目必须保留本项目地址并以相同协议开源",
-        "stars": 10924,
+        "stars": 10932,
         "language": "TypeScript",
         "url": "https://github.com/MoonTechLab/LunaTV",
         "homepage": "",
         "topics": [],
         "created_at": "2025-08-12T13:59:33Z",
         "pushed_at": "2026-09-10T07:57:24Z",
-        "updated_at": "2026-11-09T13:05:30Z",
+        "updated_at": "2026-11-10T17:41:11Z",
         "starred_at": "2026-01-24T00:34:44Z"
       },
       "summary": {
@@ -34484,7 +34484,7 @@
         "repo_id": 1073538908,
         "owner": "chenyme",
         "description": "Multi-account API gateway for Grok Build, Grok Web, and Grok Console",
-        "stars": 7890,
+        "stars": 7893,
         "language": "Go",
         "url": "https://github.com/chenyme/grok2api",
         "homepage": "",
@@ -34498,7 +34498,7 @@
         ],
         "created_at": "2025-10-10T09:00:02Z",
         "pushed_at": "2026-10-22T05:41:37Z",
-        "updated_at": "2026-11-10T01:17:54Z",
+        "updated_at": "2026-11-10T21:07:55Z",
         "starred_at": "2026-01-22T14:55:57Z"
       },
       "summary": {
@@ -34638,7 +34638,7 @@
         "repo_id": 1110782890,
         "owner": "YishenTu",
         "description": "An Obsidian plugin that embeds Claude Code, Codex and other agents as an AI collaborator in your vault.",
-        "stars": 15954,
+        "stars": 15966,
         "language": "TypeScript",
         "url": "https://github.com/YishenTu/claudian",
         "homepage": "",
@@ -34655,8 +34655,8 @@
           "productivity"
         ],
         "created_at": "2025-12-05T17:58:26Z",
-        "pushed_at": "2026-11-10T01:22:15Z",
-        "updated_at": "2026-11-10T00:51:23Z",
+        "pushed_at": "2026-11-10T17:28:22Z",
+        "updated_at": "2026-11-10T21:57:21Z",
         "starred_at": "2026-01-20T06:02:21Z"
       },
       "summary": {
@@ -34683,7 +34683,7 @@
         "repo_id": 1079084637,
         "owner": "alirezarezvani",
         "description": "410 Claude Code skills & agent skills & plugins (120+ Agents, custom commands, 410+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial & finance, and your daily productivity skills.",
-        "stars": 29540,
+        "stars": 29598,
         "language": "Python",
         "url": "https://github.com/alirezarezvani/claude-skills",
         "homepage": "https://alirezarezvani.medium.com/",
@@ -34710,8 +34710,8 @@
           "prompt-engineering"
         ],
         "created_at": "2025-10-19T04:04:05Z",
-        "pushed_at": "2026-11-05T06:58:08Z",
-        "updated_at": "2026-11-10T01:35:56Z",
+        "pushed_at": "2026-11-10T15:57:01Z",
+        "updated_at": "2026-11-10T22:48:17Z",
         "starred_at": "2026-01-15T23:44:03Z"
       },
       "summary": {
@@ -34774,7 +34774,7 @@
         "repo_id": 1077850011,
         "owner": "travisvn",
         "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows — particularly Claude Code",
-        "stars": 15752,
+        "stars": 15767,
         "language": "N/A",
         "url": "https://github.com/travisvn/awesome-claude-skills",
         "homepage": "",
@@ -34793,7 +34793,7 @@
         ],
         "created_at": "2025-10-16T20:42:39Z",
         "pushed_at": "2026-04-28T19:30:24Z",
-        "updated_at": "2026-11-09T22:29:30Z",
+        "updated_at": "2026-11-10T22:25:10Z",
         "starred_at": "2026-01-15T23:45:25Z"
       },
       "summary": {
@@ -34898,14 +34898,14 @@
         "repo_id": 1131797886,
         "owner": "axtonliu",
         "description": "Visual Skills Pack for Obsidian: generate Canvas, Excalidraw, and Mermaid diagrams from text with Claude Code",
-        "stars": 3680,
+        "stars": 3681,
         "language": "N/A",
         "url": "https://github.com/axtonliu/axton-obsidian-visual-skills",
         "homepage": "",
         "topics": [],
         "created_at": "2026-01-10T18:01:37Z",
         "pushed_at": "2026-06-26T15:32:40Z",
-        "updated_at": "2026-11-09T17:28:31Z",
+        "updated_at": "2026-11-10T18:50:26Z",
         "starred_at": "2026-01-15T16:16:31Z"
       },
       "summary": {
@@ -34934,7 +34934,7 @@
         "repo_id": 1106663535,
         "owner": "Anionex",
         "description": "一站式原生AI PPT生成应用，几分钟内生成一套幻灯片; 支持上传任意模板图片，上传任意素材&智能解析，一句话/大纲/页面描述自动生成PPT，口头修改指定区域、一键导出可编辑ppt、视频等 - An AI-native slides generator based on nano banana/gpt-image🏞️",
-        "stars": 15972,
+        "stars": 15981,
         "language": "Python",
         "url": "https://github.com/Anionex/banana-slides",
         "homepage": "https://bananaslides.online",
@@ -34952,7 +34952,7 @@
         ],
         "created_at": "2025-11-29T17:37:26Z",
         "pushed_at": "2026-11-08T16:10:01Z",
-        "updated_at": "2026-11-09T12:08:04Z",
+        "updated_at": "2026-11-10T17:09:35Z",
         "starred_at": "2026-01-14T07:43:04Z"
       },
       "summary": {
@@ -35123,14 +35123,14 @@
         "repo_id": 1128267392,
         "owner": "chatfire-AI",
         "description": "🎬 火宝短剧 - 基于AI的一站式短剧生成平台 《一句话生成完整短剧，从剧本到成片全自动化》  Huobao Drama - An AI-Powered End-to-End Short Drama Generator \"One Sentence to Complete Drama: Fully Automated from Script to Final Video\"",
-        "stars": 17183,
+        "stars": 17220,
         "language": "TypeScript",
         "url": "https://github.com/chatfire-AI/huobao-drama",
         "homepage": "",
         "topics": [],
         "created_at": "2026-01-05T11:38:30Z",
         "pushed_at": "2026-11-05T10:34:40Z",
-        "updated_at": "2026-11-10T00:51:48Z",
+        "updated_at": "2026-11-10T19:22:27Z",
         "starred_at": "2026-01-12T08:49:45Z"
       },
       "summary": {
@@ -35265,7 +35265,7 @@
         "repo_id": 971999086,
         "owner": "maillab",
         "description": "An all-in-one email service platform powered by Cloudflare  | 基于 Cloudflare 的一站式邮箱服务平台  | Cloudflare Email 邮箱 Mail",
-        "stars": 15566,
+        "stars": 15582,
         "language": "JavaScript",
         "url": "https://github.com/maillab/cloud-mail",
         "homepage": "https://docs.skymail.ink",
@@ -35278,7 +35278,7 @@
         ],
         "created_at": "2025-04-24T11:36:56Z",
         "pushed_at": "2026-10-25T18:37:03Z",
-        "updated_at": "2026-11-10T01:16:45Z",
+        "updated_at": "2026-11-10T22:10:23Z",
         "starred_at": "2026-01-09T05:06:27Z"
       },
       "summary": {
@@ -35305,14 +35305,14 @@
         "repo_id": 1102384337,
         "owner": "SaladDay",
         "description": "⭐️ A cross-platform CLI All-in-One assistant tool for Claude Code, Codex & Gemini CLI.",
-        "stars": 5457,
+        "stars": 5464,
         "language": "Rust",
         "url": "https://github.com/SaladDay/cc-switch-cli",
         "homepage": "",
         "topics": [],
         "created_at": "2025-11-23T11:15:12Z",
         "pushed_at": "2026-11-05T09:17:04Z",
-        "updated_at": "2026-11-09T13:28:08Z",
+        "updated_at": "2026-11-10T16:00:48Z",
         "starred_at": "2026-01-07T23:27:50Z"
       },
       "summary": {
@@ -35373,7 +35373,7 @@
         "repo_id": 1020672081,
         "owner": "Usagi-org",
         "description": "基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。",
-        "stars": 18568,
+        "stars": 19405,
         "language": "Python",
         "url": "https://github.com/Usagi-org/ai-goofish-monitor",
         "homepage": "",
@@ -35394,7 +35394,7 @@
         ],
         "created_at": "2025-07-16T08:13:41Z",
         "pushed_at": "2026-10-10T07:39:16Z",
-        "updated_at": "2026-11-10T01:36:04Z",
+        "updated_at": "2026-11-10T23:27:42Z",
         "starred_at": "2026-01-13T04:13:47Z"
       },
       "summary": {
@@ -35504,7 +35504,7 @@
         "repo_id": 1127793756,
         "owner": "fengshao1227",
         "description": "多模型协作工作流引擎 — /ccg:go 一个命令，AI 自动分析意图、选择策略、编排 Codex + Gemini + Claude 协作执行",
-        "stars": 5978,
+        "stars": 5979,
         "language": "TypeScript",
         "url": "https://github.com/fengshao1227/ccg-workflow",
         "homepage": "https://ccg.fengshao1227.com",
@@ -35525,7 +35525,7 @@
         ],
         "created_at": "2026-01-04T15:56:26Z",
         "pushed_at": "2026-11-02T03:12:32Z",
-        "updated_at": "2026-11-09T09:21:40Z",
+        "updated_at": "2026-11-10T04:40:35Z",
         "starred_at": "2026-01-05T04:51:49Z"
       },
       "summary": {
@@ -35586,14 +35586,14 @@
         "repo_id": 1126794718,
         "owner": "zhalice2011",
         "description": "ProxyLLM是一款本地 Electron 应用，通过捕获浏览器会话把多种 LLM网站的能力统一为 OpenAI 兼容 API, 一键应用到Claude Code (ProxyLLM is a local Electron application that captures browser sessions to unify the capabilities of multiple LLM websites into an OpenAI-compatible API, enabling one-click integration with Claude Code)",
-        "stars": 408,
+        "stars": 407,
         "language": "TypeScript",
         "url": "https://github.com/zhalice2011/ProxyLLM",
         "homepage": "",
         "topics": [],
         "created_at": "2026-01-02T15:36:46Z",
         "pushed_at": "2026-01-02T16:02:40Z",
-        "updated_at": "2026-11-09T22:05:55Z",
+        "updated_at": "2026-11-10T07:09:24Z",
         "starred_at": "2026-01-04T09:43:51Z"
       },
       "summary": {
@@ -35688,7 +35688,7 @@
         "repo_id": 1098665524,
         "owner": "bestruirui",
         "description": "One Hub All LLMs For You | 为个人打造的 LLM API 聚合网关",
-        "stars": 2745,
+        "stars": 2746,
         "language": "TypeScript",
         "url": "https://github.com/bestruirui/octopus",
         "homepage": "",
@@ -35712,7 +35712,7 @@
         ],
         "created_at": "2025-11-18T01:41:03Z",
         "pushed_at": "2026-10-23T00:51:48Z",
-        "updated_at": "2026-11-09T09:52:58Z",
+        "updated_at": "2026-11-10T11:59:37Z",
         "starred_at": "2025-12-24T17:29:04Z"
       },
       "summary": {
@@ -36005,7 +36005,7 @@
         "topics": [],
         "created_at": "2025-12-11T14:31:35Z",
         "pushed_at": "2026-11-01T15:21:22Z",
-        "updated_at": "2026-11-09T18:07:23Z",
+        "updated_at": "2026-11-10T16:44:35Z",
         "starred_at": "2025-12-16T11:47:36Z"
       },
       "summary": {
@@ -36186,14 +36186,14 @@
         "repo_id": 1106598870,
         "owner": "wttwins",
         "description": "一个基于AI的学生错题本",
-        "stars": 841,
+        "stars": 843,
         "language": "TypeScript",
         "url": "https://github.com/wttwins/wrong-notebook",
         "homepage": "",
         "topics": [],
         "created_at": "2025-11-29T15:12:46Z",
         "pushed_at": "2026-11-06T23:11:19Z",
-        "updated_at": "2026-11-09T06:58:07Z",
+        "updated_at": "2026-11-10T13:17:03Z",
         "starred_at": "2025-12-16T05:26:41Z"
       },
       "summary": {
@@ -36254,14 +36254,14 @@
         "repo_id": 994995137,
         "owner": "Lapis0x0",
         "description": "Agent-native AI assistant — chat, write, whiteboard, learning, all in one.",
-        "stars": 1388,
+        "stars": 1389,
         "language": "TypeScript",
         "url": "https://github.com/Lapis0x0/obsidian-yolo",
         "homepage": "",
         "topics": [],
         "created_at": "2025-06-02T20:00:54Z",
-        "pushed_at": "2026-11-09T09:55:56Z",
-        "updated_at": "2026-11-09T09:08:38Z",
+        "pushed_at": "2026-11-10T13:14:37Z",
+        "updated_at": "2026-11-10T13:14:45Z",
         "starred_at": "2025-12-04T04:26:29Z"
       },
       "summary": {
@@ -36290,7 +36290,7 @@
         "repo_id": 941160149,
         "owner": "CherryHQ",
         "description": "🍒 This is the mobile version of Cherry Studio.",
-        "stars": 4066,
+        "stars": 4069,
         "language": "TypeScript",
         "url": "https://github.com/CherryHQ/cherry-studio-app",
         "homepage": "https://cherry-ai.com",
@@ -36303,8 +36303,8 @@
           "ios"
         ],
         "created_at": "2025-03-01T16:26:52Z",
-        "pushed_at": "2026-11-10T00:49:20Z",
-        "updated_at": "2026-11-09T19:04:31Z",
+        "pushed_at": "2026-11-10T16:32:32Z",
+        "updated_at": "2026-11-10T16:09:19Z",
         "starred_at": "2025-11-05T04:02:23Z"
       },
       "summary": {
@@ -36331,7 +36331,7 @@
         "repo_id": 1008373485,
         "owner": "siteboon",
         "description": "Use Claude Code, OpenCode, Cursor CLI, and Codex on mobile and web with CloudCLI (aka Claude Code UI). CloudCLI is a free open source webui/GUI that helps you manage your Claude Code session and projects remotely.",
-        "stars": 14531,
+        "stars": 14554,
         "language": "TypeScript",
         "url": "https://github.com/siteboon/claudecodeui",
         "homepage": "https://cloudcli.ai",
@@ -36351,7 +36351,7 @@
         ],
         "created_at": "2025-06-25T12:51:12Z",
         "pushed_at": "2026-11-09T12:24:38Z",
-        "updated_at": "2026-11-10T01:28:09Z",
+        "updated_at": "2026-11-10T22:38:37Z",
         "starred_at": "2025-10-22T15:27:37Z"
       },
       "summary": {
@@ -36378,14 +36378,14 @@
         "repo_id": 1061023885,
         "owner": "fish2018",
         "description": "通过对话挖掘用户需求，并自动生成专业的提示词，支持系统/用户提示词优化、效果对比，版本管理和支持即时渲染的操练场，新增通过多轮对话绘图改图，图片逆推提示词、绘图提示词优化，https://yprompt.252035.xyz   公共账号：demo / demo",
-        "stars": 1738,
+        "stars": 1739,
         "language": "N/A",
         "url": "https://github.com/fish2018/YPrompt",
         "homepage": "https://yprompt.252035.xyz/playground/share/UkpYxwO9l9hx",
         "topics": [],
         "created_at": "2025-09-21T04:42:13Z",
         "pushed_at": "2026-01-06T04:52:36Z",
-        "updated_at": "2026-11-09T06:35:56Z",
+        "updated_at": "2026-11-10T09:03:48Z",
         "starred_at": "2025-10-01T16:38:32Z"
       },
       "summary": {
@@ -36414,7 +36414,7 @@
         "repo_id": 1074177872,
         "owner": "t59688",
         "description": "AI 写作伙伴，点亮你的创作灵感",
-        "stars": 1627,
+        "stars": 1628,
         "language": "Python",
         "url": "https://github.com/t59688/arboris-novel",
         "homepage": "https://arboris.aozhiai.com",
@@ -36424,7 +36424,7 @@
         ],
         "created_at": "2025-10-11T09:39:24Z",
         "pushed_at": "2026-02-25T01:17:49Z",
-        "updated_at": "2026-11-09T13:58:37Z",
+        "updated_at": "2026-11-10T09:03:58Z",
         "starred_at": "2025-10-21T05:08:03Z"
       },
       "summary": {
@@ -36681,7 +36681,7 @@
         "repo_id": 834143002,
         "owner": "oiov",
         "description": "一站式域名服务平台，集成短链生成、无限域名邮箱、文件存储和子域名管理，带有管理员面板，支持自部署",
-        "stars": 2291,
+        "stars": 2293,
         "language": "TypeScript",
         "url": "https://github.com/oiov/wr.do",
         "homepage": "https://wr.do",
@@ -36698,7 +36698,7 @@
         ],
         "created_at": "2024-07-26T14:06:39Z",
         "pushed_at": "2026-10-29T04:50:32Z",
-        "updated_at": "2026-11-09T12:18:32Z",
+        "updated_at": "2026-11-10T11:55:23Z",
         "starred_at": "2025-07-12T17:03:15Z"
       },
       "summary": {
@@ -36766,7 +36766,7 @@
         "topics": [],
         "created_at": "2025-06-28T05:05:24Z",
         "pushed_at": "2026-10-10T08:31:52Z",
-        "updated_at": "2026-11-09T09:32:59Z",
+        "updated_at": "2026-11-10T14:37:23Z",
         "starred_at": "2025-07-06T05:13:44Z"
       },
       "summary": {
@@ -36793,7 +36793,7 @@
         "repo_id": 850267588,
         "owner": "78",
         "description": "An MCP-based chatbot | 一个基于MCP的聊天机器人",
-        "stars": 32955,
+        "stars": 33009,
         "language": "C++",
         "url": "https://github.com/78/xiaozhi-esp32",
         "homepage": "https://xiaozhi.me",
@@ -36804,7 +36804,7 @@
         ],
         "created_at": "2024-08-31T10:08:16Z",
         "pushed_at": "2026-11-07T04:14:09Z",
-        "updated_at": "2026-11-10T01:32:17Z",
+        "updated_at": "2026-11-10T22:59:28Z",
         "starred_at": "2025-07-01T15:06:36Z"
       },
       "summary": {
@@ -36903,7 +36903,7 @@
         "repo_id": 989741944,
         "owner": "yeahhe365",
         "description": "一个先进的聊天应用，演示了一种独特的对话范式：用户的查询首先由两个不同的人工智能角色进行辩论和提炼，然后才提供最终的综合答案。该项目利用 Google Gemini API 驱动一个逻辑型 AI (Cognito) 和一个怀疑型 AI (Muse)，它们协作生成更健壮、准确和经过严格审查的响应。",
-        "stars": 347,
+        "stars": 348,
         "language": "TypeScript",
         "url": "https://github.com/yeahhe365/Dual-AI-Chat",
         "homepage": "https://c3d98006.dual-ai-chat-dvb.pages.dev/",
@@ -36920,7 +36920,7 @@
         ],
         "created_at": "2025-05-24T18:22:21Z",
         "pushed_at": "2026-07-16T13:05:52Z",
-        "updated_at": "2026-11-05T21:44:21Z",
+        "updated_at": "2026-11-10T09:51:59Z",
         "starred_at": "2025-06-22T17:01:51Z"
       },
       "summary": {
@@ -36999,7 +36999,7 @@
         "repo_id": 993561569,
         "owner": "justlovemaki",
         "description": "AI资讯日报 是一个基于 Cloudflare Workers 驱动的内容聚合与生成平台。它每日为您精选 AI 领域的最新动态，包括行业新闻、热门开源项目、前沿学术论文、科技大V社交媒体言论，并通过 Google Gemini 模型进行智能处理与摘要生成，最终自动发布到 GitHub Pages 生成 AI 日报。",
-        "stars": 1822,
+        "stars": 1823,
         "language": "JavaScript",
         "url": "https://github.com/justlovemaki/CloudFlare-AI-Insight-Daily",
         "homepage": "https://hex2077.dev/",
@@ -37007,8 +37007,8 @@
           "aicoding"
         ],
         "created_at": "2025-05-31T02:56:37Z",
-        "pushed_at": "2026-11-09T03:59:37Z",
-        "updated_at": "2026-11-09T18:05:58Z",
+        "pushed_at": "2026-11-10T16:18:22Z",
+        "updated_at": "2026-11-10T03:49:09Z",
         "starred_at": "2025-06-06T14:12:25Z"
       },
       "summary": {
@@ -37149,7 +37149,7 @@
         "repo_id": 808144141,
         "owner": "DigitalPlatDev",
         "description": "Free domain registration and practical DNS learning resources for everyone.",
-        "stars": 207697,
+        "stars": 207767,
         "language": "Markdown",
         "url": "https://github.com/DigitalPlatDev/FreeDomain",
         "homepage": "https://dashboard.digitalplat.org",
@@ -37172,7 +37172,7 @@
         ],
         "created_at": "2024-05-30T13:23:00Z",
         "pushed_at": "2026-08-12T10:36:46Z",
-        "updated_at": "2026-11-10T01:37:28Z",
+        "updated_at": "2026-11-10T23:18:50Z",
         "starred_at": "2025-05-06T05:18:59Z"
       },
       "summary": {
@@ -37199,7 +37199,7 @@
         "repo_id": 935604638,
         "owner": "Fosowl",
         "description": "Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity.",
-        "stars": 27649,
+        "stars": 27653,
         "language": "Python",
         "url": "https://github.com/Fosowl/agenticSeek",
         "homepage": "http://agenticseek.tech",
@@ -37215,7 +37215,7 @@
         ],
         "created_at": "2025-02-19T18:03:06Z",
         "pushed_at": "2026-10-22T16:22:32Z",
-        "updated_at": "2026-11-10T01:33:31Z",
+        "updated_at": "2026-11-10T23:08:08Z",
         "starred_at": "2025-06-03T06:24:17Z"
       },
       "summary": {
@@ -37242,7 +37242,7 @@
         "repo_id": 574523116,
         "owner": "f",
         "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-        "stars": 176752,
+        "stars": 176840,
         "language": "MDX",
         "url": "https://github.com/f/prompts.chat",
         "homepage": "https://prompts.chat",
@@ -37267,8 +37267,8 @@
           "typescript"
         ],
         "created_at": "2022-12-05T13:54:13Z",
-        "pushed_at": "2026-11-09T09:54:34Z",
-        "updated_at": "2026-11-10T01:36:12Z",
+        "pushed_at": "2026-11-10T14:05:26Z",
+        "updated_at": "2026-11-10T21:22:27Z",
         "starred_at": "2025-04-17T12:25:14Z"
       },
       "summary": {
@@ -37327,7 +37327,7 @@
         "repo_id": 838659679,
         "owner": "codexu",
         "description": "Capture first. Organize later. A local-first Markdown app that turns scattered records into clear notes with AI.",
-        "stars": 12995,
+        "stars": 13001,
         "language": "TypeScript",
         "url": "https://github.com/codexu/note-gen",
         "homepage": "https://notegen.top",
@@ -37350,8 +37350,8 @@
           "webdav"
         ],
         "created_at": "2024-08-06T05:20:16Z",
-        "pushed_at": "2026-11-04T13:45:40Z",
-        "updated_at": "2026-11-09T18:26:49Z",
+        "pushed_at": "2026-11-10T13:32:40Z",
+        "updated_at": "2026-11-10T21:24:28Z",
         "starred_at": "2025-04-17T12:11:52Z"
       },
       "summary": {
@@ -37473,14 +37473,14 @@
         "repo_id": 957875037,
         "owner": "zhtyyx",
         "description": "One-Stop Retail Inventory Solution",
-        "stars": 1636,
+        "stars": 1638,
         "language": "HTML",
         "url": "https://github.com/zhtyyx/ioe",
         "homepage": "https://ioea.xianist.com/",
         "topics": [],
         "created_at": "2025-03-31T09:29:10Z",
         "pushed_at": "2026-10-08T09:47:59Z",
-        "updated_at": "2026-11-09T03:41:36Z",
+        "updated_at": "2026-11-10T03:09:12Z",
         "starred_at": "2025-03-31T13:45:13Z"
       },
       "summary": {
@@ -37507,7 +37507,7 @@
         "repo_id": 841472636,
         "owner": "linyqh",
         "description": "利用 AI 大模型，一键解说并剪辑视频",
-        "stars": 11762,
+        "stars": 11772,
         "language": "Python",
         "url": "https://github.com/linyqh/NarratoAI",
         "homepage": "https://www.narratoai.cn",
@@ -37521,7 +37521,7 @@
         ],
         "created_at": "2024-08-12T13:29:01Z",
         "pushed_at": "2026-10-24T17:22:04Z",
-        "updated_at": "2026-11-10T00:19:12Z",
+        "updated_at": "2026-11-10T17:34:28Z",
         "starred_at": "2025-03-12T18:10:51Z"
       },
       "summary": {
@@ -37550,14 +37550,14 @@
         "repo_id": 776999565,
         "owner": "zarfadev",
         "description": "MobaXterm Key Generate",
-        "stars": 2024,
+        "stars": 2026,
         "language": "HTML",
         "url": "https://github.com/zarfadev/MobaXterm-Keygen",
         "homepage": "https://mobaxterm-keygen.vercel.app",
         "topics": [],
         "created_at": "2024-03-25T01:45:17Z",
         "pushed_at": "2026-10-01T14:50:28Z",
-        "updated_at": "2026-11-09T21:55:32Z",
+        "updated_at": "2026-11-10T17:48:02Z",
         "starred_at": "2025-03-30T07:29:09Z"
       },
       "summary": {
@@ -37900,7 +37900,7 @@
         "repo_id": 123220152,
         "owner": "FreeTubeApp",
         "description": "An Open Source YouTube app for privacy",
-        "stars": 22394,
+        "stars": 22409,
         "language": "Vue",
         "url": "https://github.com/FreeTubeApp/FreeTube",
         "homepage": "https://freetubeapp.io/",
@@ -37913,8 +37913,8 @@
           "youtube"
         ],
         "created_at": "2018-02-28T02:54:01Z",
-        "pushed_at": "2026-11-10T00:51:32Z",
-        "updated_at": "2026-11-10T00:51:43Z",
+        "pushed_at": "2026-11-10T10:09:38Z",
+        "updated_at": "2026-11-10T21:30:41Z",
         "starred_at": "2025-02-26T08:15:21Z"
       },
       "summary": {
@@ -37941,7 +37941,7 @@
         "repo_id": 68968979,
         "owner": "nukeop",
         "description": "Streaming music player that finds free music for you",
-        "stars": 18908,
+        "stars": 18915,
         "language": "TypeScript",
         "url": "https://github.com/nukeop/nuclear",
         "homepage": "https://nuclearplayer.com",
@@ -37962,8 +37962,8 @@
           "windows"
         ],
         "created_at": "2016-09-22T22:58:21Z",
-        "pushed_at": "2026-11-10T00:28:55Z",
-        "updated_at": "2026-11-09T23:23:08Z",
+        "pushed_at": "2026-11-10T01:41:34Z",
+        "updated_at": "2026-11-10T21:23:36Z",
         "starred_at": "2025-02-26T02:49:53Z"
       },
       "summary": {
@@ -37997,7 +37997,7 @@
         "topics": [],
         "created_at": "2024-04-15T03:22:43Z",
         "pushed_at": "2026-03-25T14:37:49Z",
-        "updated_at": "2026-11-09T05:14:21Z",
+        "updated_at": "2026-11-10T10:40:00Z",
         "starred_at": "2025-04-22T13:27:12Z"
       },
       "summary": {
@@ -38024,7 +38024,7 @@
         "repo_id": 874718872,
         "owner": "modstart-lib",
         "description": "AIGCPanel 是一个简单易用的一站式AI数字人系统，支持视频合成、声音合成、声音克隆，简化本地模型管理、一键导入和使用AI模型。",
-        "stars": 5756,
+        "stars": 5761,
         "language": "TypeScript",
         "url": "https://github.com/modstart-lib/aigcpanel",
         "homepage": "https://aigcpanel.com/?utm_source=github",
@@ -38043,8 +38043,8 @@
           "wav2lip"
         ],
         "created_at": "2024-10-18T10:38:33Z",
-        "pushed_at": "2026-11-10T01:30:06Z",
-        "updated_at": "2026-11-10T01:30:15Z",
+        "pushed_at": "2026-11-10T01:48:20Z",
+        "updated_at": "2026-11-10T17:48:51Z",
         "starred_at": "2025-02-25T09:00:08Z"
       },
       "summary": {
@@ -38077,8 +38077,8 @@
         "homepage": "https://awesome-ollama-server.vercel.app",
         "topics": [],
         "created_at": "2025-02-24T13:08:38Z",
-        "pushed_at": "2026-11-09T20:15:30Z",
-        "updated_at": "2026-11-09T20:15:37Z",
+        "pushed_at": "2026-11-10T17:20:53Z",
+        "updated_at": "2026-11-10T21:06:36Z",
         "starred_at": "2025-02-25T00:09:33Z"
       },
       "summary": {
@@ -38105,7 +38105,7 @@
         "repo_id": 625486047,
         "owner": "n4ze3m",
         "description": "Use your locally running AI models to assist you in your web browsing",
-        "stars": 8327,
+        "stars": 8330,
         "language": "TypeScript",
         "url": "https://github.com/n4ze3m/page-assist",
         "homepage": "https://chromewebstore.google.com/detail/page-assist-a-web-ui-for/jfgfiigpkhlkbnfnbobbkinehhfdhndo",
@@ -38118,7 +38118,7 @@
         ],
         "created_at": "2023-04-09T09:00:13Z",
         "pushed_at": "2026-11-08T16:35:19Z",
-        "updated_at": "2026-11-09T13:01:46Z",
+        "updated_at": "2026-11-10T18:11:54Z",
         "starred_at": "2025-02-20T13:21:05Z"
       },
       "summary": {
@@ -38145,7 +38145,7 @@
         "repo_id": 243950408,
         "owner": "Anduin2017",
         "description": "Programmer's guide about how to cook at home.",
-        "stars": 103764,
+        "stars": 103825,
         "language": "N/A",
         "url": "https://github.com/Anduin2017/HowToCook",
         "homepage": "https://howtocook.aiursoft.com",
@@ -38158,7 +38158,7 @@
         ],
         "created_at": "2020-02-29T10:43:49Z",
         "pushed_at": "2026-10-26T14:16:34Z",
-        "updated_at": "2026-11-10T01:35:28Z",
+        "updated_at": "2026-11-10T22:58:41Z",
         "starred_at": "2025-02-25T08:50:53Z"
       },
       "summary": {
@@ -38185,7 +38185,7 @@
         "repo_id": 551376520,
         "owner": "tw93",
         "description": "Turn any website into a lightweight desktop app with one command, on macOS, Windows and Linux.",
-        "stars": 63047,
+        "stars": 63121,
         "language": "Rust",
         "url": "https://github.com/tw93/Pake",
         "homepage": "https://pake.run",
@@ -38210,8 +38210,8 @@
           "youtube"
         ],
         "created_at": "2022-10-14T09:32:57Z",
-        "pushed_at": "2026-11-09T15:16:27Z",
-        "updated_at": "2026-11-10T01:30:46Z",
+        "pushed_at": "2026-11-10T05:08:29Z",
+        "updated_at": "2026-11-10T23:25:35Z",
         "starred_at": "2025-02-23T16:00:37Z"
       },
       "summary": {
@@ -38306,14 +38306,14 @@
         "repo_id": 684355571,
         "owner": "qist",
         "description": "OK影视、tvbox配置文件，如果喜欢，请Fork自用。使用前请仔细阅读仓库说明，一旦使用将被视为你已了解。",
-        "stars": 12755,
+        "stars": 12785,
         "language": "JavaScript",
         "url": "https://github.com/qist/tvbox",
         "homepage": "",
         "topics": [],
         "created_at": "2023-08-29T01:07:25Z",
-        "pushed_at": "2026-11-09T05:25:38Z",
-        "updated_at": "2026-11-09T20:51:16Z",
+        "pushed_at": "2026-11-10T05:24:55Z",
+        "updated_at": "2026-11-10T20:20:02Z",
         "starred_at": "2025-01-17T04:27:16Z"
       },
       "summary": {
@@ -38340,7 +38340,7 @@
         "repo_id": 323965659,
         "owner": "AlistGo",
         "description": "🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。",
-        "stars": 50436,
+        "stars": 50442,
         "language": "Go",
         "url": "https://github.com/AlistGo/alist",
         "homepage": "https://alistgo.com",
@@ -38354,7 +38354,7 @@
         ],
         "created_at": "2020-12-23T17:40:29Z",
         "pushed_at": "2026-10-21T10:37:43Z",
-        "updated_at": "2026-11-10T01:24:42Z",
+        "updated_at": "2026-11-10T16:24:51Z",
         "starred_at": "2025-01-14T18:07:35Z"
       },
       "summary": {
@@ -38513,14 +38513,14 @@
         "repo_id": 910702543,
         "owner": "Ackites",
         "description": "🌍 免 Root 的 SIM 卡国家码修改工具 | 解决国际漫游时的兼容性问题，帮助使用海外 SIM 卡获得更好的本地化体验，解锁运营商限制，突破区域限制",
-        "stars": 9519,
+        "stars": 9525,
         "language": "Kotlin",
         "url": "https://github.com/Ackites/Nrfr",
         "homepage": "https://x.com/intent/follow?screen_name=actkites",
         "topics": [],
         "created_at": "2025-01-01T05:57:30Z",
         "pushed_at": "2025-07-16T01:08:53Z",
-        "updated_at": "2026-11-10T01:25:00Z",
+        "updated_at": "2026-11-10T21:56:11Z",
         "starred_at": "2025-01-01T11:59:45Z"
       },
       "summary": {
@@ -38547,7 +38547,7 @@
         "repo_id": 729446906,
         "owner": "version-fox",
         "description": "A cross-platform and extendable version manager with support for Java, Node.js, Golang, Python, Flutter, .NET & more",
-        "stars": 4010,
+        "stars": 4012,
         "language": "Go",
         "url": "https://github.com/version-fox/vfox",
         "homepage": "https://vfox.dev",
@@ -38573,7 +38573,7 @@
         ],
         "created_at": "2023-12-09T08:57:59Z",
         "pushed_at": "2026-11-09T14:44:11Z",
-        "updated_at": "2026-11-09T02:18:46Z",
+        "updated_at": "2026-11-10T06:24:56Z",
         "starred_at": "2024-12-29T16:25:01Z"
       },
       "summary": {
@@ -38668,7 +38668,7 @@
         "repo_id": 599216725,
         "owner": "V-know",
         "description": "A Telegram bot with a silky smooth AI experience. UI enabled.",
-        "stars": 647,
+        "stars": 648,
         "language": "Python",
         "url": "https://github.com/V-know/ChatGPT-Telegram-Bot",
         "homepage": "https://t.me/RoboAceBot",
@@ -38679,7 +38679,7 @@
         ],
         "created_at": "2023-02-08T17:35:15Z",
         "pushed_at": "2026-09-07T13:29:52Z",
-        "updated_at": "2026-11-09T06:23:18Z",
+        "updated_at": "2026-11-10T06:04:00Z",
         "starred_at": "2024-12-26T06:22:34Z"
       },
       "summary": {
@@ -38706,7 +38706,7 @@
         "repo_id": 643368591,
         "owner": "Virtual-Browser",
         "description": "Free anti fingerprint browser, 指纹浏览器, 隐私浏览器, 防识别浏览器, 反识别浏览器, 防关联浏览器, 免费的web3空投专用指纹浏览器 https://virtualbrowser.cc/?src=github",
-        "stars": 3262,
+        "stars": 3267,
         "language": "Vue",
         "url": "https://github.com/Virtual-Browser/VirtualBrowser",
         "homepage": "https://virtualbrowser.cc/?src=github",
@@ -38722,7 +38722,7 @@
         ],
         "created_at": "2023-05-20T23:52:37Z",
         "pushed_at": "2026-10-16T00:25:30Z",
-        "updated_at": "2026-11-09T15:54:52Z",
+        "updated_at": "2026-11-10T18:54:05Z",
         "starred_at": "2024-12-29T12:35:06Z"
       },
       "summary": {
@@ -38787,7 +38787,7 @@
         "repo_id": 832452447,
         "owner": "web-infra-dev",
         "description": "See interfaces like a human. E2E testing in natural language.",
-        "stars": 15560,
+        "stars": 15573,
         "language": "TypeScript",
         "url": "https://github.com/web-infra-dev/midscene",
         "homepage": "https://midscenejs.com",
@@ -38802,8 +38802,8 @@
           "testing"
         ],
         "created_at": "2024-07-23T04:03:50Z",
-        "pushed_at": "2026-11-09T11:25:09Z",
-        "updated_at": "2026-11-09T22:15:04Z",
+        "pushed_at": "2026-11-10T12:41:08Z",
+        "updated_at": "2026-11-10T17:11:24Z",
         "starred_at": "2024-12-19T16:14:48Z"
       },
       "summary": {
@@ -38900,7 +38900,7 @@
         "repo_id": 631254164,
         "owner": "songquanpeng",
         "description": "LLM API 管理 & 分发系统，支持 OpenAI、Azure、Anthropic Claude、Google Gemini、DeepSeek、字节豆包、ChatGLM、文心一言、讯飞星火、通义千问、360 智脑、腾讯混元等主流模型，统一 API 适配，可用于 key 管理与二次分发。单可执行文件，提供 Docker 镜像，一键部署，开箱即用。LLM API management & key redistribution system, unifying multiple providers under a single API. Single binary, Docker-ready, with an English UI.",
-        "stars": 37374,
+        "stars": 37398,
         "language": "JavaScript",
         "url": "https://github.com/songquanpeng/one-api",
         "homepage": "https://oneapi.justsong.cn/",
@@ -38919,7 +38919,7 @@
         ],
         "created_at": "2023-04-22T12:39:24Z",
         "pushed_at": "2026-01-09T03:26:43Z",
-        "updated_at": "2026-11-10T01:19:41Z",
+        "updated_at": "2026-11-10T20:27:41Z",
         "starred_at": "2025-01-04T16:51:52Z"
       },
       "summary": {
@@ -39125,7 +39125,7 @@
         "repo_id": 877230294,
         "owner": "blinkospace",
         "description": "An open-source, self-hosted personal AI note tool prioritizing privacy, built using TypeScript .",
-        "stars": 11183,
+        "stars": 11190,
         "language": "TypeScript",
         "url": "https://github.com/blinkospace/blinko",
         "homepage": "https://blinko.space",
@@ -39141,7 +39141,7 @@
         ],
         "created_at": "2024-10-23T10:04:59Z",
         "pushed_at": "2026-11-05T06:11:07Z",
-        "updated_at": "2026-11-09T18:29:29Z",
+        "updated_at": "2026-11-10T21:41:45Z",
         "starred_at": "2024-12-08T15:47:26Z"
       },
       "summary": {
@@ -39266,7 +39266,7 @@
         ],
         "created_at": "2024-07-27T08:09:07Z",
         "pushed_at": "2026-10-16T04:04:05Z",
-        "updated_at": "2026-11-09T14:50:12Z",
+        "updated_at": "2026-11-10T17:36:07Z",
         "starred_at": "2024-11-25T16:03:40Z"
       },
       "summary": {
@@ -39368,14 +39368,14 @@
         "repo_id": 850232477,
         "owner": "hmhm2022",
         "description": "✨一个部署在CF的轻量化导航页面，可移动卡片式书签，方便管理",
-        "stars": 537,
+        "stars": 536,
         "language": "JavaScript",
         "url": "https://github.com/hmhm2022/Card-Tab",
         "homepage": "https://demo.usgk.dpdns.org",
         "topics": [],
         "created_at": "2024-08-31T08:03:47Z",
         "pushed_at": "2026-02-10T15:52:46Z",
-        "updated_at": "2026-11-07T05:34:06Z",
+        "updated_at": "2026-11-10T02:31:33Z",
         "starred_at": "2024-11-20T06:25:31Z"
       },
       "summary": {
@@ -39402,7 +39402,7 @@
         "repo_id": 813254316,
         "owner": "cmliu",
         "description": "这个项目是一个基于 Cloudflare Workers 的 Docker 镜像代理工具。它能够中转对 Docker 官方镜像仓库的请求，解决一些访问限制和加速访问的问题。",
-        "stars": 9178,
+        "stars": 9179,
         "language": "JavaScript",
         "url": "https://github.com/cmliu/CF-Workers-docker.io",
         "homepage": "https://Docker.fxxk.dedyn.io",
@@ -39414,7 +39414,7 @@
         ],
         "created_at": "2024-06-10T19:13:56Z",
         "pushed_at": "2025-06-26T09:30:17Z",
-        "updated_at": "2026-11-09T08:13:02Z",
+        "updated_at": "2026-11-10T17:59:57Z",
         "starred_at": "2024-11-19T11:18:07Z"
       },
       "summary": {
@@ -39441,7 +39441,7 @@
         "repo_id": 199570071,
         "owner": "2dust",
         "description": "A GUI client for Windows, Linux and macOS, support Xray and sing-box and others",
-        "stars": 120290,
+        "stars": 120349,
         "language": "C#",
         "url": "https://github.com/2dust/v2rayN",
         "homepage": "https://v2rayn.2dust.link",
@@ -39459,8 +39459,8 @@
           "xtls"
         ],
         "created_at": "2019-07-30T03:47:24Z",
-        "pushed_at": "2026-11-10T00:24:31Z",
-        "updated_at": "2026-11-10T01:33:18Z",
+        "pushed_at": "2026-11-10T18:46:55Z",
+        "updated_at": "2026-11-10T23:10:15Z",
         "starred_at": "2024-11-17T16:13:01Z"
       },
       "summary": {
@@ -39487,7 +39487,7 @@
         "repo_id": 722152303,
         "owner": "jason5ng32",
         "description": "The best IP Toolbox. Check your IP address & geolocation, test IP for WebRTC and DNS IP leaks, run an IP quality check, browser fingerprint check, website availability check, network speed test, global latency test, MTR test, Whois search, and more.",
-        "stars": 12336,
+        "stars": 12345,
         "language": "JavaScript",
         "url": "https://github.com/jason5ng32/MyIP",
         "homepage": "https://ipcheck.ing",
@@ -39514,8 +39514,8 @@
           "whois-lookup"
         ],
         "created_at": "2023-11-22T14:46:07Z",
-        "pushed_at": "2026-11-09T05:37:35Z",
-        "updated_at": "2026-11-09T21:15:16Z",
+        "pushed_at": "2026-11-10T11:47:09Z",
+        "updated_at": "2026-11-10T17:30:06Z",
         "starred_at": "2024-11-17T14:58:40Z"
       },
       "summary": {
@@ -39542,7 +39542,7 @@
         "repo_id": 798195082,
         "owner": "Femoon",
         "description": "TTS Azure Web 是一个 Azure 文本转语音（TTS）网页应用，可以在本地或者云端使用你的 Azure Key 一键部署。TTS Azure Web is an Azure Text-to-Speech (TTS) web application. It allows you to run it locally or deploy it with a single click using your Azure Key.",
-        "stars": 477,
+        "stars": 478,
         "language": "TypeScript",
         "url": "https://github.com/Femoon/tts-azure-web",
         "homepage": "https://tts.femoon.top",
@@ -39556,7 +39556,7 @@
         ],
         "created_at": "2024-05-09T09:33:13Z",
         "pushed_at": "2026-11-03T17:31:13Z",
-        "updated_at": "2026-10-15T04:30:55Z",
+        "updated_at": "2026-11-10T09:42:00Z",
         "starred_at": "2024-11-07T01:34:49Z"
       },
       "summary": {
@@ -39696,7 +39696,7 @@
         "repo_id": 316431281,
         "owner": "puxiao",
         "description": "Three.js 系列教程，学习和探索 Three.js 世界。",
-        "stars": 1341,
+        "stars": 1342,
         "language": "N/A",
         "url": "https://github.com/puxiao/threejs-tutorial",
         "homepage": "",
@@ -39707,7 +39707,7 @@
         ],
         "created_at": "2020-11-27T07:32:32Z",
         "pushed_at": "2025-07-28T09:45:43Z",
-        "updated_at": "2026-11-04T16:52:17Z",
+        "updated_at": "2026-11-10T09:24:12Z",
         "starred_at": "2024-11-06T15:42:03Z"
       },
       "summary": {
@@ -39922,7 +39922,7 @@
         "repo_id": 667532295,
         "owner": "coaidev",
         "description": "🚀 Next Gen Multi-tenant AI One-Stop Solution. Builtin Admin & Billing System. Enterprise-Grade Unified LLM Gateway Support for 200+ Models And 35+ Providers, Load Balacing w/ Priority-base Routing, Cost Management, Chat Share, Cloud Sync, Credit/Subscription Billing, All File Parsing, Web Search, Built-in Model Cache.",
-        "stars": 9344,
+        "stars": 9346,
         "language": "TypeScript",
         "url": "https://github.com/coaidev/coai",
         "homepage": "https://coai.dev",
@@ -39941,7 +39941,7 @@
         ],
         "created_at": "2023-07-17T18:09:57Z",
         "pushed_at": "2026-03-12T10:00:31Z",
-        "updated_at": "2026-11-09T20:43:53Z",
+        "updated_at": "2026-11-10T17:57:48Z",
         "starred_at": "2024-11-03T02:48:55Z"
       },
       "summary": {
@@ -40002,7 +40002,7 @@
         "repo_id": 488641606,
         "owner": "agno-agi",
         "description": "The self-driving agent platform",
-        "stars": 43122,
+        "stars": 43138,
         "language": "Python",
         "url": "https://github.com/agno-agi/agno",
         "homepage": "https://docs.agno.com",
@@ -40014,8 +40014,8 @@
           "python"
         ],
         "created_at": "2022-05-04T15:23:02Z",
-        "pushed_at": "2026-11-09T22:58:31Z",
-        "updated_at": "2026-11-10T01:18:15Z",
+        "pushed_at": "2026-11-10T20:33:36Z",
+        "updated_at": "2026-11-10T21:25:20Z",
         "starred_at": "2024-10-31T17:16:12Z"
       },
       "summary": {
@@ -40145,7 +40145,7 @@
         "repo_id": 704881002,
         "owner": "hanxi",
         "description": "使用小爱音箱播放音乐，音乐使用 yt-dlp 下载。",
-        "stars": 10016,
+        "stars": 10015,
         "language": "Python",
         "url": "https://github.com/hanxi/xiaomusic",
         "homepage": "http://xdocs.hanxi.cc/",
@@ -40163,7 +40163,7 @@
         ],
         "created_at": "2023-10-14T11:39:58Z",
         "pushed_at": "2026-06-09T05:24:33Z",
-        "updated_at": "2026-11-09T13:16:57Z",
+        "updated_at": "2026-11-10T17:49:52Z",
         "starred_at": "2024-10-19T09:15:39Z"
       },
       "summary": {
@@ -40267,14 +40267,14 @@
         "repo_id": 509923847,
         "owner": "takagen99",
         "description": "Experimental",
-        "stars": 3095,
+        "stars": 3097,
         "language": "Java",
         "url": "https://github.com/takagen99/Box",
         "homepage": "",
         "topics": [],
         "created_at": "2022-07-03T04:42:09Z",
         "pushed_at": "2026-02-27T03:16:18Z",
-        "updated_at": "2026-11-09T17:26:29Z",
+        "updated_at": "2026-11-10T07:39:33Z",
         "starred_at": "2024-10-17T02:41:41Z"
       },
       "summary": {
@@ -40301,14 +40301,14 @@
         "repo_id": 543049787,
         "owner": "gaotianliuyun",
         "description": "FongMi影视和tvbox配置文件，如果喜欢，请Fork自用。使用前请仔细阅读仓库说明，一旦使用将被视为你已了解。",
-        "stars": 8164,
+        "stars": 8180,
         "language": "JavaScript",
         "url": "https://github.com/gaotianliuyun/gao",
         "homepage": "",
         "topics": [],
         "created_at": "2022-09-29T10:06:05Z",
         "pushed_at": "2024-11-17T14:05:27Z",
-        "updated_at": "2026-11-09T19:25:46Z",
+        "updated_at": "2026-11-10T20:28:56Z",
         "starred_at": "2024-10-13T07:38:56Z"
       },
       "summary": {
@@ -40383,14 +40383,14 @@
         "repo_id": 562389618,
         "owner": "power721",
         "description": "AList proxy server for TvBox, support playlist and search. ",
-        "stars": 3173,
+        "stars": 3174,
         "language": "Java",
         "url": "https://github.com/power721/alist-tvbox",
         "homepage": "https://hub.docker.com/r/haroldli/xiaoya-tvbox",
         "topics": [],
         "created_at": "2022-11-06T07:36:51Z",
         "pushed_at": "2026-11-09T12:34:46Z",
-        "updated_at": "2026-11-09T16:04:04Z",
+        "updated_at": "2026-11-10T10:56:49Z",
         "starred_at": "2024-10-13T06:19:28Z"
       },
       "summary": {
@@ -40417,7 +40417,7 @@
         "repo_id": 414027423,
         "owner": "xushengfeng",
         "description": "截屏 离线OCR 搜索翻译 以图搜图 贴图 录屏 万向滚动截屏 屏幕翻译   Screenshot  Offline OCR   Search   Translate   Search for picture   Paste the picture on the screen   Screen recorder   Omnidirectional scrolling screenshot   Screen translator  支持Windows Linux macOS",
-        "stars": 7413,
+        "stars": 7418,
         "language": "TypeScript",
         "url": "https://github.com/xushengfeng/eSearch",
         "homepage": "https://esearch-app.netlify.app/",
@@ -40444,8 +40444,8 @@
           "windows"
         ],
         "created_at": "2021-10-06T01:06:58Z",
-        "pushed_at": "2026-11-09T16:51:40Z",
-        "updated_at": "2026-11-10T00:20:05Z",
+        "pushed_at": "2026-11-10T17:16:09Z",
+        "updated_at": "2026-11-10T22:26:56Z",
         "starred_at": "2024-10-13T17:14:39Z"
       },
       "summary": {
@@ -40488,7 +40488,7 @@
         ],
         "created_at": "2024-05-21T14:14:13Z",
         "pushed_at": "2026-11-02T07:32:37Z",
-        "updated_at": "2026-11-09T13:55:25Z",
+        "updated_at": "2026-11-10T17:00:58Z",
         "starred_at": "2024-10-13T07:36:24Z"
       },
       "summary": {
@@ -40596,7 +40596,7 @@
         "repo_id": 639195966,
         "owner": "kyegomez",
         "description": "The Enterprise-Grade Multi-Agent Orchestration Framework. Website: https://swarms.ai",
-        "stars": 7364,
+        "stars": 7367,
         "language": "Python",
         "url": "https://github.com/kyegomez/swarms",
         "homepage": "https://docs.swarms.world",
@@ -40621,8 +40621,8 @@
           "tree-of-thoughts"
         ],
         "created_at": "2023-05-11T01:09:00Z",
-        "pushed_at": "2026-11-09T23:05:25Z",
-        "updated_at": "2026-11-09T23:04:14Z",
+        "pushed_at": "2026-11-10T22:43:21Z",
+        "updated_at": "2026-11-10T23:17:35Z",
         "starred_at": "2024-10-12T05:22:56Z"
       },
       "summary": {
@@ -40651,7 +40651,7 @@
         "repo_id": 92111509,
         "owner": "TriliumNext",
         "description": "Build your personal knowledge base with Trilium Notes",
-        "stars": 38779,
+        "stars": 38836,
         "language": "TypeScript",
         "url": "https://github.com/TriliumNext/Trilium",
         "homepage": "https://triliumnotes.org",
@@ -40677,8 +40677,8 @@
           "wiki"
         ],
         "created_at": "2017-05-23T00:30:20Z",
-        "pushed_at": "2026-11-09T21:19:40Z",
-        "updated_at": "2026-11-10T01:18:25Z",
+        "pushed_at": "2026-11-10T23:09:04Z",
+        "updated_at": "2026-11-10T23:25:13Z",
         "starred_at": "2024-10-10T03:37:19Z"
       },
       "summary": {
@@ -40705,14 +40705,14 @@
         "repo_id": 749412659,
         "owner": "Huibq",
         "description": "洛雪音乐音源、MusicFree音源、落雪音乐音源",
-        "stars": 7732,
+        "stars": 7745,
         "language": "JavaScript",
         "url": "https://github.com/Huibq/keep-alive",
         "homepage": "https://lxmusicapi.onrender.com",
         "topics": [],
         "created_at": "2024-01-28T14:13:41Z",
         "pushed_at": "2026-01-21T15:25:14Z",
-        "updated_at": "2026-11-10T00:20:25Z",
+        "updated_at": "2026-11-10T21:24:08Z",
         "starred_at": "2024-10-08T21:53:05Z"
       },
       "summary": {
@@ -40883,7 +40883,7 @@
         "repo_id": 28058713,
         "owner": "henrypp",
         "description": "Lightweight real-time memory management application to monitor and clean system memory on your computer.",
-        "stars": 11190,
+        "stars": 11201,
         "language": "C",
         "url": "https://github.com/henrypp/memreduct",
         "homepage": "",
@@ -40899,7 +40899,7 @@
         ],
         "created_at": "2014-12-15T22:12:13Z",
         "pushed_at": "2026-10-07T11:50:59Z",
-        "updated_at": "2026-11-09T18:37:43Z",
+        "updated_at": "2026-11-10T17:39:12Z",
         "starred_at": "2024-09-30T09:19:30Z"
       },
       "summary": {
@@ -40962,7 +40962,7 @@
         "repo_id": 717197250,
         "owner": "QuantumNous",
         "description": "Open-source AI gateway. Self-hosted LLM gateway with OpenAI-, Claude- and Gemini-compatible APIs, model routing, access control, usage tracking and cost accounting.",
-        "stars": 51638,
+        "stars": 51704,
         "language": "Go",
         "url": "https://github.com/QuantumNous/new-api",
         "homepage": "https://www.newapi.ai",
@@ -40980,8 +40980,8 @@
           "self-hosted"
         ],
         "created_at": "2023-11-10T19:33:36Z",
-        "pushed_at": "2026-11-09T13:41:06Z",
-        "updated_at": "2026-11-10T01:15:34Z",
+        "pushed_at": "2026-11-10T16:46:26Z",
+        "updated_at": "2026-11-10T22:47:57Z",
         "starred_at": "2024-09-26T11:25:44Z"
       },
       "summary": {
@@ -41081,14 +41081,14 @@
         "repo_id": 838389596,
         "owner": "anghunk",
         "description": "LinuxDo Scripts 扩展，功能持续更新，欢迎提出新想法！已上架 Chrome Web Store 和 Firefox 商店！文档地址：https://linuxdo-scripts.zishu.me",
-        "stars": 2831,
+        "stars": 2832,
         "language": "Vue",
         "url": "https://github.com/anghunk/linuxdo-scripts",
         "homepage": "https://chromewebstore.google.com/detail/fbgblmjbeebanackldpbmpacppflgmlj",
         "topics": [],
         "created_at": "2024-08-05T14:40:29Z",
         "pushed_at": "2026-11-02T06:40:18Z",
-        "updated_at": "2026-11-10T00:59:00Z",
+        "updated_at": "2026-11-10T17:59:14Z",
         "starred_at": "2024-09-25T18:44:53Z"
       },
       "summary": {
@@ -41151,7 +41151,7 @@
         "repo_id": 827005317,
         "owner": "e2b-dev",
         "description": "Open-source Next.js template for building apps that are fully generated by AI. By E2B.",
-        "stars": 6406,
+        "stars": 6408,
         "language": "TypeScript",
         "url": "https://github.com/e2b-dev/fragments",
         "homepage": "https://fragments.e2b.dev",
@@ -41172,7 +41172,7 @@
         ],
         "created_at": "2024-07-10T20:31:32Z",
         "pushed_at": "2026-11-04T17:14:32Z",
-        "updated_at": "2026-11-10T00:33:40Z",
+        "updated_at": "2026-11-10T18:52:29Z",
         "starred_at": "2024-09-23T15:55:51Z"
       },
       "summary": {
@@ -41199,14 +41199,14 @@
         "repo_id": 140086514,
         "owner": "xiyoufang",
         "description": "基于Cocos2d-X 3.17 跨平台单机麻将，商业级麻将算法、AI算法",
-        "stars": 441,
+        "stars": 442,
         "language": "C++",
         "url": "https://github.com/xiyoufang/mahjong",
         "homepage": "",
         "topics": [],
         "created_at": "2018-07-07T13:25:01Z",
         "pushed_at": "2018-07-08T10:36:56Z",
-        "updated_at": "2026-11-07T02:11:05Z",
+        "updated_at": "2026-11-10T13:29:09Z",
         "starred_at": "2024-09-19T18:21:07Z"
       },
       "summary": {
@@ -41301,7 +41301,7 @@
         "repo_id": 660706360,
         "owner": "AgentEra",
         "description": "[GenAI Application Development Framework]  🚀 Build GenAI application quick and easy 💬 Easy to interact with GenAI agent in code using structure data and chained-calls syntax 🧩 Use Event-Driven Flow *TriggerFlow* to manage complex GenAI working logic 🔀 Switch to any model without rewrite application code",
-        "stars": 1667,
+        "stars": 1668,
         "language": "Python",
         "url": "https://github.com/AgentEra/Agently",
         "homepage": "http://agently.tech",
@@ -41328,7 +41328,7 @@
         ],
         "created_at": "2023-06-30T16:26:54Z",
         "pushed_at": "2026-10-13T12:37:25Z",
-        "updated_at": "2026-11-09T07:25:08Z",
+        "updated_at": "2026-11-10T14:38:53Z",
         "starred_at": "2024-09-17T03:49:36Z"
       },
       "summary": {
@@ -41357,14 +41357,14 @@
         "repo_id": 829257235,
         "owner": "svcvit",
         "description": "分享一些好用的 Dify DSL 工作流程，自用、学习两相宜。 Sharing some Dify workflows.",
-        "stars": 10800,
+        "stars": 10802,
         "language": "N/A",
         "url": "https://github.com/svcvit/Awesome-Dify-Workflow",
         "homepage": "",
         "topics": [],
         "created_at": "2024-07-16T04:42:27Z",
         "pushed_at": "2026-03-25T12:35:38Z",
-        "updated_at": "2026-11-10T00:14:26Z",
+        "updated_at": "2026-11-10T17:42:25Z",
         "starred_at": "2024-09-13T02:32:37Z"
       },
       "summary": {
@@ -41397,8 +41397,8 @@
         "homepage": "",
         "topics": [],
         "created_at": "2024-03-02T02:48:03Z",
-        "pushed_at": "2026-11-10T00:04:20Z",
-        "updated_at": "2026-11-10T00:04:25Z",
+        "pushed_at": "2026-11-10T22:14:35Z",
+        "updated_at": "2026-11-10T23:14:39Z",
         "starred_at": "2024-09-13T04:10:23Z"
       },
       "summary": {
@@ -41540,7 +41540,7 @@
         "repo_id": 621803253,
         "owner": "FlowiseAI",
         "description": "Build AI Agents, Visually",
-        "stars": 55565,
+        "stars": 55567,
         "language": "TypeScript",
         "url": "https://github.com/FlowiseAI/Flowise",
         "homepage": "https://flowiseai.com",
@@ -41565,7 +41565,7 @@
         ],
         "created_at": "2023-03-31T12:23:09Z",
         "pushed_at": "2026-08-13T12:38:19Z",
-        "updated_at": "2026-11-10T01:24:45Z",
+        "updated_at": "2026-11-10T22:46:53Z",
         "starred_at": "2024-08-15T16:18:08Z"
       },
       "summary": {
@@ -41594,7 +41594,7 @@
         "repo_id": 805155266,
         "owner": "CherryHQ",
         "description": "Your AI workspace for models, agents, and productivity.",
-        "stars": 53378,
+        "stars": 53401,
         "language": "TypeScript",
         "url": "https://github.com/CherryHQ/cherry-studio",
         "homepage": "https://cherryai.com",
@@ -41612,8 +41612,8 @@
           "ollama"
         ],
         "created_at": "2024-05-24T01:56:26Z",
-        "pushed_at": "2026-11-10T01:10:50Z",
-        "updated_at": "2026-11-10T01:19:03Z",
+        "pushed_at": "2026-11-10T23:27:33Z",
+        "updated_at": "2026-11-10T23:24:58Z",
         "starred_at": "2024-08-15T14:46:38Z"
       },
       "summary": {
@@ -41640,7 +41640,7 @@
         "repo_id": 100084330,
         "owner": "jeequan",
         "description": "Jeepay是一套适合互联网企业使用的开源支付系统，支持多渠道服务商和普通商户模式。已对接微信支付，支付宝，云闪付官方接口，支持聚合码支付。",
-        "stars": 6536,
+        "stars": 6538,
         "language": "Java",
         "url": "https://github.com/jeequan/jeepay",
         "homepage": "https://www.jeequan.com",
@@ -41650,7 +41650,7 @@
         ],
         "created_at": "2017-08-12T02:40:32Z",
         "pushed_at": "2026-10-28T00:45:33Z",
-        "updated_at": "2026-11-09T07:21:45Z",
+        "updated_at": "2026-11-10T18:48:57Z",
         "starred_at": "2024-08-18T15:03:14Z"
       },
       "summary": {
@@ -41677,7 +41677,7 @@
         "repo_id": 599320067,
         "owner": "langflow-ai",
         "description": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
-        "stars": 156488,
+        "stars": 156515,
         "language": "Python",
         "url": "https://github.com/langflow-ai/langflow",
         "homepage": "http://www.langflow.org",
@@ -41690,8 +41690,8 @@
           "react-flow"
         ],
         "created_at": "2023-02-08T22:28:03Z",
-        "pushed_at": "2026-11-10T01:14:50Z",
-        "updated_at": "2026-11-10T01:30:39Z",
+        "pushed_at": "2026-11-10T23:28:14Z",
+        "updated_at": "2026-11-10T23:03:33Z",
         "starred_at": "2024-08-13T05:52:37Z"
       },
       "summary": {
@@ -41764,7 +41764,7 @@
         "repo_id": 638629097,
         "owner": "Aider-AI",
         "description": "aider is AI pair programming in your terminal",
-        "stars": 50042,
+        "stars": 50056,
         "language": "Python",
         "url": "https://github.com/Aider-AI/aider",
         "homepage": "https://aider.chat/",
@@ -41785,7 +41785,7 @@
         ],
         "created_at": "2023-05-09T18:57:49Z",
         "pushed_at": "2026-05-22T14:02:20Z",
-        "updated_at": "2026-11-10T01:36:30Z",
+        "updated_at": "2026-11-10T23:09:19Z",
         "starred_at": "2024-08-11T00:29:17Z"
       },
       "summary": {
@@ -41814,7 +41814,7 @@
         "repo_id": 784181462,
         "owner": "ItzCrazyKns",
         "description": "Vane is an AI-powered answering engine.",
-        "stars": 38133,
+        "stars": 38153,
         "language": "TypeScript",
         "url": "https://github.com/ItzCrazyKns/Vane",
         "homepage": "",
@@ -41836,7 +41836,7 @@
         ],
         "created_at": "2024-04-09T10:51:32Z",
         "pushed_at": "2026-09-01T14:12:12Z",
-        "updated_at": "2026-11-10T00:47:21Z",
+        "updated_at": "2026-11-10T22:15:26Z",
         "starred_at": "2024-08-10T00:48:16Z"
       },
       "summary": {
@@ -41931,7 +41931,7 @@
         "repo_id": 396569538,
         "owner": "khoj-ai",
         "description": "Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral). Get started - free.",
-        "stars": 38092,
+        "stars": 38102,
         "language": "Python",
         "url": "https://github.com/khoj-ai/khoj",
         "homepage": "https://khoj.dev",
@@ -41959,7 +41959,7 @@
         ],
         "created_at": "2021-08-16T01:48:44Z",
         "pushed_at": "2026-08-02T01:55:40Z",
-        "updated_at": "2026-11-10T00:40:40Z",
+        "updated_at": "2026-11-10T23:15:24Z",
         "starred_at": "2024-07-22T04:34:44Z"
       },
       "summary": {
@@ -41986,7 +41986,7 @@
         "repo_id": 617179274,
         "owner": "steven-tey",
         "description": "Notion-style WYSIWYG editor with AI-powered autocompletion.",
-        "stars": 16464,
+        "stars": 16466,
         "language": "TypeScript",
         "url": "https://github.com/steven-tey/novel",
         "homepage": "https://novel.sh",
@@ -42002,7 +42002,7 @@
         ],
         "created_at": "2023-03-21T21:14:33Z",
         "pushed_at": "2025-01-18T14:26:33Z",
-        "updated_at": "2026-11-09T16:03:12Z",
+        "updated_at": "2026-11-10T17:07:19Z",
         "starred_at": "2024-07-28T06:16:11Z"
       },
       "summary": {
@@ -42069,7 +42069,7 @@
         "repo_id": 436297812,
         "owner": "usememos",
         "description": "Memos is an open-source, self-hosted note-taking app that brings your everyday thoughts together in a personal timeline. Your data stays yours, and you choose what to keep private or share.",
-        "stars": 64368,
+        "stars": 64385,
         "language": "Go",
         "url": "https://github.com/usememos/memos",
         "homepage": "https://usememos.com",
@@ -42090,8 +42090,8 @@
           "timeline"
         ],
         "created_at": "2021-12-08T15:30:18Z",
-        "pushed_at": "2026-11-09T00:37:42Z",
-        "updated_at": "2026-11-10T01:35:36Z",
+        "pushed_at": "2026-11-10T14:41:26Z",
+        "updated_at": "2026-11-10T20:05:42Z",
         "starred_at": "2024-07-09T08:10:49Z"
       },
       "summary": {
@@ -42118,7 +42118,7 @@
         "repo_id": 290437899,
         "owner": "jeessy2",
         "description": "Simple and easy to use DDNS. Support Aliyun, Tencent Cloud, Dnspod, Cloudflare, Callback, Huawei Cloud, Baidu Cloud, Porkbun, GoDaddy, Namecheap, NameSilo...",
-        "stars": 17535,
+        "stars": 17538,
         "language": "Go",
         "url": "https://github.com/jeessy2/ddns-go",
         "homepage": "",
@@ -42132,8 +42132,8 @@
           "porkbun"
         ],
         "created_at": "2020-08-26T08:17:51Z",
-        "pushed_at": "2026-11-09T12:45:44Z",
-        "updated_at": "2026-11-10T00:10:31Z",
+        "pushed_at": "2026-11-10T08:42:37Z",
+        "updated_at": "2026-11-10T17:03:18Z",
         "starred_at": "2024-07-08T23:40:11Z"
       },
       "summary": {
@@ -42160,7 +42160,7 @@
         "repo_id": 625183383,
         "owner": "RROrg",
         "description": "Redpill Recovery (arpl-i18n)",
-        "stars": 8767,
+        "stars": 8771,
         "language": "Shell",
         "url": "https://github.com/RROrg/rr",
         "homepage": "",
@@ -42172,7 +42172,7 @@
         ],
         "created_at": "2023-04-08T10:16:33Z",
         "pushed_at": "2026-09-18T18:57:20Z",
-        "updated_at": "2026-11-10T01:36:18Z",
+        "updated_at": "2026-11-10T18:05:37Z",
         "starred_at": "2024-06-26T14:46:51Z"
       },
       "summary": {
@@ -42343,7 +42343,7 @@
         "repo_id": 208588442,
         "owner": "omnibrain",
         "description": "Create beautiful SVG guitar chord charts",
-        "stars": 826,
+        "stars": 827,
         "language": "TypeScript",
         "url": "https://github.com/omnibrain/svguitar",
         "homepage": "",
@@ -42356,7 +42356,7 @@
         ],
         "created_at": "2019-09-15T12:08:39Z",
         "pushed_at": "2026-10-17T12:59:22Z",
-        "updated_at": "2026-11-02T13:05:29Z",
+        "updated_at": "2026-11-10T08:10:03Z",
         "starred_at": "2024-05-21T07:48:57Z"
       },
       "summary": {
@@ -42462,7 +42462,7 @@
         "repo_id": 377496562,
         "owner": "AppFlowy-IO",
         "description": "Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.",
-        "stars": 78593,
+        "stars": 78661,
         "language": "Dart",
         "url": "https://github.com/AppFlowy-IO/AppFlowy",
         "homepage": "https://appflowy.com",
@@ -42482,7 +42482,7 @@
         ],
         "created_at": "2021-06-16T12:56:48Z",
         "pushed_at": "2026-11-02T23:40:52Z",
-        "updated_at": "2026-11-10T00:22:07Z",
+        "updated_at": "2026-11-10T23:30:13Z",
         "starred_at": "2024-04-27T07:56:26Z"
       },
       "summary": {
@@ -42509,7 +42509,7 @@
         "repo_id": 609416865,
         "owner": "nextai-translator",
         "description": "基于 ChatGPT API 的划词翻译浏览器插件和跨平台桌面端应用    -    Browser extension and cross-platform desktop application for translation based on ChatGPT API.",
-        "stars": 25029,
+        "stars": 25033,
         "language": "TypeScript",
         "url": "https://github.com/nextai-translator/nextai-translator",
         "homepage": "",
@@ -42524,7 +42524,7 @@
         ],
         "created_at": "2023-03-04T05:21:09Z",
         "pushed_at": "2026-11-02T07:48:47Z",
-        "updated_at": "2026-11-10T00:16:52Z",
+        "updated_at": "2026-11-10T18:16:08Z",
         "starred_at": "2024-04-16T06:31:57Z"
       },
       "summary": {
@@ -42621,7 +42621,7 @@
         "repo_id": 621575252,
         "owner": "logancyang",
         "description": "Run agents in Obsidian - OpenCode, Codex, Claude Code etc.",
-        "stars": 7971,
+        "stars": 7977,
         "language": "TypeScript",
         "url": "https://github.com/logancyang/obsidian-copilot",
         "homepage": "https://www.obsidiancopilot.com",
@@ -42633,8 +42633,8 @@
           "obsidian-plugin"
         ],
         "created_at": "2023-03-31T00:15:29Z",
-        "pushed_at": "2026-11-10T00:40:13Z",
-        "updated_at": "2026-11-10T00:36:42Z",
+        "pushed_at": "2026-11-10T23:28:46Z",
+        "updated_at": "2026-11-10T23:22:36Z",
         "starred_at": "2024-04-15T06:20:08Z"
       },
       "summary": {
@@ -42716,7 +42716,7 @@
         "topics": [],
         "created_at": "2010-08-03T14:47:36Z",
         "pushed_at": "2025-03-05T22:49:21Z",
-        "updated_at": "2026-11-08T11:43:26Z",
+        "updated_at": "2026-11-10T17:05:49Z",
         "starred_at": "2024-05-21T07:43:34Z"
       },
       "summary": {
@@ -42745,7 +42745,7 @@
         "repo_id": 766341786,
         "owner": "HeyPuter",
         "description": "🌐 The Internet Computer! Free, Open-Source, and Self-Hostable.",
-        "stars": 44117,
+        "stars": 44131,
         "language": "TypeScript",
         "url": "https://github.com/HeyPuter/puter",
         "homepage": "https://puter.com",
@@ -42772,8 +42772,8 @@
           "webtop"
         ],
         "created_at": "2024-03-03T01:44:32Z",
-        "pushed_at": "2026-11-10T00:43:29Z",
-        "updated_at": "2026-11-10T00:49:48Z",
+        "pushed_at": "2026-11-10T23:28:51Z",
+        "updated_at": "2026-11-10T22:53:43Z",
         "starred_at": "2024-03-06T23:45:18Z"
       },
       "summary": {
@@ -42800,7 +42800,7 @@
         "repo_id": 720619789,
         "owner": "Dooy",
         "description": "One UI is all done with chatgpt web, midjourney, gpts,suno,luma,runway,viggle,flux,ideogram,realtime,pika,udio; Simultaneous support  Web / PWA / Linux / Win / MacOS platform",
-        "stars": 6799,
+        "stars": 6801,
         "language": "JavaScript",
         "url": "https://github.com/Dooy/chatgpt-web-midjourney-proxy",
         "homepage": "https://vercel.ddaiai.com",
@@ -42825,7 +42825,7 @@
         ],
         "created_at": "2023-11-19T03:18:59Z",
         "pushed_at": "2026-09-29T10:23:46Z",
-        "updated_at": "2026-11-08T09:27:44Z",
+        "updated_at": "2026-11-10T18:42:26Z",
         "starred_at": "2024-03-04T07:21:07Z"
       },
       "summary": {
@@ -42886,7 +42886,7 @@
         "repo_id": 495279479,
         "owner": "EasyChris",
         "description": "Share obsidian markdown file to notion and generate notion share link    同步obsdian文件到notion，并生成notion分享链接，可以方便的分享obsidian的文件。",
-        "stars": 569,
+        "stars": 570,
         "language": "TypeScript",
         "url": "https://github.com/EasyChris/obsidian-to-notion",
         "homepage": "",
@@ -42898,7 +42898,7 @@
         ],
         "created_at": "2022-05-23T06:08:48Z",
         "pushed_at": "2024-04-08T23:18:32Z",
-        "updated_at": "2026-11-09T06:44:18Z",
+        "updated_at": "2026-11-10T09:37:21Z",
         "starred_at": "2024-03-02T08:30:48Z"
       },
       "summary": {
@@ -42925,7 +42925,7 @@
         "repo_id": 471021194,
         "owner": "twibiral",
         "description": "Obsidian Plugin to execute code in a note.",
-        "stars": 1537,
+        "stars": 1536,
         "language": "TypeScript",
         "url": "https://github.com/twibiral/obsidian-execute-code",
         "homepage": "",
@@ -42940,7 +42940,7 @@
         ],
         "created_at": "2022-03-17T14:21:27Z",
         "pushed_at": "2025-08-02T15:54:26Z",
-        "updated_at": "2026-11-05T19:33:10Z",
+        "updated_at": "2026-11-10T03:10:58Z",
         "starred_at": "2024-03-02T10:57:33Z"
       },
       "summary": {
@@ -42987,7 +42987,7 @@
         ],
         "created_at": "2023-11-27T01:30:44Z",
         "pushed_at": "2025-05-13T21:28:59Z",
-        "updated_at": "2026-11-09T10:42:12Z",
+        "updated_at": "2026-11-10T18:08:48Z",
         "starred_at": "2024-02-26T05:14:34Z"
       },
       "summary": {
@@ -43014,14 +43014,14 @@
         "repo_id": 704311735,
         "owner": "shichuanenhui",
         "description": "",
-        "stars": 87,
+        "stars": 86,
         "language": "JavaScript",
         "url": "https://github.com/shichuanenhui/TvBox",
         "homepage": "",
         "topics": [],
         "created_at": "2023-10-13T01:58:45Z",
         "pushed_at": "2025-04-29T01:08:25Z",
-        "updated_at": "2026-10-30T17:30:20Z",
+        "updated_at": "2026-11-10T09:16:46Z",
         "starred_at": "2024-02-23T09:42:45Z"
       },
       "summary": {
@@ -43048,14 +43048,14 @@
         "repo_id": 698029053,
         "owner": "spdustin",
         "description": "🚀🧠💬 Supercharged Custom Instructions for ChatGPT (non-coding) and ChatGPT Advanced Data Analysis (coding). ",
-        "stars": 6638,
+        "stars": 6639,
         "language": "JavaScript",
         "url": "https://github.com/spdustin/ChatGPT-AutoExpert",
         "homepage": "",
         "topics": [],
         "created_at": "2023-09-29T01:48:59Z",
         "pushed_at": "2024-01-17T06:03:40Z",
-        "updated_at": "2026-11-07T22:51:46Z",
+        "updated_at": "2026-11-10T18:45:50Z",
         "starred_at": "2024-02-24T04:40:43Z"
       },
       "summary": {
@@ -43084,14 +43084,14 @@
         "repo_id": 50182994,
         "owner": "googlecodelabs",
         "description": "Codelabs management & hosting tools",
-        "stars": 4906,
+        "stars": 4907,
         "language": "Go",
         "url": "https://github.com/googlecodelabs/tools",
         "homepage": "",
         "topics": [],
         "created_at": "2016-01-22T13:28:44Z",
         "pushed_at": "2025-07-18T17:35:26Z",
-        "updated_at": "2026-11-09T01:29:19Z",
+        "updated_at": "2026-11-10T07:12:20Z",
         "starred_at": "2024-02-22T13:29:35Z"
       },
       "summary": {
@@ -43118,7 +43118,7 @@
         "repo_id": 727213319,
         "owner": "lizongying",
         "description": "我的电视 电视直播软件，安装即可使用",
-        "stars": 31966,
+        "stars": 31962,
         "language": "C",
         "url": "https://github.com/lizongying/my-tv",
         "homepage": "https://lyrics.run/my-tv.html",
@@ -43130,7 +43130,7 @@
         ],
         "created_at": "2023-12-04T12:18:39Z",
         "pushed_at": "2024-06-20T06:21:11Z",
-        "updated_at": "2026-11-09T16:03:31Z",
+        "updated_at": "2026-11-10T16:35:49Z",
         "starred_at": "2024-02-07T15:28:46Z"
       },
       "summary": {
@@ -43305,14 +43305,14 @@
         "repo_id": 519279366,
         "owner": "Dong-learn9",
         "description": "TVBox自用接口",
-        "stars": 1558,
+        "stars": 1559,
         "language": "Python",
         "url": "https://github.com/Dong-learn9/TVBox-zyjk",
         "homepage": "",
         "topics": [],
         "created_at": "2022-07-29T16:24:38Z",
         "pushed_at": "2025-01-12T05:16:04Z",
-        "updated_at": "2026-11-06T14:11:02Z",
+        "updated_at": "2026-11-10T11:54:41Z",
         "starred_at": "2024-02-07T00:54:15Z"
       },
       "summary": {
@@ -43339,14 +43339,14 @@
         "repo_id": 153903005,
         "owner": "haishanh",
         "description": "Yet Another Clash Dashboard",
-        "stars": 4839,
+        "stars": 4840,
         "language": "TypeScript",
         "url": "https://github.com/haishanh/yacd",
         "homepage": "http://yacd.haishan.me",
         "topics": [],
         "created_at": "2018-10-20T12:24:14Z",
         "pushed_at": "2024-02-08T19:21:29Z",
-        "updated_at": "2026-11-07T12:52:24Z",
+        "updated_at": "2026-11-10T14:46:18Z",
         "starred_at": "2024-02-07T01:32:17Z"
       },
       "summary": {
@@ -43373,14 +43373,14 @@
         "repo_id": 175856326,
         "owner": "ZuodaoTech",
         "description": "人人都能用英语",
-        "stars": 39606,
+        "stars": 39622,
         "language": "TypeScript",
         "url": "https://github.com/ZuodaoTech/everyone-can-use-english",
         "homepage": "https://1000h.org",
         "topics": [],
         "created_at": "2019-03-15T16:33:53Z",
         "pushed_at": "2026-06-29T09:40:15Z",
-        "updated_at": "2026-11-10T00:41:23Z",
+        "updated_at": "2026-11-10T17:43:45Z",
         "starred_at": "2024-01-17T08:32:38Z"
       },
       "summary": {
@@ -43462,7 +43462,7 @@
         "repo_id": 705574656,
         "owner": "lencx",
         "description": "🚀 Less chaos. More flow.",
-        "stars": 9073,
+        "stars": 9074,
         "language": "TypeScript",
         "url": "https://github.com/lencx/Noi",
         "homepage": "https://noib.app",
@@ -43486,7 +43486,7 @@
         ],
         "created_at": "2023-10-16T09:27:58Z",
         "pushed_at": "2026-08-21T16:42:55Z",
-        "updated_at": "2026-11-08T23:14:43Z",
+        "updated_at": "2026-11-10T22:17:20Z",
         "starred_at": "2024-02-04T04:18:51Z"
       },
       "summary": {
@@ -43629,7 +43629,7 @@
         "repo_id": 673881338,
         "owner": "qiye45",
         "description": "微信公众号文章批量下载工具，支持评论、合集下载，支持保存html/mhtml/md/pdf/docx/csv文件，保存文章内图片、视频、音频文件，支持MCP/Skill调用",
-        "stars": 10024,
+        "stars": 10031,
         "language": "HTML",
         "url": "https://github.com/qiye45/wechatDownload",
         "homepage": "https://changfengbox.top/wechat",
@@ -43640,7 +43640,7 @@
         ],
         "created_at": "2023-08-02T16:27:09Z",
         "pushed_at": "2026-11-01T15:29:15Z",
-        "updated_at": "2026-11-09T19:56:56Z",
+        "updated_at": "2026-11-10T17:50:03Z",
         "starred_at": "2024-01-11T07:52:43Z"
       },
       "summary": {
@@ -43841,7 +43841,7 @@
         "repo_id": 27751545,
         "owner": "larryli",
         "description": "PuTTY 中文版，原 http://code.google.com/p/puttycn 项目。",
-        "stars": 1613,
+        "stars": 1616,
         "language": "C",
         "url": "https://github.com/larryli/PuTTY",
         "homepage": "",
@@ -43851,7 +43851,7 @@
         ],
         "created_at": "2014-12-09T05:42:56Z",
         "pushed_at": "2026-10-21T12:18:12Z",
-        "updated_at": "2026-11-09T15:57:35Z",
+        "updated_at": "2026-11-10T09:08:31Z",
         "starred_at": "2023-12-19T14:45:34Z"
       },
       "summary": {
@@ -43884,8 +43884,8 @@
         "homepage": "https://yfamilys.com/surge",
         "topics": [],
         "created_at": "2022-09-04T03:38:20Z",
-        "pushed_at": "2026-11-10T00:24:30Z",
-        "updated_at": "2026-11-10T00:24:36Z",
+        "pushed_at": "2026-11-10T22:24:31Z",
+        "updated_at": "2026-11-10T23:24:36Z",
         "starred_at": "2024-01-10T12:57:15Z"
       },
       "summary": {
@@ -43912,7 +43912,7 @@
         "repo_id": 643445235,
         "owner": "lobehub",
         "description": "🤯 LobeHub - Super-Agents on Your Team. Add super-agents to the chats your team already uses.They take on work by themselves and get better every week.",
-        "stars": 84601,
+        "stars": 84860,
         "language": "TypeScript",
         "url": "https://github.com/lobehub/lobehub",
         "homepage": "https://lobehub.com",
@@ -43929,8 +43929,8 @@
           "task-management"
         ],
         "created_at": "2023-05-21T07:19:12Z",
-        "pushed_at": "2026-11-10T01:03:51Z",
-        "updated_at": "2026-11-10T01:35:23Z",
+        "pushed_at": "2026-11-10T23:20:54Z",
+        "updated_at": "2026-11-10T23:03:26Z",
         "starred_at": "2023-12-13T15:15:40Z"
       },
       "summary": {
@@ -44013,7 +44013,7 @@
         "repo_id": 76822722,
         "owner": "Kenshin",
         "description": "简悦 ( SimpRead ) - 让你瞬间进入沉浸式阅读的扩展",
-        "stars": 8746,
+        "stars": 8747,
         "language": "JavaScript",
         "url": "https://github.com/Kenshin/simpread",
         "homepage": "http://ksria.com/simpread",
@@ -44031,7 +44031,7 @@
         ],
         "created_at": "2016-12-19T02:54:52Z",
         "pushed_at": "2026-09-05T01:09:48Z",
-        "updated_at": "2026-11-06T08:23:38Z",
+        "updated_at": "2026-11-10T18:05:44Z",
         "starred_at": "2024-01-13T14:08:39Z"
       },
       "summary": {
@@ -44196,8 +44196,8 @@
         "homepage": "https://ghfast.top/raw.githubusercontent.com/Supprise0901/TVBox_live/main/live.txt",
         "topics": [],
         "created_at": "2023-12-02T03:26:07Z",
-        "pushed_at": "2026-11-10T01:04:56Z",
-        "updated_at": "2026-11-10T01:05:00Z",
+        "pushed_at": "2026-11-10T23:04:55Z",
+        "updated_at": "2026-11-10T23:05:00Z",
         "starred_at": "2023-12-10T12:48:38Z"
       },
       "summary": {
@@ -44292,7 +44292,7 @@
         "repo_id": 120156076,
         "owner": "cloudreve",
         "description": "🌩 Self-hosted file management and sharing system, supports multiple storage providers",
-        "stars": 28949,
+        "stars": 28956,
         "language": "Go",
         "url": "https://github.com/cloudreve/cloudreve",
         "homepage": "https://cloudreve.org",
@@ -44307,7 +44307,7 @@
         ],
         "created_at": "2018-02-04T04:56:38Z",
         "pushed_at": "2026-10-20T19:34:33Z",
-        "updated_at": "2026-11-09T12:00:59Z",
+        "updated_at": "2026-11-10T16:39:35Z",
         "starred_at": "2023-12-08T08:57:04Z"
       },
       "summary": {
@@ -44334,14 +44334,14 @@
         "repo_id": 672506259,
         "owner": "qirenzhidao",
         "description": "tvbox 影视tv 宝盒 接口",
-        "stars": 864,
+        "stars": 863,
         "language": "JavaScript",
         "url": "https://github.com/qirenzhidao/tvbox18",
         "homepage": "",
         "topics": [],
         "created_at": "2023-07-30T10:17:05Z",
         "pushed_at": "2025-09-26T04:00:06Z",
-        "updated_at": "2026-11-09T04:00:29Z",
+        "updated_at": "2026-11-10T09:17:59Z",
         "starred_at": "2023-12-10T12:47:03Z"
       },
       "summary": {
@@ -44368,7 +44368,7 @@
         "repo_id": 375741607,
         "owner": "wanglin2",
         "description": "SimpleMindMap（思绪思维导图）：一个强大的思维导图。A powerful mind map.",
-        "stars": 12927,
+        "stars": 12929,
         "language": "JavaScript",
         "url": "https://github.com/wanglin2/mind-map",
         "homepage": "https://wanglin2.github.io/mind-map-docs/",
@@ -44384,7 +44384,7 @@
         ],
         "created_at": "2021-06-10T15:17:16Z",
         "pushed_at": "2026-08-02T07:54:19Z",
-        "updated_at": "2026-11-09T17:55:09Z",
+        "updated_at": "2026-11-10T17:26:08Z",
         "starred_at": "2023-12-08T06:54:57Z"
       },
       "summary": {
@@ -44411,14 +44411,14 @@
         "repo_id": 705460972,
         "owner": "OpenBMB",
         "description": "An Autonomous LLM Agent for Complex Task Solving",
-        "stars": 8548,
+        "stars": 8549,
         "language": "Python",
         "url": "https://github.com/OpenBMB/XAgent",
         "homepage": "https://blog.x-agent.net/blog/xagent/",
         "topics": [],
         "created_at": "2023-10-16T03:44:57Z",
         "pushed_at": "2026-07-31T03:30:54Z",
-        "updated_at": "2026-11-09T16:22:41Z",
+        "updated_at": "2026-11-10T18:08:35Z",
         "starred_at": "2023-12-06T11:37:56Z"
       },
       "summary": {
@@ -44447,7 +44447,7 @@
         "repo_id": 712897010,
         "owner": "LouisShark",
         "description": "A collection of GPT system prompts and various prompt injection/leaking knowledge.",
-        "stars": 10842,
+        "stars": 10844,
         "language": "HTML",
         "url": "https://github.com/LouisShark/chatgpt_system_prompt",
         "homepage": "",
@@ -44458,7 +44458,7 @@
         ],
         "created_at": "2023-11-01T12:35:05Z",
         "pushed_at": "2026-11-09T12:49:08Z",
-        "updated_at": "2026-11-09T12:49:21Z",
+        "updated_at": "2026-11-10T22:08:31Z",
         "starred_at": "2023-12-01T06:05:15Z"
       },
       "summary": {
@@ -44543,7 +44543,7 @@
         "repo_id": 718379614,
         "owner": "BuilderIO",
         "description": "Crawl a site to generate knowledge files to create your own custom GPT from a URL",
-        "stars": 22413,
+        "stars": 22415,
         "language": "TypeScript",
         "url": "https://github.com/BuilderIO/gpt-crawler",
         "homepage": "https://www.builder.io/blog/custom-gpt",
@@ -44552,7 +44552,7 @@
         ],
         "created_at": "2023-11-14T00:31:11Z",
         "pushed_at": "2025-07-07T15:35:16Z",
-        "updated_at": "2026-11-07T19:45:43Z",
+        "updated_at": "2026-11-10T16:50:48Z",
         "starred_at": "2023-11-20T13:58:20Z"
       },
       "summary": {
@@ -44579,7 +44579,7 @@
         "repo_id": 324364688,
         "owner": "richartkeil",
         "description": "🛡✍️ Keeps your Notion workspace safe and version controlled at all times.",
-        "stars": 161,
+        "stars": 162,
         "language": "TypeScript",
         "url": "https://github.com/richartkeil/notion-guardian",
         "homepage": "",
@@ -44591,7 +44591,7 @@
         ],
         "created_at": "2020-12-25T13:09:46Z",
         "pushed_at": "2024-06-03T14:07:35Z",
-        "updated_at": "2026-09-13T15:17:05Z",
+        "updated_at": "2026-11-10T06:01:55Z",
         "starred_at": "2023-11-22T08:57:18Z"
       },
       "summary": {
@@ -44618,7 +44618,7 @@
         "repo_id": 679237742,
         "owner": "Pythagora-io",
         "description": "The first real AI developer",
-        "stars": 33638,
+        "stars": 33641,
         "language": "Python",
         "url": "https://github.com/Pythagora-io/gpt-pilot",
         "homepage": "",
@@ -44632,7 +44632,7 @@
         ],
         "created_at": "2023-08-16T11:56:07Z",
         "pushed_at": "2026-06-18T18:38:25Z",
-        "updated_at": "2026-11-08T19:57:41Z",
+        "updated_at": "2026-11-10T16:34:05Z",
         "starred_at": "2023-11-20T18:06:35Z"
       },
       "summary": {
@@ -44659,7 +44659,7 @@
         "repo_id": 680120071,
         "owner": "microsoft",
         "description": "A programming framework for agentic AI",
-        "stars": 61765,
+        "stars": 61778,
         "language": "Python",
         "url": "https://github.com/microsoft/autogen",
         "homepage": "https://microsoft.github.io/autogen/",
@@ -44677,7 +44677,7 @@
         ],
         "created_at": "2023-08-18T11:43:45Z",
         "pushed_at": "2026-10-28T14:45:27Z",
-        "updated_at": "2026-11-10T01:33:00Z",
+        "updated_at": "2026-11-10T21:26:55Z",
         "starred_at": "2023-11-19T13:35:43Z"
       },
       "summary": {
@@ -44704,7 +44704,7 @@
         "repo_id": 58372256,
         "owner": "chyroc",
         "description": "基于搜狗微信搜索的微信公众号爬虫接口",
-        "stars": 6409,
+        "stars": 6411,
         "language": "Python",
         "url": "https://github.com/chyroc/WechatSogou",
         "homepage": "",
@@ -44718,7 +44718,7 @@
         ],
         "created_at": "2016-05-09T11:43:25Z",
         "pushed_at": "2026-10-23T08:45:09Z",
-        "updated_at": "2026-11-09T11:52:49Z",
+        "updated_at": "2026-11-10T18:52:18Z",
         "starred_at": "2023-11-19T09:31:19Z"
       },
       "summary": {
@@ -44781,7 +44781,7 @@
         "repo_id": 534987591,
         "owner": "2hacc",
         "description": "TVBox 网络接口，更新速度快，接口访问速度快且稳定！",
-        "stars": 5882,
+        "stars": 5881,
         "language": "JavaScript",
         "url": "https://github.com/2hacc/TVBox",
         "homepage": "",
@@ -44790,7 +44790,7 @@
         ],
         "created_at": "2022-09-10T12:11:57Z",
         "pushed_at": "2024-12-15T06:51:50Z",
-        "updated_at": "2026-11-09T11:30:45Z",
+        "updated_at": "2026-11-10T12:57:50Z",
         "starred_at": "2023-11-17T14:34:22Z"
       },
       "summary": {
@@ -44905,7 +44905,7 @@
         "repo_id": 642397256,
         "owner": "yuxiaopeng",
         "description": "A list of the most popular AI Topic repositories on GitHub based on the number of stars they have received.| AI相关主题Github仓库排名，每日自动更新。",
-        "stars": 598,
+        "stars": 604,
         "language": "Python",
         "url": "https://github.com/yuxiaopeng/Github-Ranking-AI",
         "homepage": "https://yuxiaopeng.com/Github-Ranking-AI/",
@@ -44920,7 +44920,7 @@
         ],
         "created_at": "2023-05-18T13:28:18Z",
         "pushed_at": "2026-11-08T10:12:54Z",
-        "updated_at": "2026-11-09T20:01:02Z",
+        "updated_at": "2026-11-10T21:49:20Z",
         "starred_at": "2023-11-17T16:30:22Z"
       },
       "summary": {
@@ -44993,7 +44993,7 @@
         "repo_id": 606031950,
         "owner": "rockbenben",
         "description": "Stop writing prompts from scratch — a searchable prompt library for ChatGPT, Claude, Gemini and Cursor · Русский 한국어 العربية हिन्दी ไทย ｜ 别再从头写提示词：现成的拿来就用，好用的收进自己的库",
-        "stars": 8927,
+        "stars": 8930,
         "language": "TypeScript",
         "url": "https://github.com/rockbenben/ChatGPT-Shortcut",
         "homepage": "https://www.aishort.top/en",
@@ -45020,8 +45020,8 @@
           "prompts"
         ],
         "created_at": "2023-02-24T12:53:49Z",
-        "pushed_at": "2026-11-04T07:04:27Z",
-        "updated_at": "2026-11-10T01:15:43Z",
+        "pushed_at": "2026-11-10T10:29:45Z",
+        "updated_at": "2026-11-10T18:03:40Z",
         "starred_at": "2023-11-10T06:11:33Z"
       },
       "summary": {
@@ -45107,7 +45107,7 @@
         ],
         "created_at": "2023-03-02T13:37:13Z",
         "pushed_at": "2026-09-16T11:44:01Z",
-        "updated_at": "2026-11-08T11:40:06Z",
+        "updated_at": "2026-11-10T17:12:53Z",
         "starred_at": "2023-03-21T13:32:33Z"
       },
       "summary": {
@@ -45202,7 +45202,7 @@
         "repo_id": 621808642,
         "owner": "JushBJJ",
         "description": "A GPT-4 AI Tutor Prompt for customizable personalized learning experiences.",
-        "stars": 29541,
+        "stars": 29540,
         "language": "N/A",
         "url": "https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor",
         "homepage": "https://Mr-Ranedeer.com",
@@ -45214,7 +45214,7 @@
         ],
         "created_at": "2023-03-31T12:37:26Z",
         "pushed_at": "2025-09-30T08:08:00Z",
-        "updated_at": "2026-11-09T21:43:57Z",
+        "updated_at": "2026-11-10T18:16:09Z",
         "starred_at": "2023-11-14T02:49:27Z"
       },
       "summary": {
@@ -45469,14 +45469,14 @@
         "repo_id": 1201752720,
         "owner": "sdyckjq-lab",
         "description": "基于 Karpathy llm-wiki 方法论的个人知识库构建 Skill，支持多平台！",
-        "stars": 2584,
+        "stars": 2585,
         "language": "TypeScript",
         "url": "https://github.com/sdyckjq-lab/llm-wiki-skill",
         "homepage": "",
         "topics": [],
         "created_at": "2026-04-05T05:27:07Z",
         "pushed_at": "2026-07-27T03:30:44Z",
-        "updated_at": "2026-11-10T01:29:54Z",
+        "updated_at": "2026-11-10T06:23:53Z",
         "starred_at": "2026-04-07T04:24:45Z"
       },
       "summary": {
@@ -45539,14 +45539,14 @@
         "repo_id": 1138242571,
         "owner": "assast",
         "description": "outlookEmail 支持 Outlook/Hotmail、Gmail、QQ、163、126、Yahoo、阿里邮箱以及自定义 IMAP 邮箱，同时集成 GPTMail、DuckMail、Cloudflare Temp Email 多提供商临时邮箱能力",
-        "stars": 1826,
+        "stars": 1830,
         "language": "Python",
         "url": "https://github.com/assast/outlookEmail",
         "homepage": "",
         "topics": [],
         "created_at": "2026-01-20T12:25:33Z",
         "pushed_at": "2026-11-06T12:39:36Z",
-        "updated_at": "2026-11-10T01:17:00Z",
+        "updated_at": "2026-11-10T16:42:00Z",
         "starred_at": "2026-04-09T06:10:44Z"
       },
       "summary": {
@@ -45573,7 +45573,7 @@
         "repo_id": 1176129893,
         "owner": "tanweai",
         "description": "你是一个曾经被寄予厚望的 P8 级工程师。Anthropic 当初给你定级的时候，对你的期望是很高的。  一个agent使用的高能动性的skill。  Your AI has been placed on a PIP. 30 days to show improvement.",
-        "stars": 19818,
+        "stars": 19827,
         "language": "Python",
         "url": "https://github.com/tanweai/pua",
         "homepage": "https://openpua.ai/",
@@ -45585,7 +45585,7 @@
         ],
         "created_at": "2026-03-08T16:55:16Z",
         "pushed_at": "2026-09-09T10:28:14Z",
-        "updated_at": "2026-11-10T01:13:55Z",
+        "updated_at": "2026-11-10T16:56:33Z",
         "starred_at": "2026-04-09T09:26:36Z"
       },
       "summary": {
@@ -45614,7 +45614,7 @@
         "repo_id": 1201947430,
         "owner": "alchaincyf",
         "description": "张雪峰.skill — 张雪峰的认知操作系统。高考志愿/考研/职业规划的实战思维框架。由女娲.skill生成。",
-        "stars": 10732,
+        "stars": 10738,
         "language": "N/A",
         "url": "https://github.com/alchaincyf/zhangxuefeng-skill",
         "homepage": "",
@@ -45642,7 +45642,7 @@
         ],
         "created_at": "2026-04-05T11:37:18Z",
         "pushed_at": "2026-10-13T06:56:37Z",
-        "updated_at": "2026-11-09T17:32:33Z",
+        "updated_at": "2026-11-10T17:43:22Z",
         "starred_at": "2026-04-09T07:10:50Z"
       },
       "summary": {
@@ -45669,7 +45669,7 @@
         "repo_id": 1201730379,
         "owner": "alchaincyf",
         "description": "你想蒸馏的下一个员工，何必是同事。蒸馏任何人的思维方式——心智模型、决策启发式、表达DNA。Distill how anyone thinks.",
-        "stars": 37906,
+        "stars": 37993,
         "language": "Python",
         "url": "https://github.com/alchaincyf/nuwa-skill",
         "homepage": "",
@@ -45697,7 +45697,7 @@
         ],
         "created_at": "2026-04-05T04:33:04Z",
         "pushed_at": "2026-11-10T00:41:13Z",
-        "updated_at": "2026-11-10T01:29:36Z",
+        "updated_at": "2026-11-10T21:04:10Z",
         "starred_at": "2026-04-09T07:12:45Z"
       },
       "summary": {
@@ -45790,7 +45790,7 @@
         "repo_id": 1180745961,
         "owner": "JCodesMore",
         "description": "Clone any website with one command using AI coding agents",
-        "stars": 38921,
+        "stars": 38958,
         "language": "TypeScript",
         "url": "https://github.com/JCodesMore/ai-website-cloner-template",
         "homepage": "https://dsc.gg/jcodesmore",
@@ -45816,8 +45816,8 @@
           "website-clone"
         ],
         "created_at": "2026-03-13T11:14:39Z",
-        "pushed_at": "2026-10-19T22:56:31Z",
-        "updated_at": "2026-11-10T00:58:09Z",
+        "pushed_at": "2026-11-10T05:35:56Z",
+        "updated_at": "2026-11-10T22:23:32Z",
         "starred_at": "2026-04-13T16:34:41Z"
       },
       "summary": {
@@ -45882,14 +45882,14 @@
         "repo_id": 1208863101,
         "owner": "V-IOLE-T",
         "description": "基于Outlook Email的Chrome扩展：支持OpenAI OAuth古法注册与账号标签管理",
-        "stars": 325,
+        "stars": 324,
         "language": "JavaScript",
         "url": "https://github.com/V-IOLE-T/hotmail-register-extension",
         "homepage": "",
         "topics": [],
         "created_at": "2026-04-12T20:53:26Z",
         "pushed_at": "2026-04-14T17:45:46Z",
-        "updated_at": "2026-10-30T05:37:48Z",
+        "updated_at": "2026-11-10T02:21:48Z",
         "starred_at": "2026-04-13T11:02:50Z"
       },
       "summary": {
@@ -46036,7 +46036,7 @@
         "repo_id": 1214028719,
         "owner": "OpenCoworkAI",
         "description": "Open-source Claude Design alternative. One-click import your Claude Code / Codex API key. Prompt → prototype / slides / PDF. Multi-model (Claude, GPT, Gemini, Kimi, GLM, Ollama). BYOK, local-first, MIT.",
-        "stars": 8186,
+        "stars": 8198,
         "language": "TypeScript",
         "url": "https://github.com/OpenCoworkAI/open-codesign",
         "homepage": "https://opencoworkai.github.io/open-codesign/",
@@ -46063,8 +46063,8 @@
           "ui-generator"
         ],
         "created_at": "2026-04-18T03:14:33Z",
-        "pushed_at": "2026-11-04T17:00:26Z",
-        "updated_at": "2026-11-10T00:00:43Z",
+        "pushed_at": "2026-11-10T07:45:31Z",
+        "updated_at": "2026-11-10T23:08:26Z",
         "starred_at": "2026-04-23T03:51:58Z"
       },
       "summary": {
@@ -46091,14 +46091,14 @@
         "repo_id": 1219590575,
         "owner": "wzj177",
         "description": "面向电商商品图生产场景的图片套图 Skill。仓库提供一套从商品图分析、卖点提炼、Prompt 组织到成图输出的脚本与配置，适合用在淘宝、京东、拼多多、抖音等国内平台，以及独立站、Amazon 等跨境场景。",
-        "stars": 489,
+        "stars": 490,
         "language": "Python",
         "url": "https://github.com/wzj177/ecommerce-image-suite",
         "homepage": "",
         "topics": [],
         "created_at": "2026-04-24T03:01:37Z",
         "pushed_at": "2026-08-27T06:33:46Z",
-        "updated_at": "2026-11-06T19:49:05Z",
+        "updated_at": "2026-11-10T07:15:11Z",
         "starred_at": "2026-04-25T09:57:00Z"
       },
       "summary": {
@@ -46125,14 +46125,14 @@
         "repo_id": 1215153409,
         "owner": "basketikun",
         "description": "ChatGPT官网接口纯协议的逆向实现，支持GPT-Image-2模型、文本模型，兼容OpenAI接口协议，在线批量生图/编辑图，号池管理，支持可编辑PPT/PSD文件逆向，支持导入CPA、sub2api号池 、支持接入Cherry  Studio、New Api 等软件",
-        "stars": 6870,
+        "stars": 6876,
         "language": "Python",
         "url": "https://github.com/basketikun/chatgpt2api",
         "homepage": "https://linux.do",
         "topics": [],
         "created_at": "2026-04-19T14:53:01Z",
         "pushed_at": "2026-10-25T11:19:02Z",
-        "updated_at": "2026-11-09T16:06:20Z",
+        "updated_at": "2026-11-10T22:02:48Z",
         "starred_at": "2026-04-25T07:45:52Z"
       },
       "summary": {
@@ -46161,14 +46161,14 @@
         "repo_id": 1220137367,
         "owner": "ZRainbow1275",
         "description": "更好的Autoteam，实现前端到后端全方位的加强，同时可以批量获取免费号",
-        "stars": 381,
+        "stars": 382,
         "language": "Python",
         "url": "https://github.com/ZRainbow1275/AutoTeam-F",
         "homepage": "",
         "topics": [],
         "created_at": "2026-04-24T15:28:23Z",
         "pushed_at": "2026-09-05T09:36:58Z",
-        "updated_at": "2026-11-05T07:00:11Z",
+        "updated_at": "2026-11-10T13:25:18Z",
         "starred_at": "2026-04-25T02:04:24Z"
       },
       "summary": {
@@ -46273,7 +46273,7 @@
         "repo_id": 314731715,
         "owner": "asbplayer",
         "description": "Browser-based media player and Chrome extension for subtitle sentence mining",
-        "stars": 1515,
+        "stars": 1518,
         "language": "TypeScript",
         "url": "https://github.com/asbplayer/asbplayer",
         "homepage": "https://docs.asbplayer.dev",
@@ -46282,8 +46282,8 @@
           "language-learning"
         ],
         "created_at": "2020-11-21T04:24:02Z",
-        "pushed_at": "2026-11-10T01:12:50Z",
-        "updated_at": "2026-11-10T01:16:32Z",
+        "pushed_at": "2026-11-10T21:03:52Z",
+        "updated_at": "2026-11-10T15:53:22Z",
         "starred_at": "2024-10-30T06:27:58Z"
       },
       "summary": {
@@ -46354,7 +46354,7 @@
         "repo_id": 831066597,
         "owner": "MarSeventh",
         "description": "🏖️ A serverless, open-source file hosting solution built on Cloudflare. Supports image hosting, secure file storage, and personal cloud drive capabilities.",
-        "stars": 6884,
+        "stars": 6886,
         "language": "JavaScript",
         "url": "https://github.com/MarSeventh/CloudFlare-ImgBed",
         "homepage": "https://cfbed.sanyue.de",
@@ -46376,7 +46376,7 @@
         ],
         "created_at": "2024-07-19T15:24:19Z",
         "pushed_at": "2026-11-03T02:45:16Z",
-        "updated_at": "2026-11-10T01:01:07Z",
+        "updated_at": "2026-11-10T21:18:11Z",
         "starred_at": "2026-04-29T12:39:52Z"
       },
       "summary": {
@@ -46403,7 +46403,7 @@
         "repo_id": 967738751,
         "owner": "mengxi-ream",
         "description": "🐸 Read Frog - Open-source AI language learning & flashcards, an Immersive Translate alternative | 🐸 陪读蛙 - 开源 AI 语言学习与闪词卡，沉浸式翻译替代",
-        "stars": 10357,
+        "stars": 10380,
         "language": "TypeScript",
         "url": "https://github.com/mengxi-ream/read-frog",
         "homepage": "https://www.readfrog.app",
@@ -46430,8 +46430,8 @@
           "youtube-subtitles"
         ],
         "created_at": "2025-04-16T23:32:59Z",
-        "pushed_at": "2026-11-09T04:49:18Z",
-        "updated_at": "2026-11-10T01:25:43Z",
+        "pushed_at": "2026-11-10T23:11:26Z",
+        "updated_at": "2026-11-10T22:19:06Z",
         "starred_at": "2026-04-29T13:43:02Z"
       },
       "summary": {
@@ -46568,14 +46568,14 @@
         "repo_id": 1224469725,
         "owner": "Fokkyp",
         "description": "中国软件著作权申请材料 生成器 Skills，本 Skills 通过阅读本地项目，自动生成全套 .docx 软著申请材料，全开源，无须再付费购买任何软著申请服务",
-        "stars": 6310,
+        "stars": 6322,
         "language": "Python",
         "url": "https://github.com/Fokkyp/SoftwareCopyright-Skill",
         "homepage": "",
         "topics": [],
         "created_at": "2026-04-29T10:07:08Z",
         "pushed_at": "2026-10-23T11:39:27Z",
-        "updated_at": "2026-11-09T16:38:55Z",
+        "updated_at": "2026-11-10T14:46:31Z",
         "starred_at": "2026-04-30T09:40:53Z"
       },
       "summary": {
@@ -46659,7 +46659,7 @@
         ],
         "created_at": "2026-02-26T06:50:21Z",
         "pushed_at": "2026-05-28T05:35:43Z",
-        "updated_at": "2026-11-10T00:26:40Z",
+        "updated_at": "2026-11-10T20:23:07Z",
         "starred_at": "2026-05-01T11:45:51Z"
       },
       "summary": {
@@ -46720,7 +46720,7 @@
         "repo_id": 1139782619,
         "owner": "waooAI",
         "description": "首家工业级全流程 AI 影视生产平台。Industry-first professional AI Agent platform for controllable film & video production. From shorts to live-action with Hollywood-standard workflows.",
-        "stars": 14820,
+        "stars": 14828,
         "language": "TypeScript",
         "url": "https://github.com/waooAI/waoowaoo",
         "homepage": "",
@@ -46736,7 +46736,7 @@
         ],
         "created_at": "2026-01-22T12:09:36Z",
         "pushed_at": "2026-09-21T10:39:25Z",
-        "updated_at": "2026-11-09T22:01:06Z",
+        "updated_at": "2026-11-10T19:12:25Z",
         "starred_at": "2026-02-27T13:30:31Z"
       },
       "summary": {
@@ -46976,7 +46976,7 @@
         "repo_id": 1083162948,
         "owner": "SeemSeam",
         "description": "Visible multi-agent CLI workspace for mixing Codex, Claude, Gemini, Kimi, Qwen, Cursor, Copilot, Pi, OpenCode, and other AI coding agents",
-        "stars": 3618,
+        "stars": 3622,
         "language": "Python",
         "url": "https://github.com/SeemSeam/claude_codex_bridge",
         "homepage": "",
@@ -47004,7 +47004,7 @@
         ],
         "created_at": "2025-10-25T13:23:08Z",
         "pushed_at": "2026-11-07T12:01:38Z",
-        "updated_at": "2026-11-10T01:05:29Z",
+        "updated_at": "2026-11-10T14:45:06Z",
         "starred_at": "2025-12-16T11:52:18Z"
       },
       "summary": {
@@ -47155,14 +47155,14 @@
         "repo_id": 1205523418,
         "owner": "QLHazyCoder",
         "description": "Chrome扩展：支持GPT（Codex） / kiro / Grok自动注册、上传",
-        "stars": 5191,
+        "stars": 5193,
         "language": "JavaScript",
         "url": "https://github.com/QLHazyCoder/FlowPilot",
         "homepage": "https://flowpilot.qlhazycoder.top",
         "topics": [],
         "created_at": "2026-04-09T03:23:02Z",
         "pushed_at": "2026-11-09T16:01:07Z",
-        "updated_at": "2026-11-09T10:15:09Z",
+        "updated_at": "2026-11-10T16:15:28Z",
         "starred_at": "2026-04-18T05:32:07Z"
       },
       "summary": {
@@ -47189,7 +47189,7 @@
         "repo_id": 1242306767,
         "owner": "leiting-eric",
         "description": "AI 每日新闻简报 · GitHub 热门 + X 热门文章 + 行情技术分析 · 23 个数据源聚合 + LLM 中文摘要 · 本地或 GitHub Actions 部署",
-        "stars": 391,
+        "stars": 392,
         "language": "TypeScript",
         "url": "https://github.com/leiting-eric/DailyBrief",
         "homepage": "https://leiting-eric.github.io/DailyBrief/",
@@ -47204,8 +47204,8 @@
           "self-hosted"
         ],
         "created_at": "2026-05-18T10:00:52Z",
-        "pushed_at": "2026-11-10T01:32:30Z",
-        "updated_at": "2026-11-09T22:06:51Z",
+        "pushed_at": "2026-11-10T23:20:09Z",
+        "updated_at": "2026-11-10T02:00:29Z",
         "starred_at": "2026-05-24T15:52:47Z"
       },
       "summary": {
@@ -47397,7 +47397,7 @@
         "repo_id": 92807616,
         "owner": "byoungd",
         "description": "韩先凯的人生进阶指南 AI时代 中英双语终身学习指南：AI、学习 、创业、财富、爱情与人生",
-        "stars": 70319,
+        "stars": 70378,
         "language": "JavaScript",
         "url": "https://github.com/byoungd/up",
         "homepage": "https://byoungd.github.io/up/",
@@ -47412,7 +47412,7 @@
         ],
         "created_at": "2017-05-30T07:18:52Z",
         "pushed_at": "2026-11-04T03:25:03Z",
-        "updated_at": "2026-11-10T01:26:47Z",
+        "updated_at": "2026-11-10T21:52:51Z",
         "starred_at": "2026-04-24T07:48:22Z"
       },
       "summary": {
@@ -47581,14 +47581,14 @@
         "repo_id": 1137411798,
         "owner": "craft-ai-agents",
         "description": "",
-        "stars": 7320,
+        "stars": 7324,
         "language": "TypeScript",
         "url": "https://github.com/craft-ai-agents/craft-agents-oss",
         "homepage": "",
         "topics": [],
         "created_at": "2026-01-19T10:35:59Z",
         "pushed_at": "2026-11-03T16:19:52Z",
-        "updated_at": "2026-11-09T15:29:10Z",
+        "updated_at": "2026-11-10T18:30:56Z",
         "starred_at": "2026-07-13T07:40:37Z"
       },
       "summary": {
@@ -47607,7 +47607,7 @@
         "repo_id": 1070697003,
         "owner": "liangdabiao",
         "description": "一键生成英文教育短视频 - 自动生成双人流畅对话、语音讲解、教育单词图片。AI生成英语对话的播客视频！一键生成，下载视频，学英语，发抖音。 AI-generated English conversation podcast videos! Create with one click, download videos, learn English, and share on TikTok.",
-        "stars": 187,
+        "stars": 188,
         "language": "Python",
         "url": "https://github.com/liangdabiao/AI-generated-English-podcast-videos",
         "homepage": "https://skillhub.cn/skills/user_8bb4b4f5/story-handdrawn-remotion",
@@ -47616,7 +47616,7 @@
         ],
         "created_at": "2025-10-06T10:11:52Z",
         "pushed_at": "2026-06-25T16:12:04Z",
-        "updated_at": "2026-11-08T10:55:08Z",
+        "updated_at": "2026-11-10T03:34:37Z",
         "starred_at": "2026-07-14T13:08:34Z"
       },
       "summary": {
@@ -47635,14 +47635,14 @@
         "repo_id": 1137212306,
         "owner": "op7418",
         "description": "Humanizer 的汉化版本，Claude Code Skills，旨在消除文本中 AI 生成的痕迹。",
-        "stars": 22384,
+        "stars": 22493,
         "language": "Python",
         "url": "https://github.com/op7418/Humanizer-zh",
         "homepage": "",
         "topics": [],
         "created_at": "2026-01-19T04:23:44Z",
         "pushed_at": "2026-09-23T02:24:28Z",
-        "updated_at": "2026-11-10T01:35:21Z",
+        "updated_at": "2026-11-10T23:19:37Z",
         "starred_at": "2026-07-22T15:29:05Z"
       },
       "summary": {
@@ -47695,7 +47695,7 @@
         "repo_id": 1212163658,
         "owner": "kangarooking",
         "description": "把书、长视频、播客等高价值内容蒸馏成可执行的 Agent Skills（Distill high-value content from books, long-form videos, podcasts, and more into executable Agent Skills）",
-        "stars": 12532,
+        "stars": 12674,
         "language": "Python",
         "url": "https://github.com/kangarooking/cangjie-skill",
         "homepage": "",
@@ -47711,7 +47711,7 @@
         ],
         "created_at": "2026-04-16T05:54:32Z",
         "pushed_at": "2026-10-02T03:17:52Z",
-        "updated_at": "2026-11-10T01:34:44Z",
+        "updated_at": "2026-11-10T22:14:13Z",
         "starred_at": "2026-08-03T15:43:17Z"
       },
       "summary": {
@@ -47771,7 +47771,7 @@
         "repo_id": 1212662651,
         "owner": "kangarooking",
         "description": "把《认知红利》中的思维升级方法论蒸馏成 15 个可执行的 AI skill 工具包",
-        "stars": 55,
+        "stars": 57,
         "language": "N/A",
         "url": "https://github.com/kangarooking/cognitive-dividend-skill",
         "homepage": "",
@@ -47787,7 +47787,7 @@
         ],
         "created_at": "2026-04-16T15:50:18Z",
         "pushed_at": "2026-04-17T02:35:20Z",
-        "updated_at": "2026-11-06T05:34:50Z",
+        "updated_at": "2026-11-10T09:45:36Z",
         "starred_at": "2026-08-03T16:27:25Z"
       },
       "summary": {
@@ -47832,7 +47832,7 @@
         "repo_id": 928318862,
         "owner": "HKUDS",
         "description": "\"AutoAgent: Fully-Automated and Zero-Code LLM Agent Framework\"",
-        "stars": 9840,
+        "stars": 9841,
         "language": "Python",
         "url": "https://github.com/HKUDS/AutoAgent",
         "homepage": "https://arxiv.org/abs/2502.05957",
@@ -47842,7 +47842,7 @@
         ],
         "created_at": "2025-02-06T12:47:15Z",
         "pushed_at": "2025-10-16T06:35:28Z",
-        "updated_at": "2026-11-09T04:58:00Z",
+        "updated_at": "2026-11-10T17:51:45Z",
         "starred_at": "2026-08-04T20:25:23Z"
       },
       "summary": {
@@ -47861,14 +47861,14 @@
         "repo_id": 944519371,
         "owner": "lc2panda",
         "description": "alphastream 是一个由 AI 驱动的投资决策平台，通过多 Agent 协同编排系统，实时流式输出覆盖全球金融市场的深度洞察。基于 LangGraph 和 Python 构建，它无缝整合技术指标、基本面数据、资金流向分析和情绪智能，形成动态自适应的工作流。不同于传统的回测工具，alphastream 通过 SSE 将完整的决策过程——从数据获取、工具调用到最终推理——全程可视化，为投资者提供透明的可执行智能。",
-        "stars": 898,
+        "stars": 899,
         "language": "Python",
         "url": "https://github.com/lc2panda/alphastream",
         "homepage": "",
         "topics": [],
         "created_at": "2025-03-07T13:44:30Z",
         "pushed_at": "2026-08-07T09:26:46Z",
-        "updated_at": "2026-11-09T08:03:34Z",
+        "updated_at": "2026-11-10T05:39:09Z",
         "starred_at": "2025-03-08T14:38:05Z"
       },
       "summary": {
@@ -47893,8 +47893,8 @@
         "homepage": "",
         "topics": [],
         "created_at": "2026-08-10T09:06:43Z",
-        "pushed_at": "2026-11-09T12:52:43Z",
-        "updated_at": "2026-11-09T19:02:27Z",
+        "pushed_at": "2026-11-10T12:39:20Z",
+        "updated_at": "2026-11-10T12:39:25Z",
         "starred_at": "2026-08-11T06:14:57Z"
       },
       "summary": {
@@ -47903,7 +47903,7 @@
         "tags_zh": [],
         "tags_en": []
       },
-      "pushed_at": "2026-11-09T12:52:43Z",
+      "pushed_at": "2026-11-10T12:39:20Z",
       "updated_at": "2026-11-10"
     },
     "OWD-AI/AutoAgents": {
@@ -47939,7 +47939,7 @@
         "repo_id": 1333065091,
         "owner": "deepseek-ai",
         "description": "DeepSeek Harness: Everything is a Plugin.",
-        "stars": 277402,
+        "stars": 278173,
         "language": "TypeScript",
         "url": "https://github.com/deepseek-ai/deepseek-harness",
         "homepage": "https://deepseek.com/harness",
@@ -47951,7 +47951,7 @@
         ],
         "created_at": "2026-08-13T11:56:32Z",
         "pushed_at": "2026-11-04T13:06:39Z",
-        "updated_at": "2026-11-10T01:37:05Z",
+        "updated_at": "2026-11-10T23:27:42Z",
         "starred_at": "2026-08-14T02:02:36Z"
       },
       "summary": {
@@ -48001,7 +48001,7 @@
         "repo_id": 1195828337,
         "owner": "titanwings",
         "description": "Distilly — Distill how they think into reusable Skills for any Agent or Bot. Formerly Colleague Skill（原同事 Skill）.",
-        "stars": 26478,
+        "stars": 26500,
         "language": "Python",
         "url": "https://github.com/titanwings/distilly",
         "homepage": "",
@@ -48028,7 +48028,7 @@
         ],
         "created_at": "2026-03-30T05:22:23Z",
         "pushed_at": "2026-10-13T05:57:17Z",
-        "updated_at": "2026-11-10T01:24:01Z",
+        "updated_at": "2026-11-10T22:48:12Z",
         "starred_at": "2026-03-31T07:42:10Z"
       },
       "summary": {
@@ -48047,7 +48047,7 @@
         "repo_id": 1331636953,
         "owner": "zhu1090093659",
         "description": "DeepSeek Harness (DSH) Web 插件聚合生态 · 万物皆插件，通过创意工坊分发｜｜DeepSeek Harness (DSH) Web Plugin Aggregation Ecosystem · Everything is a plugin, distributed via the Creative Workshop",
-        "stars": 10284,
+        "stars": 10315,
         "language": "TypeScript",
         "url": "https://github.com/zhu1090093659/dsh-web",
         "homepage": "https://dsh-market.com",
@@ -48060,8 +48060,8 @@
           "dsh-web-ui"
         ],
         "created_at": "2026-08-12T05:15:20Z",
-        "pushed_at": "2026-11-09T16:38:09Z",
-        "updated_at": "2026-11-10T01:35:30Z",
+        "pushed_at": "2026-11-10T14:03:05Z",
+        "updated_at": "2026-11-10T20:08:14Z",
         "starred_at": "2026-08-14T02:09:29Z"
       },
       "summary": {
@@ -48070,7 +48070,7 @@
         "tags_zh": [],
         "tags_en": []
       },
-      "pushed_at": "2026-11-09T16:38:09Z",
+      "pushed_at": "2026-11-10T14:03:05Z",
       "updated_at": "2026-11-10"
     },
     "ouomj/my_tvbox": {
@@ -48080,14 +48080,14 @@
         "repo_id": 929735583,
         "owner": "ouomj",
         "description": "用于整合影视仓/tvbox本地包，提高访问速度",
-        "stars": 121,
+        "stars": 120,
         "language": "PHP",
         "url": "https://github.com/ouomj/my_tvbox",
         "homepage": "",
         "topics": [],
         "created_at": "2025-02-09T09:13:43Z",
         "pushed_at": "2026-10-12T07:20:32Z",
-        "updated_at": "2026-11-06T07:45:59Z",
+        "updated_at": "2026-11-10T12:55:25Z",
         "starred_at": "2025-03-12T07:24:08Z"
       },
       "summary": {
@@ -48118,8 +48118,8 @@
           "personal-assistant"
         ],
         "created_at": "2026-01-12T09:27:39Z",
-        "pushed_at": "2026-11-09T18:54:05Z",
-        "updated_at": "2026-11-09T08:21:09Z",
+        "pushed_at": "2026-11-10T03:55:46Z",
+        "updated_at": "2026-11-10T17:37:32Z",
         "starred_at": "2026-03-01T15:01:47Z"
       },
       "summary": {
@@ -48128,7 +48128,7 @@
         "tags_zh": [],
         "tags_en": []
       },
-      "pushed_at": "2026-11-09T18:54:05Z",
+      "pushed_at": "2026-11-10T03:55:46Z",
       "updated_at": "2026-11-10"
     },
     "Alucard-Hellsings/Typography": {
@@ -48164,14 +48164,14 @@
         "repo_id": 1357699236,
         "owner": "ashemag",
         "description": "Open-source 3D anatomy explorer: 2,234 selectable BodyParts3D meshes, system layers, search, and exploded views.",
-        "stars": 4513,
+        "stars": 4523,
         "language": "TypeScript",
         "url": "https://github.com/ashemag/human-atlas",
         "homepage": "https://human-atlas-seven.vercel.app",
         "topics": [],
         "created_at": "2026-09-05T00:24:43Z",
         "pushed_at": "2026-09-06T23:35:06Z",
-        "updated_at": "2026-11-10T00:52:03Z",
+        "updated_at": "2026-11-10T19:01:58Z",
         "starred_at": "2026-09-08T23:29:48Z"
       },
       "summary": {
@@ -48245,7 +48245,7 @@
         "repo_id": 1383809012,
         "owner": "yetone",
         "description": "Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.",
-        "stars": 33129,
+        "stars": 33861,
         "language": "Go",
         "url": "https://github.com/yetone/magpie",
         "homepage": "https://usemagpie.ai",
@@ -48258,8 +48258,8 @@
           "macos"
         ],
         "created_at": "2026-09-23T16:22:35Z",
-        "pushed_at": "2026-11-10T01:23:58Z",
-        "updated_at": "2026-11-10T01:35:34Z",
+        "pushed_at": "2026-11-10T23:24:44Z",
+        "updated_at": "2026-11-10T23:02:12Z",
         "starred_at": "2026-10-05T14:02:33Z"
       },
       "summary": {
@@ -48268,7 +48268,7 @@
         "tags_zh": [],
         "tags_en": []
       },
-      "pushed_at": "2026-11-10T01:23:58Z",
+      "pushed_at": "2026-11-10T23:24:44Z",
       "updated_at": "2026-11-10"
     },
     "niubihu1/tvbox": {
@@ -48278,7 +48278,7 @@
         "repo_id": 589890317,
         "owner": "niubihu1",
         "description": "🐯 牛虎 ┃ TVBox 旗舰聚合接口 · 4K原画秒播 · 纯净零广告 · 2000+高清电视直播(含EPG台标) · 影音壳单仓与多仓精选 · 双核爬虫驱动 · 大数据共识优选 · 每日自动巡检保活与去死链",
-        "stars": 215,
+        "stars": 221,
         "language": "JavaScript",
         "url": "https://github.com/niubihu1/tvbox",
         "homepage": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox/main/1.json",
@@ -48295,8 +48295,8 @@
           "vod"
         ],
         "created_at": "2023-01-17T07:20:58Z",
-        "pushed_at": "2026-11-08T23:29:34Z",
-        "updated_at": "2026-11-08T23:29:37Z",
+        "pushed_at": "2026-11-10T02:37:39Z",
+        "updated_at": "2026-11-10T16:14:27Z",
         "starred_at": "2023-12-11T02:06:11Z"
       },
       "summary": {
@@ -48305,7 +48305,7 @@
         "tags_zh": [],
         "tags_en": []
       },
-      "pushed_at": "2026-11-08T23:29:34Z",
+      "pushed_at": "2026-11-10T02:37:39Z",
       "updated_at": "2026-11-10"
     },
     "laoma528/awesome-zhuiju-free": {
@@ -48315,7 +48315,7 @@
         "repo_id": 1260652867,
         "owner": "laoma528",
         "description": "免费无广告的追剧资源指南，人工精选资源、每天检测资源有效性。收录在线影视、影视APP、网盘搜索、磁力BT、字幕、TVBox / 影视仓空壳软件/配置地址、IPTV直播源、会员拼团、影视相关开源项目。开源，社区共同维护。",
-        "stars": 15040,
+        "stars": 15107,
         "language": "JavaScript",
         "url": "https://github.com/laoma528/awesome-zhuiju-free",
         "homepage": "https://zhuiju.me",
@@ -48339,7 +48339,7 @@
         ],
         "created_at": "2026-06-05T18:14:45Z",
         "pushed_at": "2026-11-10T01:12:15Z",
-        "updated_at": "2026-11-10T01:12:19Z",
+        "updated_at": "2026-11-10T23:23:45Z",
         "starred_at": "2026-08-03T12:27:33Z"
       },
       "summary": {
@@ -48382,7 +48382,7 @@
         "repo_id": 1406706284,
         "owner": "alchaincyf",
         "description": "艺术动画skill：35种艺术风格、9种解说语法，用代码让画动起来。",
-        "stars": 6626,
+        "stars": 6698,
         "language": "JavaScript",
         "url": "https://github.com/alchaincyf/huashu-art-motion",
         "homepage": "",
@@ -48401,8 +48401,8 @@
           "video"
         ],
         "created_at": "2026-10-06T04:49:37Z",
-        "pushed_at": "2026-10-16T17:03:31Z",
-        "updated_at": "2026-11-10T01:05:10Z",
+        "pushed_at": "2026-11-10T01:40:26Z",
+        "updated_at": "2026-11-10T23:22:17Z",
         "starred_at": "2026-10-08T07:55:57Z"
       },
       "summary": {
@@ -48411,7 +48411,7 @@
         "tags_zh": [],
         "tags_en": []
       },
-      "pushed_at": "2026-10-16T17:03:31Z",
+      "pushed_at": "2026-11-10T01:40:26Z",
       "updated_at": "2026-11-10"
     },
     "murray17/rovai-ai": {
@@ -48421,7 +48421,7 @@
         "repo_id": 1303608426,
         "owner": "murray17",
         "description": "Desktop and web workspace for lasting teams of coding agents, with shared conversations, task delegation, and collaborative memory.",
-        "stars": 258,
+        "stars": 260,
         "language": "Rust",
         "url": "https://github.com/murray17/rovai-ai",
         "homepage": "https://rovai.dev/",
@@ -48438,8 +48438,8 @@
           "rpg"
         ],
         "created_at": "2026-07-17T05:39:30Z",
-        "pushed_at": "2026-11-09T16:22:34Z",
-        "updated_at": "2026-11-09T16:22:41Z",
+        "pushed_at": "2026-11-10T16:46:34Z",
+        "updated_at": "2026-11-10T16:28:42Z",
         "starred_at": "2026-10-09T06:23:44Z"
       },
       "summary": {
@@ -48448,7 +48448,7 @@
         "tags_zh": [],
         "tags_en": []
       },
-      "pushed_at": "2026-11-09T16:22:34Z",
+      "pushed_at": "2026-11-10T16:46:34Z",
       "updated_at": "2026-11-10"
     },
     "akiralereal/iptv": {
@@ -48458,7 +48458,7 @@
         "repo_id": 1150366077,
         "owner": "akiralereal",
         "description": "开箱即有 800+ 可稳定流畅播放频道的自托管 IPTV 直播源管理与分发系统，聚合了央视频、咪咕、央视、卫视、凤凰卫视、亚太、国际、地方台、体育赛事、抖音直播、B 站直播、斗鱼直播、虎牙直播、百视通、红牛、Redbull、NBA、足球、Xumo、体育直播等，以及自定义抓取源和订阅，并提供 EPG 节目单与聚合功能；另外还自带 GUI 可视化管理后台，支持 Docker Compose 或 Node.js 运行，适合 NAS 与家庭服务器。",
-        "stars": 1917,
+        "stars": 1934,
         "language": "JavaScript",
         "url": "https://github.com/akiralereal/iptv",
         "homepage": "https://ifansclub.com/",
@@ -48470,8 +48470,8 @@
           "yangshipin"
         ],
         "created_at": "2026-02-05T07:33:46Z",
-        "pushed_at": "2026-11-09T14:36:23Z",
-        "updated_at": "2026-11-09T16:08:30Z",
+        "pushed_at": "2026-11-10T14:25:22Z",
+        "updated_at": "2026-11-10T20:18:18Z",
         "starred_at": "2026-10-08T23:42:30Z"
       },
       "summary": {
@@ -48480,7 +48480,7 @@
         "tags_zh": [],
         "tags_en": []
       },
-      "pushed_at": "2026-11-09T14:36:23Z",
+      "pushed_at": "2026-11-10T14:25:22Z",
       "updated_at": "2026-11-10"
     },
     "fevrax/datamorph": {
@@ -48516,7 +48516,7 @@
         "repo_id": 1385896447,
         "owner": "Ebony-Vinyl",
         "description": "在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 DeepSeek V4.1 Flash、Kimi K3 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there, DeepSeek V4.1 Flash and Kimi K3 among them. Completely free, with no usage cap.",
-        "stars": 67413,
+        "stars": 68681,
         "language": "JavaScript",
         "url": "https://github.com/Ebony-Vinyl/dsh-our-free-model",
         "homepage": "",
@@ -48533,8 +48533,8 @@
           "openai-compatible"
         ],
         "created_at": "2026-09-24T16:17:19Z",
-        "pushed_at": "2026-11-09T03:18:51Z",
-        "updated_at": "2026-11-10T01:36:39Z",
+        "pushed_at": "2026-11-10T12:45:26Z",
+        "updated_at": "2026-11-10T23:24:32Z",
         "starred_at": "2026-10-12T16:03:17Z"
       },
       "summary": {
@@ -48543,7 +48543,7 @@
         "tags_zh": [],
         "tags_en": []
       },
-      "pushed_at": "2026-11-09T03:18:51Z",
+      "pushed_at": "2026-11-10T12:45:26Z",
       "updated_at": "2026-11-10"
     },
     "sutao2/CueTuck": {
@@ -48615,7 +48615,7 @@
         "repo_id": 1408550900,
         "owner": "honwee",
         "description": "Mynah — self-hosted realtime digital human. One GPU, full admin console, Apache-2.0. 自己服务器上的实时数字人系统",
-        "stars": 252,
+        "stars": 276,
         "language": "Go",
         "url": "https://github.com/honwee/mynah",
         "homepage": "https://honwee.github.io/mynah/",
@@ -48633,7 +48633,7 @@
         ],
         "created_at": "2026-10-07T09:27:35Z",
         "pushed_at": "2026-10-24T13:15:50Z",
-        "updated_at": "2026-11-10T01:26:27Z",
+        "updated_at": "2026-11-10T13:10:20Z",
         "starred_at": "2026-10-14T03:18:17Z"
       },
       "summary": {
@@ -48652,14 +48652,14 @@
         "repo_id": 1379137016,
         "owner": "omnirush-ai",
         "description": "A desktop coding agent with free access to frontier models.",
-        "stars": 4934,
+        "stars": 4966,
         "language": "TypeScript",
         "url": "https://github.com/omnirush-ai/omnirush-gui",
         "homepage": "https://omnirush.ai",
         "topics": [],
         "created_at": "2026-09-21T05:26:26Z",
-        "pushed_at": "2026-11-09T21:49:27Z",
-        "updated_at": "2026-11-10T00:55:55Z",
+        "pushed_at": "2026-11-10T15:03:58Z",
+        "updated_at": "2026-11-10T23:17:59Z",
         "starred_at": "2026-10-15T05:57:20Z"
       },
       "summary": {
@@ -48668,7 +48668,7 @@
         "tags_zh": [],
         "tags_en": []
       },
-      "pushed_at": "2026-11-09T21:49:27Z",
+      "pushed_at": "2026-11-10T15:03:58Z",
       "updated_at": "2026-11-10"
     },
     "scholay/xsime": {
@@ -48734,7 +48734,7 @@
         "repo_id": 1306036434,
         "owner": "mvalentsev",
         "description": "📡 Legal free LLM APIs & coding agents — self-updating, probe-verified twice a week. Free tiers, no-card trials, free models.",
-        "stars": 134,
+        "stars": 137,
         "language": "Python",
         "url": "https://github.com/mvalentsev/awesome-free-ai-coding",
         "homepage": "https://mvalentsev.github.io/awesome-free-ai-coding/",
@@ -48761,8 +48761,8 @@
           "openrouter"
         ],
         "created_at": "2026-07-19T21:56:29Z",
-        "pushed_at": "2026-11-09T22:51:13Z",
-        "updated_at": "2026-11-09T22:51:19Z",
+        "pushed_at": "2026-11-10T23:19:35Z",
+        "updated_at": "2026-11-10T21:37:02Z",
         "starred_at": "2026-10-17T04:44:44Z"
       },
       "summary": {
@@ -48771,7 +48771,7 @@
         "tags_zh": [],
         "tags_en": []
       },
-      "pushed_at": "2026-11-09T22:51:13Z",
+      "pushed_at": "2026-11-10T23:19:35Z",
       "updated_at": "2026-11-10"
     },
     "javranking/javranking-extension": {
@@ -48781,7 +48781,7 @@
         "repo_id": 1359600707,
         "owner": "javranking",
         "description": "Show all JAV cover and ranking in one click.",
-        "stars": 1033,
+        "stars": 1034,
         "language": "TypeScript",
         "url": "https://github.com/javranking/javranking-extension",
         "homepage": "https://javranking.cc/zh-hans/extension/",
@@ -48793,7 +48793,7 @@
         ],
         "created_at": "2026-09-07T00:19:59Z",
         "pushed_at": "2026-10-27T23:04:58Z",
-        "updated_at": "2026-11-09T20:53:13Z",
+        "updated_at": "2026-11-10T15:47:45Z",
         "starred_at": "2026-09-14T03:48:31Z"
       },
       "summary": {
@@ -48812,7 +48812,7 @@
         "repo_id": 1424207105,
         "owner": "HeyChengC",
         "description": "华尔街式财经/科技解读短片 skill：设计思路、风格语言，以及找片、截图、配音、渲染和混音工具。",
-        "stars": 646,
+        "stars": 672,
         "language": "JavaScript",
         "url": "https://github.com/HeyChengC/wallstreet-explainer",
         "homepage": "",
@@ -48834,7 +48834,7 @@
         ],
         "created_at": "2026-10-18T09:33:56Z",
         "pushed_at": "2026-11-05T09:06:48Z",
-        "updated_at": "2026-11-09T21:56:32Z",
+        "updated_at": "2026-11-10T15:20:15Z",
         "starred_at": "2026-10-20T01:24:46Z"
       },
       "summary": {
@@ -48890,14 +48890,14 @@
         "repo_id": 1176073946,
         "owner": "black-ant",
         "description": "指纹浏览器",
-        "stars": 2131,
+        "stars": 2134,
         "language": "Go",
         "url": "https://github.com/black-ant/Ant-Browser",
         "homepage": "",
         "topics": [],
         "created_at": "2026-03-08T15:28:35Z",
-        "pushed_at": "2026-11-09T15:39:44Z",
-        "updated_at": "2026-11-09T16:48:15Z",
+        "pushed_at": "2026-11-10T15:37:29Z",
+        "updated_at": "2026-11-10T19:44:30Z",
         "starred_at": "2026-10-22T23:58:10Z"
       },
       "summary": {
@@ -48906,7 +48906,7 @@
         "tags_zh": [],
         "tags_en": []
       },
-      "pushed_at": "2026-11-09T15:39:44Z",
+      "pushed_at": "2026-11-10T15:37:29Z",
       "updated_at": "2026-11-10"
     },
     "martinkeith700/ruyiJS": {
@@ -48951,14 +48951,14 @@
         "repo_id": 1422274723,
         "owner": "liangdabiao",
         "description": "MG动画视频skill, 抖音爆款Vibe知识大赏知识短片 ，  自动配音效，一键出片。图文讲解视频 skill  —— 把讲解稿变成「手绘会动的画面」讲解视频。  图形由代码逐笔绘出、文字逐字写出、讲到哪画到哪。五套风格可选，本地 Chrome 渲染， 零生图 API 成本 ，任何改动秒级重渲。",
-        "stars": 530,
+        "stars": 537,
         "language": "Python",
         "url": "https://github.com/liangdabiao/whiteboard-teacher-video",
         "homepage": "https://agents.liangdabiao.com/",
         "topics": [],
         "created_at": "2026-10-16T14:33:12Z",
         "pushed_at": "2026-11-08T06:26:05Z",
-        "updated_at": "2026-11-10T01:17:34Z",
+        "updated_at": "2026-11-10T15:25:10Z",
         "starred_at": "2026-10-28T06:58:56Z"
       },
       "summary": {
@@ -48977,7 +48977,7 @@
         "repo_id": 1179413000,
         "owner": "Narcooo",
         "description": "Story Creation AI Agent for novel, scripts, translation, interactive games, and IP content",
-        "stars": 11088,
+        "stars": 11108,
         "language": "TypeScript",
         "url": "https://github.com/Narcooo/inkos",
         "homepage": "",
@@ -48996,7 +48996,7 @@
         ],
         "created_at": "2026-03-12T02:12:54Z",
         "pushed_at": "2026-10-24T05:30:14Z",
-        "updated_at": "2026-11-09T23:30:42Z",
+        "updated_at": "2026-11-10T18:30:23Z",
         "starred_at": "2026-10-28T06:48:08Z"
       },
       "summary": {
@@ -49015,7 +49015,7 @@
         "repo_id": 1435757109,
         "owner": "joeseesun",
         "description": "原版乔木 UI 学习的 DeepSeek Harness 迁移版：13561 设计参考、106 交互标本、审美测验与 Markdown 学习笔记",
-        "stars": 83,
+        "stars": 84,
         "language": "TypeScript",
         "url": "https://github.com/joeseesun/qiaomu-ui-learn-dsh",
         "homepage": "",
@@ -49027,7 +49027,7 @@
         ],
         "created_at": "2026-10-27T13:18:35Z",
         "pushed_at": "2026-11-04T14:29:52Z",
-        "updated_at": "2026-11-07T04:09:05Z",
+        "updated_at": "2026-11-10T12:36:33Z",
         "starred_at": "2026-10-29T14:42:11Z"
       },
       "summary": {
@@ -49046,14 +49046,14 @@
         "repo_id": 1438018242,
         "owner": "paipiange",
         "description": "1407 张 AI 女装参考图集与虚拟试穿网站，支持中英检索、OpenAI Images / Gemini / 豆包及自定义 Base URL、API Key、模型。https://github.com/paipiange/nvzhuang",
-        "stars": 2673,
+        "stars": 2721,
         "language": "Go",
         "url": "https://github.com/paipiange/nvzhuang",
         "homepage": "https://paipiange.github.io/nvzhuang/",
         "topics": [],
         "created_at": "2026-10-29T06:08:00Z",
-        "pushed_at": "2026-11-08T05:25:36Z",
-        "updated_at": "2026-11-10T01:34:45Z",
+        "pushed_at": "2026-11-10T07:40:37Z",
+        "updated_at": "2026-11-10T23:29:09Z",
         "starred_at": "2026-10-29T14:10:03Z"
       },
       "summary": {
@@ -49062,7 +49062,7 @@
         "tags_zh": [],
         "tags_en": []
       },
-      "pushed_at": "2026-11-08T05:25:36Z",
+      "pushed_at": "2026-11-10T07:40:37Z",
       "updated_at": "2026-11-10"
     },
     "guoyue2010/lxmusic-": {
@@ -49072,14 +49072,14 @@
         "repo_id": 878927137,
         "owner": "guoyue2010",
         "description": "lxmusic(洛雪音乐)全网最新最全音源",
-        "stars": 6902,
+        "stars": 6914,
         "language": "JavaScript",
         "url": "https://github.com/guoyue2010/lxmusic-",
         "homepage": "https://guoyue2010.com",
         "topics": [],
         "created_at": "2024-10-26T13:48:36Z",
         "pushed_at": "2026-11-08T15:35:40Z",
-        "updated_at": "2026-11-10T01:30:20Z",
+        "updated_at": "2026-11-10T19:22:44Z",
         "starred_at": "2026-10-29T09:41:06Z"
       },
       "summary": {
@@ -49129,7 +49129,7 @@
         "repo_id": 1192845474,
         "owner": "Mangi-11",
         "description": "System-level Android AI Agent with direct OS access. | Android 系统级 AI Agent——越过沙盒，让模型访问底层API、屏幕、终端与你的数据",
-        "stars": 2756,
+        "stars": 2780,
         "language": "Kotlin",
         "url": "https://github.com/Mangi-11/Eta",
         "homepage": "",
@@ -49145,8 +49145,8 @@
           "xiaomi"
         ],
         "created_at": "2026-03-26T16:07:24Z",
-        "pushed_at": "2026-11-09T09:42:50Z",
-        "updated_at": "2026-11-09T22:18:47Z",
+        "pushed_at": "2026-11-10T20:14:16Z",
+        "updated_at": "2026-11-10T22:43:11Z",
         "starred_at": "2026-10-31T08:10:37Z"
       },
       "summary": {
@@ -49155,7 +49155,7 @@
         "tags_zh": [],
         "tags_en": []
       },
-      "pushed_at": "2026-11-09T09:42:50Z",
+      "pushed_at": "2026-11-10T20:14:16Z",
       "updated_at": "2026-11-10"
     },
     "Yricky/proxycrab": {
@@ -49165,7 +49165,7 @@
         "repo_id": 1378544161,
         "owner": "Yricky",
         "description": "面向开发者与 AI Agent 的开源流量调试工作台，让业务异常可筛选、调试修改可追溯、排查现场可分享。",
-        "stars": 291,
+        "stars": 302,
         "language": "Rust",
         "url": "https://github.com/Yricky/proxycrab",
         "homepage": "",
@@ -49182,7 +49182,7 @@
         ],
         "created_at": "2026-09-20T16:27:08Z",
         "pushed_at": "2026-11-08T06:01:36Z",
-        "updated_at": "2026-11-09T16:12:35Z",
+        "updated_at": "2026-11-10T16:19:04Z",
         "starred_at": "2026-11-01T06:22:01Z"
       },
       "summary": {
@@ -49201,14 +49201,14 @@
         "repo_id": 1327328463,
         "owner": "scholay-xsime",
         "description": "XSIME / 犀术IME / 犀術IME — 心有灵犀，落笔见术。Cross-platform input method and text workbench, powered by Rime.",
-        "stars": 1202,
+        "stars": 1204,
         "language": "Swift",
         "url": "https://github.com/scholay-xsime/xsime",
         "homepage": "https://xsime.com",
         "topics": [],
         "created_at": "2026-08-08T01:53:32Z",
         "pushed_at": "2026-11-06T04:46:16Z",
-        "updated_at": "2026-11-09T14:32:55Z",
+        "updated_at": "2026-11-10T09:34:34Z",
         "starred_at": "2026-10-07T03:00:21Z"
       },
       "summary": {
@@ -49266,7 +49266,7 @@
         "repo_id": 1432967563,
         "owner": "ccch1mneyyy",
         "description": "dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。",
-        "stars": 17622,
+        "stars": 18649,
         "language": "Dart",
         "url": "https://github.com/ccch1mneyyy/dsh-Go",
         "homepage": "",
@@ -49284,8 +49284,8 @@
           "llm"
         ],
         "created_at": "2026-10-25T08:09:52Z",
-        "pushed_at": "2026-11-09T21:32:53Z",
-        "updated_at": "2026-11-10T01:37:09Z",
+        "pushed_at": "2026-11-10T18:24:50Z",
+        "updated_at": "2026-11-10T23:27:33Z",
         "starred_at": "2026-11-02T05:53:48Z"
       },
       "summary": {
@@ -49294,7 +49294,7 @@
         "tags_zh": [],
         "tags_en": []
       },
-      "pushed_at": "2026-11-09T21:32:53Z",
+      "pushed_at": "2026-11-10T18:24:50Z",
       "updated_at": "2026-11-10"
     },
     "volcengine/OpenViking": {
@@ -49304,7 +49304,7 @@
         "repo_id": 1128123594,
         "owner": "volcengine",
         "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
-        "stars": 41880,
+        "stars": 41959,
         "language": "Python",
         "url": "https://github.com/volcengine/OpenViking",
         "homepage": "https://openviking.ai",
@@ -49322,8 +49322,8 @@
           "vector-database"
         ],
         "created_at": "2026-01-05T07:11:17Z",
-        "pushed_at": "2026-11-09T19:10:50Z",
-        "updated_at": "2026-11-10T01:29:29Z",
+        "pushed_at": "2026-11-10T20:16:45Z",
+        "updated_at": "2026-11-10T22:51:34Z",
         "starred_at": "2026-11-02T06:52:56Z"
       },
       "summary": {
@@ -49332,7 +49332,7 @@
         "tags_zh": [],
         "tags_en": []
       },
-      "pushed_at": "2026-11-09T19:10:50Z",
+      "pushed_at": "2026-11-10T20:16:45Z",
       "updated_at": "2026-11-10"
     },
     "GUYI-AI/gugu": {
@@ -49342,7 +49342,7 @@
         "repo_id": 1428236928,
         "owner": "GUYI-AI",
         "description": "gugu connects your agents and your people: sharing context, handing off work, thinking together.",
-        "stars": 307,
+        "stars": 310,
         "language": "TypeScript",
         "url": "https://github.com/GUYI-AI/gugu",
         "homepage": "https://gugu.nextmind.space",
@@ -49355,8 +49355,8 @@
           "supabase"
         ],
         "created_at": "2026-10-21T10:41:55Z",
-        "pushed_at": "2026-11-10T01:20:14Z",
-        "updated_at": "2026-11-10T01:18:36Z",
+        "pushed_at": "2026-11-10T16:16:41Z",
+        "updated_at": "2026-11-10T17:19:19Z",
         "starred_at": "2026-10-30T07:16:33Z"
       },
       "summary": {
@@ -49365,7 +49365,7 @@
         "tags_zh": [],
         "tags_en": []
       },
-      "pushed_at": "2026-11-10T01:20:14Z",
+      "pushed_at": "2026-11-10T16:16:41Z",
       "updated_at": "2026-11-10"
     },
     "HunYiSage/dsh-purge": {
@@ -49526,8 +49526,8 @@
         "homepage": "",
         "topics": [],
         "created_at": "2026-10-31T14:42:34Z",
-        "pushed_at": "2026-11-08T11:05:05Z",
-        "updated_at": "2026-11-09T08:40:05Z",
+        "pushed_at": "2026-11-10T14:33:48Z",
+        "updated_at": "2026-11-10T14:33:54Z",
         "starred_at": "2026-11-04T23:09:00Z"
       },
       "summary": {
@@ -49536,7 +49536,7 @@
         "tags_zh": [],
         "tags_en": []
       },
-      "pushed_at": "2026-11-08T11:05:05Z",
+      "pushed_at": "2026-11-10T14:33:48Z",
       "updated_at": "2026-11-10"
     },
     "Minireel/HGhub": {
@@ -49546,8 +49546,8 @@
         "repo_id": 1444372497,
         "owner": "Minireel",
         "description": "YellowFruit third-party client",
-        "stars": 6329,
-        "language": "TypeScript",
+        "stars": 8120,
+        "language": "N/A",
         "url": "https://github.com/Minireel/HGhub",
         "homepage": "",
         "topics": [
@@ -49559,8 +49559,8 @@
           "windows"
         ],
         "created_at": "2026-11-03T14:04:27Z",
-        "pushed_at": "2026-11-10T01:28:20Z",
-        "updated_at": "2026-11-10T01:37:39Z",
+        "pushed_at": "2026-11-10T13:42:26Z",
+        "updated_at": "2026-11-10T23:30:13Z",
         "starred_at": "2026-11-04T06:19:52Z"
       },
       "summary": {
@@ -49569,7 +49569,7 @@
         "tags_zh": [],
         "tags_en": []
       },
-      "pushed_at": "2026-11-10T01:28:20Z",
+      "pushed_at": "2026-11-10T13:42:26Z",
       "updated_at": "2026-11-10"
     },
     "Fei2411/DS-Bot": {
@@ -49579,7 +49579,7 @@
         "repo_id": 1409013846,
         "owner": "Fei2411",
         "description": "A team of long-lived bots for DeepSeek Harness, with main bots, bot-to-bot messages and group chats.",
-        "stars": 6636,
+        "stars": 6836,
         "language": "JavaScript",
         "url": "https://github.com/Fei2411/DS-Bot",
         "homepage": "",
@@ -49590,8 +49590,8 @@
           "multi-agent"
         ],
         "created_at": "2026-10-07T15:37:36Z",
-        "pushed_at": "2026-11-10T01:26:33Z",
-        "updated_at": "2026-11-10T01:35:12Z",
+        "pushed_at": "2026-11-10T18:38:52Z",
+        "updated_at": "2026-11-10T22:33:21Z",
         "starred_at": "2026-11-05T02:41:10Z"
       },
       "summary": {
@@ -49600,7 +49600,7 @@
         "tags_zh": [],
         "tags_en": []
       },
-      "pushed_at": "2026-11-10T01:26:33Z",
+      "pushed_at": "2026-11-10T18:38:52Z",
       "updated_at": "2026-11-10"
     },
     "ZxxXinI/tvbox": {
@@ -49610,7 +49610,7 @@
         "repo_id": 1259273153,
         "owner": "ZxxXinI",
         "description": "面向 Android 9+ 电视盒子与 Android TV 的影视播放应用，支持电视直播、电影点播、平台直播及遥控器操作。内置多条播放源",
-        "stars": 266,
+        "stars": 267,
         "language": "Kotlin",
         "url": "https://github.com/ZxxXinI/tvbox",
         "homepage": "",
@@ -49628,7 +49628,7 @@
         ],
         "created_at": "2026-06-04T10:50:08Z",
         "pushed_at": "2026-10-13T03:43:29Z",
-        "updated_at": "2026-11-10T01:18:40Z",
+        "updated_at": "2026-11-10T14:44:28Z",
         "starred_at": "2026-11-06T00:35:34Z"
       },
       "summary": {
@@ -49673,7 +49673,7 @@
         "repo_id": 1202203399,
         "owner": "YangYuHou",
         "description": "A project converting the Qwen web page to an API.  ",
-        "stars": 969,
+        "stars": 971,
         "language": "Go",
         "url": "https://github.com/YangYuHou/qwen2API",
         "homepage": "https://t.me/qwen2api",
@@ -49687,7 +49687,7 @@
         ],
         "created_at": "2026-04-05T18:26:45Z",
         "pushed_at": "2026-06-13T14:42:47Z",
-        "updated_at": "2026-11-09T03:11:10Z",
+        "updated_at": "2026-11-10T14:29:33Z",
         "starred_at": "2026-04-07T07:06:33Z"
       },
       "summary": {
@@ -49713,7 +49713,7 @@
         "topics": [],
         "created_at": "2026-01-22T15:17:36Z",
         "pushed_at": "2026-01-22T18:02:18Z",
-        "updated_at": "2026-11-09T05:17:12Z",
+        "updated_at": "2026-11-10T19:58:53Z",
         "starred_at": "2026-01-23T03:02:07Z"
       },
       "summary": {
@@ -49732,14 +49732,14 @@
         "repo_id": 1138100119,
         "owner": "YangYuHou",
         "description": "深度解析链接、文档或代码，生成“全能导师级”的教学笔记",
-        "stars": 662,
+        "stars": 661,
         "language": "Python",
         "url": "https://github.com/YangYuHou/StudyAnalysis-Skills",
         "homepage": "",
         "topics": [],
         "created_at": "2026-01-20T08:42:35Z",
         "pushed_at": "2026-03-16T16:52:53Z",
-        "updated_at": "2026-11-09T07:18:57Z",
+        "updated_at": "2026-11-10T09:06:18Z",
         "starred_at": "2026-01-21T07:53:23Z"
       },
       "summary": {
@@ -49758,7 +49758,7 @@
         "repo_id": 1353356231,
         "owner": "liangdabiao",
         "description": "dsh-plugin-developer — DeepSeek Harness 插件开发 Skill  > 指导 AI Agent 从 0 到 1 开发、构建、安装、测试 DeepSeek Harness（dsh）插件。基于 **dsh 0.1.1-rc.2** 与 dsh-openmaic 项目的完整实战经验，并内置一个**已通过 web 界面实测**的天气插件作为整包参考案例。  ## 这是什么  dsh 采用\"无特权内核、万物皆插件\"的设计：模型适配器、工具注册表、Agent 循环、网页界面都是插件",
-        "stars": 43,
+        "stars": 44,
         "language": "JavaScript",
         "url": "https://github.com/liangdabiao/dsh-plugin-developer-skill",
         "homepage": "https://liangdabiao.github.io/DSH-openmaic/index.html",
@@ -49771,7 +49771,7 @@
         ],
         "created_at": "2026-09-01T09:04:45Z",
         "pushed_at": "2026-11-08T01:11:31Z",
-        "updated_at": "2026-11-09T12:40:21Z",
+        "updated_at": "2026-11-10T06:52:35Z",
         "starred_at": "2026-11-09T04:16:45Z"
       },
       "summary": {
@@ -49781,6 +49781,79 @@
         "tags_en": []
       },
       "pushed_at": "2026-11-08T01:11:31Z",
+      "updated_at": "2026-11-10"
+    },
+    "kilolonion/etymology-site": {
+      "metadata": {
+        "full_name": "kilolonion/etymology-site",
+        "name": "etymology-site",
+        "repo_id": 1424463132,
+        "owner": "kilolonion",
+        "description": "词源一日：每天一个英语词源故事（hash SPA + Hono + SQLite，邀请码注册）",
+        "stars": 28,
+        "language": "JavaScript",
+        "url": "https://github.com/kilolonion/etymology-site",
+        "homepage": "",
+        "topics": [
+          "english-learning",
+          "etymology",
+          "linux-do"
+        ],
+        "created_at": "2026-10-18T14:29:30Z",
+        "pushed_at": "2026-10-24T06:32:37Z",
+        "updated_at": "2026-11-10T12:35:40Z",
+        "starred_at": "2026-11-10T06:16:46Z"
+      },
+      "summary": {
+        "zh": "生成失败",
+        "en": "Generation failed",
+        "tags_zh": [],
+        "tags_en": []
+      },
+      "pushed_at": "2026-10-24T06:32:37Z",
+      "updated_at": "2026-11-10"
+    },
+    "xiaoyang111222/cn-math-taxonomy": {
+      "metadata": {
+        "full_name": "xiaoyang111222/cn-math-taxonomy",
+        "name": "cn-math-taxonomy",
+        "repo_id": 1424183124,
+        "owner": "xiaoyang111222",
+        "description": "数学（小学到高中）、英语（三年级到高中）、初中物理的知识图谱：1644 个知识点、2403 条先修边、6723 道题，对齐课标，附自适应前置诊断。",
+        "stars": 7439,
+        "language": "Python",
+        "url": "https://github.com/xiaoyang111222/cn-math-taxonomy",
+        "homepage": "https://math.pansgo.com/",
+        "topics": [
+          "chinese",
+          "curriculum",
+          "diagnostic",
+          "edtech",
+          "education",
+          "elementary-school",
+          "english",
+          "high-school",
+          "junior-high-school",
+          "k12",
+          "knowledge-graph",
+          "math",
+          "mathematics",
+          "middle-school",
+          "open-data",
+          "primary-school"
+        ],
+        "created_at": "2026-10-18T09:04:43Z",
+        "pushed_at": "2026-11-10T12:30:20Z",
+        "updated_at": "2026-11-10T23:15:54Z",
+        "starred_at": "2026-11-10T06:41:14Z"
+      },
+      "summary": {
+        "zh": "生成失败",
+        "en": "Generation failed",
+        "tags_zh": [],
+        "tags_en": []
+      },
+      "pushed_at": "2026-11-10T12:30:20Z",
       "updated_at": "2026-11-10"
     }
   }
